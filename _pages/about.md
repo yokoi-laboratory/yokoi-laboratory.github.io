@@ -10,10 +10,6 @@ header:
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 ---
 
-## Lab Environment
-
-Under Construction...
-
 
 ## Access
 〒190-8561 東京都立川市緑町10-2  
