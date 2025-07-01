@@ -1,0 +1,53 @@
+---
+layout: splash
+title: "Members"
+permalink: /members/
+author_profile: false
+excerpt: ""
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/img/bg.png
+  overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
+---
+
+
+<h2>Staff</h2>
+{% assign staff_ass_prof = site.members | where: "position", "Associate Professor" %}
+{% if staff_ass_prof.size > 0 %}
+  <h3>{{ staff_ass_prof.first.position }}</h3>
+  <ul>
+    {% for member in staff_ass_prof %}
+      <li>
+        {% if member.website %}
+          <a href="{{ member.website }}">{{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}</a>
+        {% else %}
+          {{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}
+        {% endif %}
+        &nbsp;({{ member.email }})
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+
+<h2>Ph.D. Students</h2>
+{% assign students_d1 = site.members | where: "position", "D1" %}
+{% assign students_d2 = site.members | where: "position", "D2" %}
+{% assign students_d3 = site.members | where: "position", "D3" %}
+{% if students_d1.size > 0 %}
+  <h3>{{ students_d1.first.position }}</h3>
+  <ul>
+    {% for member in students_d1 %}
+      <li>
+        {% if member.website %}
+          <a href="{{ member.website }}">{{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}</a>
+        {% else %}
+          {{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}
+        {% endif %}
+        &nbsp;({{ member.email }})
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+

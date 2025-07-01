@@ -1,0 +1,29 @@
+---
+layout: splash
+title: "Posts"
+permalink: /post/
+paginator: true
+author_profile: false
+excerpt: ""
+pagination:
+  enabled: true
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/img/bg.png
+  overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
+---
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=posts type=entries_layout %}
+</div>
+
+{% include paginator.html %}
+
+

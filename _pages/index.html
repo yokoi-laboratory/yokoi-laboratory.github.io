@@ -1,0 +1,148 @@
+---
+layout: home
+permalink: /
+author_profile: false
+excerpt: ""
+header:
+  overlay_image: /assets/img/bg.png
+  overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
+---
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+
+<style>
+  /* タブメニューのスタイル */
+  .tab-menu {
+    list-style: none;
+    padding: 0;
+    flex-wrap: wrap;
+  }
+
+  .tab-menu li {
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    margin-right: 5px;
+    text-align: start;
+    justify-content: center !important;
+    display: inline;
+    flex: none !important;
+    width: 120px;
+
+  }
+
+  .tab-menu li a {
+    text-decoration: none;
+    color: #333;
+    text-align: start;
+  }
+
+  .tab-menu li a:hover {
+    text-decoration: none;
+  }
+
+  .tab-menu li.active {
+    background-color: #e0e0e0;
+    color: white;
+  }
+
+  /* タブコンテンツのスタイル */
+  .tab-content {
+    margin-top: 20px;
+  }
+
+</style>
+
+<div class="tab-container">
+  <ul class="tab-menu greedy-nav">
+    <li class="active visible-links">
+      <a class="btn">All</a>
+    </li>
+    <li class="visible-links">
+      <a class="btn">News</a>
+    </li>
+    <li class="visible-links">
+      <a class="btn">Talks</a>
+    </li>
+    <li class="visible-links">
+      <a class="btn">Blogs</a>
+    </li>
+  </ul>
+  <div class="tab-content">
+
+    <div>
+      <div class="entries-{{ entries_layout }}">
+        {% assign posts = site.posts | slice: 0, site.pagination.per_page %}
+        {% include documents-collection.html entries=posts type=entries_layout %}
+      </div>
+      {% if site.posts.size > site.pagination.per_page %}
+        <a href="/post/" class="btn btn--primary">See all</a>
+      {% endif %}
+    </div>
+
+    <div style="display:none;">
+      <!-- Only where category is "News" -->
+      {% assign news = site.posts | where: "category", "News" %}
+      {% assign news_filtered = news | slice: 0, site.pagination.per_page %}
+      <div class="entries-{{ entries_layout }}">
+        {% include documents-collection.html entries=news_filtered type=entries_layout %}
+      </div>
+      {% if news.size > site.pagination.per_page %}
+        <a href="/news/" class="btn btn--primary">See all</a>
+      {% endif %}
+    </div>
+    <div style="display:none;">
+      <!-- Only where category is "Talk" -->
+      {% assign talks = site.posts | where: "category", "Talk" %}
+      {% assign talks_filtered = talks | slice: 0, site.pagination.per_page %}
+      <div class="entries-{{ entries_layout }}">
+        {% include documents-collection.html entries=talks_filtered type=entries_layout %}
+      </div>
+
+      {% if talks.size > site.pagination.per_page %}
+        <a href="/talk/" class="btn btn--primary">See all</a>
+      {% endif %}
+    </div>
+    <div style="display:none;">
+      <!-- Only where category is "Blog" -->
+      {% assign blogs = site.posts | where: "category", "Blog" %}
+      {% assign blogs_filtered = blogs | slice: 0, site.pagination.per_page %}
+      <div class="entries-{{ entries_layout }}">
+        {% include documents-collection.html entries=blogs_filtered type=entries_layout %}
+      </div>
+
+      {% if blogs.size > site.pagination.per_page %}
+        <a href="/blog/" class="btn btn--primary">See all</a>
+      {% endif %}
+
+    </div>
+  </div>
+</div>
+
+
+
+<script>
+  const tabs = document.querySelectorAll('.tab-menu li');
+  const contents = document.querySelector('.tab-content').children;
+
+  console.log(contents)
+
+
+  tabs.forEach((tab, index) => {
+    tab.addEventListener('click', () => {
+      // すべてのタブからactiveクラスを削除
+      tabs.forEach(t => t.classList.remove('active'));
+      // クリックしたタブにactiveクラスを追加
+      tab.classList.add('active');
+
+      // すべてのコンテンツを非表示に
+      Array.from(contents).forEach(c => c.style.display = 'none');
+      // 選択されたタブに対応するコンテンツを表示
+      contents[index].style.display = 'block';
+    });
+  });
+</script>
+

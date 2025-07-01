@@ -1,0 +1,79 @@
+/* Copyright comment */
+@import "minimal-mistakes/copyright";
+
+/* Variables */
+@import "minimal-mistakes/variables";
+
+/* Mixins and functions */
+@import "minimal-mistakes/vendor/breakpoint/breakpoint";
+@include breakpoint-set("to ems", true);
+@import "minimal-mistakes/vendor/magnific-popup/magnific-popup"; // Magnific Popup
+@import "minimal-mistakes/vendor/susy/susy";
+@import "minimal-mistakes/mixins";
+
+/* Core CSS */
+@import "minimal-mistakes/reset";
+@import "minimal-mistakes/base";
+@import "minimal-mistakes/forms";
+@import "minimal-mistakes/tables";
+@import "minimal-mistakes/animations";
+
+/* Components */
+@import "minimal-mistakes/buttons";
+@import "minimal-mistakes/notices";
+@import "minimal-mistakes/masthead";
+@import "minimal-mistakes/navigation";
+@import "minimal-mistakes/footer";
+@import "minimal-mistakes/search";
+@import "minimal-mistakes/syntax";
+
+/* Utility classes */
+@import "minimal-mistakes/utilities";
+
+/* Layout specific */
+@import "minimal-mistakes/page";
+@import "minimal-mistakes/archive";
+@import "minimal-mistakes/sidebar";
+@import "minimal-mistakes/print";
+
+
+// Custom styles for the site
+
+h3 {
+    margin: 1em 0 0.5em !important;
+}
+
+.post-date {
+    background-color: aqua;
+    display: inline-block;
+}
+
+.row {
+    display: flex;
+}
+
+.archive__item-tag {
+    padding: 0.5em;
+    display: inline-block;
+    display: inline-block;margin-bottom: 0.25em;
+    font-size: .6em;
+    border-radius: 4px;
+    margin-right: 5px;
+
+    &.date{
+        background-color: #373737;
+        color: #f3f3f3;
+    }
+    &.tag-News{
+        background-color: darkolivegreen;
+        color: #f3f3f3;
+    }
+    &.tag-Talk{
+        background-color: maroon;
+        color: #f3f3f3;
+    }
+    &.tag-Blog{
+        background-color: rgb(52, 88, 193);
+        color: #f3f3f3;
+    }
+}
