@@ -3,9 +3,46 @@
 ## 編集方法
 
 - GitHub上で編集する
-- Commit時には別のブランチを作成する
-- Pull Requestを作成する (マージ先は `main` ブランチ)
-- Pull Requestをレビューしてもらう
+- 新しいブランチにコミットする
+   - `Commit changes` ボタンをクリックする
+   - `Create a new branch for this commit and start a pull request` を選択
+   - ブランチ名はそのままで、`Propose changes` ボタンをクリックする
+- Pull Requestを作成する
+   - マージ先が `main` ブランチになっていることを確認する
+   - `Create pull request` ボタンをクリックする
+- 自動で Check が実行されることを確認する
+   - `github-actions` から、`Preview ready` というコメントがつく
+   - リンクをクリックして、プレビューを確認する
+      - リンクが表示されても、裏では準備ができていない場合があるので、しばらく待つ 
+   - 確認して問題がなかった場合
+      - 他の人にレビューを依頼する
+      - 問題がなければ `Set ready for review` ボタンをクリックする
+   - 問題があった場合
+      - すぐに修正できそうであれば、そのブランチ内で修正する
+      - 修正方法がわからない場合は他の人に気軽に相談する
+
+
+## 導入方法 (備忘録)
+1. Personal Access Tokenを取得する
+   - GitHubの設定から、[Developer settings] -> [Personal access tokens] -> [Tokens (classic)] -> [Generate new token]
+   - `repo` 権限を付与する
+2. Personal Access Tokenを登録する
+   - GitHubの設定から、[Settings] -> [Secrets and variables] -> [Actions] -> [New repository secret]
+   - 名前は `GH_PAT` とする
+   - 先ほど取得したPersonal Access Tokenを値として登録する 
+3. Github Actions の権限を設定する
+   - GitHubの設定から、[Settings] -> [Actions] -> [General]
+   - `Workflow permissions` を `Read and write permissions` に設定する
+4. Github Actions `Build and Deploy` を実行する
+   - main に Push すると自動で実行されるが、失敗している場合は手動で再実行する
+5. GitHub Pages の設定を行う
+   - GitHubの設定から、[Settings] -> [Pages]
+   - `Source` を `Deployment branch` に設定する
+   - `Branch` は `gh-pages` を選択する
+   - `Folder` は `/docs` を選択する
+   - `Save` をクリックする
+
+
 
 ## Local development
 
