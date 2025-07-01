@@ -48,7 +48,7 @@ jobs:
           const prNumber = context.payload.pull_request.number;
           const repo = context.repo.repo;
           const owner = context.repo.owner;
-          const previewUrl = `https://${owner}.github.io/${repo}/preview/pr-${prNumber}/`;
+          const previewUrl = `https://${owner}.github.io/preview/pr-${prNumber}/`;
 
           await github.rest.issues.createComment({
             owner,
