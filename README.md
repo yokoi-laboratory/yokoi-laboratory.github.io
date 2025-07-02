@@ -7,22 +7,23 @@
     - `_pages` 内: Research, Publications, Join Us などのメインページ
 1. 新しいブランチにコミットする
     - `Commit changes` ボタンをクリックする
-    - Commit message を埋める
+    - Commit message を埋める (任意)
     - `Create a new branch for this commit and start a pull request` を選択
     - ブランチ名はそのままで、`Propose changes` ボタンをクリックする
 1. Pull Requestを作成する
     - マージ先が `main` ブランチになっていることを確認する
     - `Create pull request` ボタンをクリックする
-1. 自動で Check が実行されることを確認する
+1. 自動 check & preview 確認
     - `github-actions` から、`Preview ready` というコメントがつく
     - リンクをクリックして、プレビューを確認する
-        - リンクが表示されても、裏では準備ができていない場合があるので、しばらく待つ 
+        - リンクが表示されても、裏では準備ができていない場合があるので、しばらく待つ
     - 確認して問題がなかった場合
         - 他の人にレビューを依頼する
-        - 問題がなければ `Set ready for review` ボタンをクリックする
-    - 問題があった場合
+        - (他の人?:) 問題がなければ `Set ready for review` ボタンをクリックする
+    - 確認して問題があった場合
         - すぐに修正できそうであれば、そのブランチ内で修正する
         - 修正方法がわからない場合は他の人に気軽に相談する
+1. merge
 
 
 ## 導入方法 (備忘録)
