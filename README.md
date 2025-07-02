@@ -3,7 +3,8 @@
 ## 編集方法
 
 1. GitHub上でテキストファイルを直接編集する
-    - `_pages` 内
+    - `_posts` 内: news, blog, 等 (編集というより追加が主)
+    - `_pages` 内: Research, Publications, Join Us などのメインページ
 1. 新しいブランチにコミットする
     - `Commit changes` ボタンをクリックする
     - Commit message を埋める
