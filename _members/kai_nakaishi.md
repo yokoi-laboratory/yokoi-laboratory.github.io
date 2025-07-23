@@ -6,5 +6,5 @@ first_name_ja: 海
 last_name_ja: 中石
 email: kai.nakaishi at riken.jp
 website: https://sites.google.com/view/kai-nakaishi-eng/home
-position: Visiting Researcher / 外来研究員
+position: Visiting Researcher
 ---
