@@ -50,4 +50,23 @@ header:
   </ul>
 {% endif %}
 
+<h2>Visiting Researchers / 外来研究員</h2>
+{% assign visiting_researchers = site.members | where: "position", "Visiting Researcher" %}
+{% if visiting_researchers.size > 0 %}
+  <h3>{{ visiting_researchers.first.position }}</h3>
+  <ul>
+    {% for member in visiting_researchers %}
+      <li>
+        {% if member.website %}
+          <a href="{{ member.website }}">{{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}</a>
+        {% else %}
+          {{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}
+        {% endif %}
+        &nbsp;({{ member.email }})
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+
 
