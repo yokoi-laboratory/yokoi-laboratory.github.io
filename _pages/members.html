@@ -14,7 +14,7 @@ header:
 <h2>Staff</h2>
 {% assign staff_ass_prof = site.members | where: "position", "Associate Professor" %}
 {% if staff_ass_prof.size > 0 %}
-  <h3>{{ staff_ass_prof.first.position }}</h3>
+  <h3>Associate Professor / 准教授</h3>
   <ul>
     {% for member in staff_ass_prof %}
       <li>
@@ -28,6 +28,43 @@ header:
     {% endfor %}
   </ul>
 {% endif %}
+
+<!-- プロジェクト非常勤研究員 -->
+{% assign project_adjunct_researchers = site.members | where: "position", "Project Research Fellows and Adjunct Researchers" %}
+{% if project_adjunct_researchers.size > 0 %}
+  <h3>Project Research Fellows and Adjunct Researchers / プロジェクト非常勤研究員</h3>
+  <ul>
+    {% for member in visiting_researchers %}
+      <li>
+        {% if member.website %}
+          <a href="{{ member.website }}">{{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}</a>
+        {% else %}
+          {{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}
+        {% endif %}
+        &nbsp;({{ member.email }})
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+<!-- 外来研究医 -->
+{% assign visiting_researchers = site.members | where: "position", "Visiting Researcher" %}
+{% if visiting_researchers.size > 0 %}
+  <h3>Visiting Researchers / 外来研究員</h3>
+  <ul>
+    {% for member in visiting_researchers %}
+      <li>
+        {% if member.website %}
+          <a href="{{ member.website }}">{{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}</a>
+        {% else %}
+          {{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}
+        {% endif %}
+        &nbsp;({{ member.email }})
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
 
 
 <h2>Ph.D. Students</h2>
@@ -50,23 +87,8 @@ header:
   </ul>
 {% endif %}
 
+
 <h2>Visiting Researchers / 外来研究員</h2>
-{% assign visiting_researchers = site.members | where: "position", "Visiting Researcher" %}
-{% if visiting_researchers.size > 0 %}
-  <h3>{{ visiting_researchers.first.position }}</h3>
-  <ul>
-    {% for member in visiting_researchers %}
-      <li>
-        {% if member.website %}
-          <a href="{{ member.website }}">{{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}</a>
-        {% else %}
-          {{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}
-        {% endif %}
-        &nbsp;({{ member.email }})
-      </li>
-    {% endfor %}
-  </ul>
-{% endif %}
 
 
 
