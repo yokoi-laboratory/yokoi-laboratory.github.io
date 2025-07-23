@@ -11,6 +11,12 @@ var store = [{
         "url": "/preview/pr-5/members/kai_nakaishi/",
         "teaser": null
       },{
+        "title": "Saori_morita",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-5/members/saori_morita/",
+        "teaser": null
+      },{
         "title": "Sho_yokoi",
         "excerpt":" ","categories": [],
         "tags": [],
