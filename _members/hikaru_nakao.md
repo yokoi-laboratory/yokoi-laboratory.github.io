@@ -6,6 +6,7 @@ first_name_ja: 光
 last_name_ja: 中尾
 email: hikaru.nakao at ninjal.ac.jp
 website: null
+image: /assets/img/members/hikaru_nakao.jpg
 positions: 
   - "Technical Assistant / 技術補佐員"
 ---

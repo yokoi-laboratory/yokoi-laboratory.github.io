@@ -96,7 +96,7 @@ h3 {
     text-align: center;
     width: calc(100% / 3 - 20px * 2 / 3);
     background-color: white;
-    @media (max-width: 768px) {
+    @media (max-width: 890px) {
         width: calc(100% / 2 - 20px * 2 / 2);
     }
     @media (max-width: 425px) {
