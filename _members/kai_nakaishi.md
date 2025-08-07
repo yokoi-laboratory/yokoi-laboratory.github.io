@@ -8,5 +8,5 @@ email: kai.nakaishi at riken.jp
 website: https://sites.google.com/view/kai-nakaishi-eng/home
 image: /assets/img/members/kai_nakaishi.jpg
 positions: 
-  - "Visiting Researcher / 客員研究員"
+  - "Visiting Researcher | 客員研究員"
 ---

@@ -8,5 +8,5 @@ email: takumi.ishimine at ninjal.ac.jp
 website: null
 image: /assets/img/members/takumi_ishimine.png
 positions: 
-  - "Technical Assistant / 技術補佐員"
+  - "Part-time Researcher | 技術補佐員"
 ---

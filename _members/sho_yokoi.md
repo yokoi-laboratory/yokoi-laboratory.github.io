@@ -6,7 +6,7 @@ first_name_ja: 祥
 last_name_ja: 横井
 email: yokoi at ninjal.ac.jp
 website: https://www.cl.ecei.tohoku.ac.jp/~yokoi/
-image: /assets/img/members/sho_yokoi.jpg
+image: /assets/img/members/sho_yokoi.png
 positions: 
-    - "Associate Professor / 准教授"
+    - "Associate Professor | 准教授"
 ---

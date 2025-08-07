@@ -8,5 +8,5 @@ email: hikaru.nakao at ninjal.ac.jp
 website: null
 image: /assets/img/members/hikaru_nakao.jpg
 positions: 
-  - "Technical Assistant / 技術補佐員"
+  - "Part-time Clerical Staff | 技術補佐員"
 ---

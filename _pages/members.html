@@ -26,9 +26,9 @@ header:
     <div class="member_info">
       <p class="member_name">
         {% if member.website %}
-          <a href="{{ member.website }}">{{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}</a>
+          <a href="{{ member.website }}">{{ member.first_name_en }} {{ member.last_name_en }} | {{member.last_name_ja}} {{ member.first_name_ja }}</a>
         {% else %}
-          {{ member.first_name_en }} {{ member.last_name_en }} / {{member.last_name_ja}} {{ member.first_name_ja }}
+          {{ member.first_name_en }} {{ member.last_name_en }} | {{member.last_name_ja}} {{ member.first_name_ja }}
           {% endif %}
       </p>
       <p class="member_positions">

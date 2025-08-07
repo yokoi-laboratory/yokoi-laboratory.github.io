@@ -8,5 +8,5 @@ email: shuri.kozuka at ninjal.ac.jp
 website: null
 image: /assets/img/members/shuri_kozuka.png
 positions: 
-  - "Technical Assistant / 技術補佐員"
+  - "Part-time Clerical Staff | 技術補佐員"
 ---
