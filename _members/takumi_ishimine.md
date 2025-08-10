@@ -6,7 +6,7 @@ first_name_ja: 拓海
 last_name_ja: 石峯
 email: takumi.ishimine at ninjal.ac.jp
 website: null
-image: /assets/img/members/takumi_ishimine.png
+image: https://i.gyazo.com/5b428876f7ac635e13e7af67384bc570.png
 positions: 
   - "Part-time Researcher | 技術補佐員"
 ---
