@@ -5,10 +5,40 @@ var store = [{
         "url": "/members/go_kamoda/",
         "teaser": null
       },{
+        "title": "Hikaru_nakao",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/hikaru_nakao/",
+        "teaser": null
+      },{
+        "title": "Kai_nakaishi",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/kai_nakaishi/",
+        "teaser": null
+      },{
+        "title": "Saori_morita",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/saori_morita/",
+        "teaser": null
+      },{
         "title": "Sho_yokoi",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/members/sho_yokoi/",
+        "teaser": null
+      },{
+        "title": "Shuri_kozuka",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/shuri_kozuka/",
+        "teaser": null
+      },{
+        "title": "Takumi_ishimine",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/takumi_ishimine/",
         "teaser": null
       },{
         "title": "Yuji_yamamoto",
