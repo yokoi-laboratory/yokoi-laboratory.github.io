@@ -322,8 +322,17 @@ defaults:
       share: true
       related: true
 
-
+collections_dir: collections
 collections:
   members:
-    output: true
-    
+    output: false
+    permalink: /:name
+  internationalConferences:
+    output: false
+    permalink: /:name
+  domesticConferences:
+    output: false
+    permalink: /:name
+  invitedTalks:
+    output: false
+    permalink: /:name

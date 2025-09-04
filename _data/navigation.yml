@@ -3,9 +3,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
+    sublinks:
+      - title: "International Conferences"
+        url: /research/international-conferences/
+      - title: "Domestic Conferences"
+        url: /research/domestic-conferences/
+      - title: "Invited Talks"
+        url: /research/invited-talks/
   - title: "Members"
     url: /members/
   - title: "Join Us"

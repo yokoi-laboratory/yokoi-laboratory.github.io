@@ -3,8 +3,12 @@
 ## 編集方法
 
 1. GitHub上でテキストファイルを直接編集する
-    - `_posts` 内: news, blog, 等 (編集というより追加が主)
-    - `_pages` 内: Research, Publications, Join Us などのメインページ
+    - `collections/_posts` 内: news, blog, 等 (編集というより追加が主)
+    - `collections/_domesticConferences` 内: 国内会議の論文 (ANLP, 言語処理学会, 情報処理学会 等)
+    - `collections/_internationalConferences` 内: 国際会議の論文 (ACL, EMNLP, NAACL 等)
+    - `collections/_invitedTalks` 内: 招待講演
+    - `collections/_members` 内: メンバー情報
+    - `_pages` 内: Research, Publications, Join Us などのメインページのフォーマット
     - 画像を埋め込む場合は、履歴に残らないようにラボのGyazoを利用する。
 1. 新しいブランチにコミットする
     - `Commit changes` ボタンをクリックする

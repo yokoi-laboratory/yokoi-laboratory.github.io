@@ -1,0 +1,45 @@
+---
+layout: splash
+title: "Domestic Conferences"
+permalink: /research/domestic-conferences/
+author_profile: false
+excerpt: ""
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/img/bg.png
+  overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
+---
+
+<div>
+  <ol>
+    {% for publication in site.domesticConferences reversed %}
+    <li>
+        <!-- https://www.anlp.jp/guide/guideline.html -->
+        {% for author in publication.authors %}
+          {{ author.name }}
+          {%- if forloop.last == false -%}
+            ,
+          {% endif %}
+        {% endfor %}
+        ({{ publication.year }}).
+        {{ publication.title }}.
+        {{ publication.proceedings_title }}
+        {%- if publication.pages -%}
+          , pp. {{ publication.pages }}
+        {%- endif -%}
+        .
+        {% if publication.links %}
+          [
+          {%- for link in publication.links -%}
+            <a href="{{ link.url }}" target="_blank">{{ link.name}}</a>{% if forloop.last == false %}, {% endif %}
+          {%- endfor -%}
+          ]
+        {% endif %}
+      </li>
+    {% endfor %}
+
+  </ol>
+
+</div>
+
+

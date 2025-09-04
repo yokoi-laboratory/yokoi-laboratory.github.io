@@ -11,15 +11,26 @@
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
+
+        
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a
-                href="{{ link.url | relative_url }}"
-                {% if link.description %} title="{{ link.description }}"{% endif %}
-                {% if link.target %} target="{{ link.target }}"{% endif %}
-              >{{ link.title }}</a>
-            </li>
+            {% if link.sublinks %}
+              <li class="masthead__menu-item has-submenu">
+                <a class="masthead__menu-item" href="javascript:void(0);">{{ link.title }}</a>
+                <ul class="masthead__submenu">
+                  {% for sublink in link.sublinks %}
+                    <li class="masthead__submenu-item">
+                      <a href="{{ sublink.url | relative_url }}">{{ sublink.title }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+              </li>
+            {% endif %}
           {%- endfor -%}
         </ul>
         {% if site.search == true %}
