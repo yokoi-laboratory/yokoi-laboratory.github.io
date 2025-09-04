@@ -143,12 +143,15 @@ iframe {
 
     .masthead__menu-item.has-submenu:hover > ul {
         display: block;
-        background-color: #f2f3f3;
+        background-color: #fff;
+        border: 1px solid #f2f3f3;
+        border-radius: 4px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.16), 0 2px 10px rgba(0,0,0,0.12);
         position: absolute;
-        padding: 10px;
+        padding: 8px;
 
         a {
-            padding: 10px;
+            padding: 8px;
         }
     }
 }
