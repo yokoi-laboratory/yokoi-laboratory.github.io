@@ -4,12 +4,10 @@ main:
     url: /about/
   - title: "Research"
     sublinks:
-      - title: "International Conferences"
-        url: /research/international-conferences/
-      - title: "Domestic Conferences"
-        url: /research/domestic-conferences/
-      - title: "Invited Talks"
-        url: /research/invited-talks/
+      - title: "Interests"
+        url: /research/interests/
+      - title: "Outputs"
+        url: /research/outputs/
   - title: "Members"
     url: /members/
   - title: "Join Us"

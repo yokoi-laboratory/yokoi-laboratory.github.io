@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Publications"
-permalink: /publications/
+title: "研究内容"
+permalink: /research/interests/
 author_profile: false
 excerpt: ""
 header:
@@ -10,8 +10,5 @@ header:
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 ---
 
-Under Construction...
 
-{% for paper in site.internationalConf %}
-  <h2>{{ paper.title }}</h2>
-{% endfor %}
+Under Construction...
