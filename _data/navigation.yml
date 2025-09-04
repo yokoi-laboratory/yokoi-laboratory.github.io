@@ -5,9 +5,9 @@ main:
   - title: "Research"
     sublinks:
       - title: "Interests"
-        url: /research/interests/
+        url: /research/interests
       - title: "Outputs"
-        url: /research/outputs/
+        url: /research/outputs
   - title: "Members"
     url: /members/
   - title: "Join Us"

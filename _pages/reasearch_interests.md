@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "研究内容"
-permalink: /research/interests/
+permalink: /research/interests
 author_profile: false
 excerpt: ""
 header:
