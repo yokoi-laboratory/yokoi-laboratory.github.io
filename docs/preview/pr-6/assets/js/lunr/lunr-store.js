@@ -1,20 +1,62 @@
 var store = [{
+        "title": "不均衡最適輸送を用いた意味変化検出",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-6/202503-kishino-nlp",
+        "teaser": null
+      },{
         "title": "層の冗長性と層同士の独立性に基づく言語モデルの層交換の成否の特徴づけ",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-6/202503-kobayashi-layer",
+        "url": "/preview/pr-6/202503-kobayashi-nlp",
+        "teaser": null
+      },{
+        "title": "文長による内容語率の変化が引き起こす文ベクトルの品質低下",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-6/202505-hara-jsai",
+        "teaser": null
+      },{
+        "title": "密度比の直接推定に基づく言語モデルの出力較正",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-6/202509-yans-kamoda",
+        "teaser": null
+      },{
+        "title": "拡散言語モデルによる日本語縦読み文章生成",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-6/202509-yans-kazama",
         "teaser": null
       },{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-6/202504-deguchi-softmatcha",
+        "url": "/preview/pr-6/202504-deguchi-iclr",
+        "teaser": null
+      },{
+        "title": "TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-6/202504-shing-iclr",
+        "teaser": null
+      },{
+        "title": "On Entity Identification in Language Models",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-6/202507-sakata-acl",
+        "teaser": null
+      },{
+        "title": "Understanding the Side Effects of Rank-One Knowledge Editing",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-6/202511-blackboxnlp-takahashi",
         "teaser": null
       },{
         "title": "How a Bilingual LM Becomes Bilingual: Tracing Internal Representations with Sparse Autoencoders",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-6/202511-inaba-bilingual",
+        "url": "/preview/pr-6/202511-inaba-emnlp",
         "teaser": null
       },{
         "title": "言語モデルの内部機序：解析と解釈",
@@ -45,6 +87,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-6/kai-nakaishi",
+        "teaser": null
+      },{
+        "title": "Ryo_ueda",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-6/ryo-ueda",
         "teaser": null
       },{
         "title": "Saori_morita",
