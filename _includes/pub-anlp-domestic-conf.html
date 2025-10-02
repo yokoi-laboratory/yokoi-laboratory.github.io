@@ -24,7 +24,7 @@
     {% if publication.awards %}
         {%- for award in publication.awards -%}
         <br>
-        <i class="fa-solid fa-award" style="color: #5d9679;"></i> <a href="{{ award.url }}" target="_blank">{{ award.name}}</a>{% if forloop.last == false %}, {% endif %}
+        <i class="fa-solid fa-award"></i> <a href="{{ award.url }}" target="_blank">{{ award.name}}</a>{% if forloop.last == false %}, {% endif %}
         {%- endfor -%}
     {% endif %}
 {% endunless %}

@@ -21,5 +21,9 @@ month: 3
 pages: 1751-1756
 links:
   - name: "予稿"
-    url: "https://www.anlp.jp/proceedings/annual_meeting/2025/#B10-1"
+    url: "https://www.anlp.jp/proceedings/annual_meeting/2025/#A5-1"
+    icon: "fa-regular fa-file"
+awards:
+  - name: "若手奨励賞 (20/487)"
+    url: "https://anlp.jp/nlp2025/award.html"
 ---
