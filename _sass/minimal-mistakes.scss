@@ -131,3 +131,47 @@ h3 {
 iframe {
     max-width: 100%;
 }
+
+
+
+
+
+.visible-links{
+    .masthead__menu-item.has-submenu > ul {
+        display: none;
+    }
+
+    .masthead__menu-item.has-submenu:hover > ul {
+        display: block;
+        background-color: #fff;
+        border: 1px solid #f2f3f3;
+        border-radius: 4px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.16), 0 2px 10px rgba(0,0,0,0.12);
+        position: absolute;
+        padding: 8px;
+
+        a {
+            padding: 8px;
+        }
+    }
+}
+
+.hidden-links {
+    min-width: 16em; // International Conferences
+    .masthead__menu-item.has-submenu{
+        ul {
+            display: none;
+            
+            li {
+                background-color: #f4f5f7;
+                text-indent: 1em;
+            }
+        }
+    } 
+
+    .masthead__menu-item.has-submenu.submenuExpanded {
+        ul {
+            display: block;
+        }       
+    }
+}

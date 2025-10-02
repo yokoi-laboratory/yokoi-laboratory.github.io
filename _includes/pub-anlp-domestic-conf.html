@@ -1,0 +1,37 @@
+
+<!-- https://www.anlp.jp/guide/guideline.html -->
+{%- assign hideawards = include.hideawards | default: false -%}
+{%- assign publication = include.publication -%}
+
+{% for author in publication.authors %}
+    {% if author.name contains "鴨田豪" or author.name contains "Go Kamoda" %}
+    <span class="underline">{{ author.name }}</span>
+    {% else %}
+    {{ author.name }}
+    {% endif %}
+    {%- if forloop.last == false -%}
+    ,
+    {% endif %}
+{% endfor %}
+({{ publication.year }}).<br>
+<strong>{{ publication.title }}</strong>.<br>
+{{ publication.proceedings_title }}
+{%- if publication.pages -%}
+    , pp. {{ publication.pages }}
+{%- endif -%}
+.
+{% unless hideawards %}
+    {% if publication.awards %}
+        {%- for award in publication.awards -%}
+        <br>
+        <i class="fa-solid fa-award"></i> <a href="{{ award.url }}" target="_blank">{{ award.name}}</a>{% if forloop.last == false %}, {% endif %}
+        {%- endfor -%}
+    {% endif %}
+{% endunless %}
+{% if publication.links %}
+    <br>[
+    {%- for link in publication.links -%}
+    <a href="{{ link.url }}" target="_blank">{{ link.name}}</a>{% if forloop.last == false %}, {% endif %}
+    {%- endfor -%}
+    ]
+{% endif %}

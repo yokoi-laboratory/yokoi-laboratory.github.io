@@ -3,9 +3,11 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
+    sublinks:
+      - title: "Interests"
+        url: /research/interests
+      - title: "Outputs"
+        url: /research/outputs
   - title: "Members"
     url: /members/
   - title: "Join Us"
