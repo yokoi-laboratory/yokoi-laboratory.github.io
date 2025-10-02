@@ -9,5 +9,5 @@ website: https://sites.google.com/view/ryo-ueda/
 image: https://i.gyazo.com/d4f64eb7edae9b096f9cff33d954fd9a.jpg
 positions: 
   - "Ph.D. Student"
-  - "Part-time Researcher | プロジェクト非常勤研究員"
+  - "Visiting Researcher | 客員研究員"
 ---
