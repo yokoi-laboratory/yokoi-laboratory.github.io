@@ -23,7 +23,25 @@ authors:
     affiliation:
       - "NII LLMC"
       - "Tohoku University"
-  - first_name:
+  - first_name: Yusuke
+    last_name: Miyao
+    affiliation:
+      - University of Tokyo
+      - "NII LLMC"
+  - first_name: Yohei
+    last_name: Oseki
+    affiliation:
+      - University of Tokyo
+  - first_name: Yu
+    last_name: Takagi
+    affiliation:
+      - Nagoya Institute of Technology
+  - first_name: Benjamin
+    last_name: Heinzerling
+    affiliation:
+      - RIKEN
+      - Tohoku University
+
 year: 2025
 month: 12
 pages: 

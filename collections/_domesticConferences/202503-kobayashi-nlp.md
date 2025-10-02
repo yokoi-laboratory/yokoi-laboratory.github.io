@@ -1,6 +1,6 @@
 ---
 title: "層の冗長性と層同士の独立性に基づく言語モデルの層交換の成否の特徴づけ"
-proceedings_title: "言語処理学会第31回年次大会予稿集"
+proceedings_title: "言語処理学会 第31回年次大会 発表論文集"
 authors:
   - name: 小林春斗
     affiliation:
@@ -21,5 +21,5 @@ month: 3
 pages: 1751-1756
 links:
   - name: "予稿"
-    url: "https://www.anlp.jp/proceedings/annual_meeting/2025/#A5-1"
+    url: "https://www.anlp.jp/proceedings/annual_meeting/2025/#B10-1"
 ---

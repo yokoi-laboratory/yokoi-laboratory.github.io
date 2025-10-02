@@ -15,32 +15,8 @@ header:
 <div>
   <ol>
     {% for publication in site.internationalConferences reversed %}
-    <li>
-        <!-- APA format -->
-        {% for author in publication.authors %}
-          {%- if forloop.last == true -%}
-            & 
-          {% endif %}
-          {{ author.last_name }}, {{ author.first_name | slice: 0}}.
-          {%- if forloop.last == false -%}
-            ,
-          {% endif %}
-        {% endfor %}
-        ({{ publication.year }}).
-        {{ publication.title }}.
-        In
-        <i>{{ publication.proceedings_title }}</i>
-        {%- if publication.pages -%}
-          , {{ publication.pages }}
-        {%- endif -%}
-        .
-        {% if publication.links %}
-          [
-          {%- for link in publication.links -%}
-            <a href="{{ link.url }}" target="_blank">{{ link.name}}</a>{% if forloop.last == false %}, {% endif %}
-          {%- endfor -%}
-          ]
-        {% endif %}
+      <li>
+        {% include pub-apa-international-conf.html  %}
       </li>
     {% endfor %}
 
@@ -57,27 +33,7 @@ header:
   <ol>
     {% for publication in site.domesticConferences reversed %}
     <li>
-        <!-- https://www.anlp.jp/guide/guideline.html -->
-        {% for author in publication.authors %}
-          {{ author.name }}
-          {%- if forloop.last == false -%}
-            ,
-          {% endif %}
-        {% endfor %}
-        ({{ publication.year }}).
-        {{ publication.title }}.
-        {{ publication.proceedings_title }}
-        {%- if publication.pages -%}
-          , pp. {{ publication.pages }}
-        {%- endif -%}
-        .
-        {% if publication.links %}
-          [
-          {%- for link in publication.links -%}
-            <a href="{{ link.url }}" target="_blank">{{ link.name}}</a>{% if forloop.last == false %}, {% endif %}
-          {%- endfor -%}
-          ]
-        {% endif %}
+        {% include pub-anlp-domestic-conf.html  %}
       </li>
     {% endfor %}
 
@@ -87,36 +43,14 @@ header:
 
 
 ## Invited Talks
-
-
 <div>
   <ol>
     {% for talk in site.invitedTalks reversed %}
     <li>
-        <!-- https://www.anlp.jp/guide/guideline.html -->
-        {% for speaker in talk.speakers %}
-          {{ speaker.name }}
-          {%- if forloop.last == false -%}
-            ,
-          {% endif %}
-        {%- endfor -%}
-        .
-        {{ talk.title }}.
-        {{ talk.event_name }},
-        {{ talk.month }}
-        {{ talk.year }}.
-        {% if talk.links %}
-          [
-          {%- for link in talk.links -%}
-            <a href="{{ link.url }}" target="_blank">{{ link.name}}</a>{% if forloop.last == false %}, {% endif %}
-          {%- endfor -%}
-          ]
-        {% endif %}
+        {% include pub-talks.html  %}
       </li>
     {% endfor %}
 
   </ol>
 
 </div>
-
-

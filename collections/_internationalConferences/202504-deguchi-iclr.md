@@ -33,7 +33,7 @@ authors:
       - "Tohoku University"
       - "RIKEN"
 year: 2025
-month: 4
+month: April
 pages: 
 links:
   - name: "OpenReview"
