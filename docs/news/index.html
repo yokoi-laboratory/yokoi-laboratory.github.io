@@ -74,6 +74,7 @@
 
 
 
+
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
@@ -102,37 +103,36 @@
           Yokoi Lab
           
         </a>
-        <ul class="visible-links"><li class="masthead__menu-item">
-              <a
-                href="/about/"
-                
-                
-              >About</a>
-            </li><li class="masthead__menu-item">
-              <a
-                href="/research/"
-                
-                
-              >Research</a>
-            </li><li class="masthead__menu-item">
-              <a
-                href="/publications/"
-                
-                
-              >Publications</a>
-            </li><li class="masthead__menu-item">
-              <a
-                href="/members/"
-                
-                
-              >Members</a>
-            </li><li class="masthead__menu-item">
-              <a
-                href="/join-us/"
-                
-                
-              >Join Us</a>
-            </li></ul>
+
+        
+        <ul class="visible-links">
+              <li class="masthead__menu-item">
+                <a href="/about/">About</a>
+              </li>
+            
+              <li class="masthead__menu-item has-submenu">
+                <a class="masthead__menu-item" href="javascript:void(0);">Research</a>
+                <ul class="masthead__submenu">
+                  
+                    <li class="masthead__submenu-item">
+                      <a href="/research/interests">Interests</a>
+                    </li>
+                  
+                    <li class="masthead__submenu-item">
+                      <a href="/research/outputs">Outputs</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="masthead__menu-item">
+                <a href="/members/">Members</a>
+              </li>
+            
+              <li class="masthead__menu-item">
+                <a href="/join-us/">Join Us</a>
+              </li>
+            </ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">メニュー</span>
@@ -258,4 +258,5 @@
 
 
   </body>
+  <script src="/assets/js/mobile-submenu.js"></script>
 </html>

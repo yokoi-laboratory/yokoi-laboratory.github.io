@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/members/go_kamoda/</loc>
-</url>
-<url>
-<loc>/members/hikaru_nakao/</loc>
-</url>
-<url>
-<loc>/members/kai_nakaishi/</loc>
-</url>
-<url>
-<loc>/members/saori_morita/</loc>
-</url>
-<url>
-<loc>/members/sho_yokoi/</loc>
-</url>
-<url>
-<loc>/members/shuri_kozuka/</loc>
-</url>
-<url>
-<loc>/members/takumi_ishimine/</loc>
-</url>
-<url>
-<loc>/members/yuji_yamamoto/</loc>
-</url>
-<url>
 <loc>/blog/under-construction/</loc>
 <lastmod>2025-07-01T00:00:00+00:00</lastmod>
 </url>
@@ -47,10 +23,13 @@
 <loc>/news/</loc>
 </url>
 <url>
-<loc>/publications/</loc>
+<loc>/research/interests</loc>
 </url>
 <url>
 <loc>/research/</loc>
+</url>
+<url>
+<loc>/research/outputs</loc>
 </url>
 <url>
 <loc>/talks/</loc>
