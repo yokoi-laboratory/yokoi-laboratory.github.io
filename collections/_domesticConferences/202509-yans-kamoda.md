@@ -18,6 +18,6 @@ authors:
     affiliation:
       - 東北大学
       - 理化学研究所
-year: 2024
+year: 2025
 month: 9
 ---
