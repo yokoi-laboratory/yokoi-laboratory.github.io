@@ -89,6 +89,12 @@ var store = [{
         "url": "/preview/pr-7/kai-nakaishi",
         "teaser": null
       },{
+        "title": "Masahiro_kazama",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-7/masahiro-kazama",
+        "teaser": null
+      },{
         "title": "Ryo_ueda",
         "excerpt":" ","categories": [],
         "tags": [],
