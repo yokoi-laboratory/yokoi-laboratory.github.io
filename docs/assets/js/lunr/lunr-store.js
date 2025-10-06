@@ -89,6 +89,12 @@ var store = [{
         "url": "/kai-nakaishi",
         "teaser": null
       },{
+        "title": "Masahiro_kazama",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/masahiro-kazama",
+        "teaser": null
+      },{
         "title": "Ryo_ueda",
         "excerpt":" ","categories": [],
         "tags": [],
