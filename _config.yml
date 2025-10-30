@@ -96,7 +96,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/img/meta/OGP/1200x630.png
+og_image                 : "/assets/img/meta/OGP/page-large-img-1200x630_dpi72.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
