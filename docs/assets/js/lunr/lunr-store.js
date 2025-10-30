@@ -32,19 +32,19 @@ var store = [{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/202504-deguchi-iclr",
+        "url": "/202504-iclr-deguchi",
         "teaser": null
       },{
         "title": "TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/202504-shing-iclr",
+        "url": "/202504-iclr-shing",
         "teaser": null
       },{
         "title": "On Entity Identification in Language Models",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/202507-sakata-acl",
+        "url": "/202507-acl-sakata",
         "teaser": null
       },{
         "title": "Understanding the Side Effects of Rank-One Knowledge Editing",
@@ -56,7 +56,13 @@ var store = [{
         "title": "How a Bilingual LM Becomes Bilingual: Tracing Internal Representations with Sparse Autoencoders",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/202511-inaba-emnlp",
+        "url": "/202511-emnlp-inaba",
+        "teaser": null
+      },{
+        "title": "Can Language Models Handle a Non-Gregorian Calendar?",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/202512-aacl-sasaki",
         "teaser": null
       },{
         "title": "言語モデルの内部機序：解析と解釈",
