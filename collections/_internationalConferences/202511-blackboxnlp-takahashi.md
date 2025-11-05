@@ -32,6 +32,9 @@ year: 2025
 month: 11
 pages: 
 links:
+  - name: "ACL Anthology"
+    url: "https://aclanthology.org/2025.blackboxnlp-1.11/"
+    logo: "/assets/acl-logo.svg"
   - name: "arXiv"
     url: "https://arxiv.org/abs/2406.06032"
     logo: "/assets/arxiv-logomark-small.svg"

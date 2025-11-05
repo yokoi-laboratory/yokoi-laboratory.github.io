@@ -46,6 +46,10 @@ year: 2025
 month: 12
 pages: 
 links:
-  - name: "OpenReview"
-    url: "https://openreview.net/forum?id=PoeWX7M8CK#discussion"
+  - name: "ACL Anthology"
+    url: "https://aclanthology.org/2025.findings-emnlp.725/"
+    logo: "/assets/acl-logo.svg"
+  - name: "arXiv"
+    url: "https://arxiv.org/abs/2503.06394"
+    logo: "/assets/arxiv-logomark-small.svg"
 ---
