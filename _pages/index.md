@@ -9,7 +9,7 @@ header:
 ---
 
 # Yokoi Lab
-- Under construction...
+- Under construction....
 
 
 
