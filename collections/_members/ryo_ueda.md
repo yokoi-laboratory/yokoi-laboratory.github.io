@@ -9,4 +9,5 @@ website: https://sites.google.com/view/ryo-ueda/
 image: https://i.gyazo.com/d4f64eb7edae9b096f9cff33d954fd9a.jpg
 positions: 
   - "Part-time Researcher | プロジェクト非常勤研究員"
+main_position: 東京大学大学院情報理工学系研究科, 博士課程学生
 ---
