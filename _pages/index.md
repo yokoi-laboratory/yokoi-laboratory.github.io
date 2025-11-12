@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+title: Yokoi Lab @ NINJAL / 横井研究室 @ 国立国語研究所
 author_profile: false
 excerpt: ""
 header:
@@ -8,13 +9,8 @@ header:
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 ---
 
-# Yokoi Lab
-- Under construction....
-
-
-
-
-
+横井研究室のウェブページです．
+東京は立川にある[国立国語研究所](https://www.ninjal.ac.jp/)を主な活動拠点として，広く自然言語の数理に関わる研究をおこなっています．
 
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
