@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/blog/under-construction/</loc>
-<lastmod>2025-07-01T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>/about/</loc>
+<loc>/posts/website-launch/</loc>
+<lastmod>2025-11-12T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>/blog/</loc>
+</url>
+<url>
+<loc>/contact/</loc>
 </url>
 <url>
 <loc>/</loc>
@@ -23,13 +23,10 @@
 <loc>/news/</loc>
 </url>
 <url>
-<loc>/research/interests</loc>
+<loc>/publications/</loc>
 </url>
 <url>
 <loc>/research/</loc>
-</url>
-<url>
-<loc>/research/outputs</loc>
 </url>
 <url>
 <loc>/talks/</loc>
