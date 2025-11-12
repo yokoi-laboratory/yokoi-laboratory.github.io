@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "研究室について"
-permalink: /about/
+title: "Contact & Access"
+permalink: /contact/
 author_profile: false
 excerpt: ""
 header:

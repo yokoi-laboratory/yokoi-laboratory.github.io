@@ -1,17 +1,15 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Research"
-    sublinks:
-      - title: "Interests"
-        url: /research/interests
-      - title: "Outputs"
-        url: /research/outputs
+    url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Members"
     url: /members/
   - title: "Join Us"
     url: /join-us/
+  - title: "Contact"
+    url: /contact/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
