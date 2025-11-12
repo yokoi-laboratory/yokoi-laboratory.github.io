@@ -1,8 +1,8 @@
 ---
 layout: splash
-title: "研究室のウェブサイトができました"
+title: "研究室のウェブサイトが立ち上がりました"
 category: Blog
-excerpt: "Site under construction."
+excerpt: "研究室のウェブサイトが立ち上がりました"
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/img/bg.png
