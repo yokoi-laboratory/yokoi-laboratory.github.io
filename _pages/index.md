@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 ---
 
-### 📝 これは何
+### 📝 ここは何
 **横井研究室 @ 国語研** のウェブページです．<br/>東京は立川にある[国立国語研究所](https://www.ninjal.ac.jp/)を主な活動拠点として，**自然言語の数理**に関わる研究を幅広くおこなっています．
 
 ### 📝 当研究室での活動に興味があるかたへ
