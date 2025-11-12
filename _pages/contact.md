@@ -11,7 +11,7 @@ header:
 ---
 
 ## Contact
-横井の連絡先はこちらです： `yokoi[at]ninjal.ac.jp`
+横井の連絡先はこちらです： yokoi\[at\]ninjal.ac.jp
 
 ## Access
 〒190-8561 東京都立川市緑町10-2  
