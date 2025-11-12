@@ -14,6 +14,9 @@
 
         
         <ul class="visible-links">
+          <li class="masthead__menu-item">
+            <a href="{{ '/' | relative_url }}">Top</a>
+          </li>
           {%- for link in site.data.navigation.main -%}
             {% if link.sublinks %}
               <li class="masthead__menu-item has-submenu">
