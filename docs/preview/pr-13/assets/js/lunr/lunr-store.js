@@ -140,6 +140,6 @@ var store = [{
         "title": "研究室のウェブサイトが立ち上がりました",
         "excerpt":"2025年4月に始動した横井研究室 @ 国語研のウェブサイトが立ち上がりました． 立ち上げに際して発生した技術的問題については，博士課程の鴨田さんがそのほとんどをさらりと解決してくださいました，ありがとうございます！（横井）  ","categories": ["Blog"],
         "tags": [],
-        "url": "/preview/pr-13/blog/website-launch/",
+        "url": "/preview/pr-13/posts/website-launch/",
         "teaser": null
       }]

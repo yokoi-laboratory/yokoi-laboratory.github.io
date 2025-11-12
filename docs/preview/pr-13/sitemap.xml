@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/preview/pr-13/blog/website-launch/</loc>
+<loc>/preview/pr-13/posts/website-launch/</loc>
 <lastmod>2025-11-12T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/preview/pr-13/about/</loc>
+<loc>/preview/pr-13/blog/</loc>
 </url>
 <url>
-<loc>/preview/pr-13/blog/</loc>
+<loc>/preview/pr-13/contact/</loc>
 </url>
 <url>
 <loc>/preview/pr-13/</loc>
@@ -23,13 +23,10 @@
 <loc>/preview/pr-13/news/</loc>
 </url>
 <url>
-<loc>/preview/pr-13/research/interests</loc>
+<loc>/preview/pr-13/publications</loc>
 </url>
 <url>
 <loc>/preview/pr-13/research/</loc>
-</url>
-<url>
-<loc>/preview/pr-13/research/outputs</loc>
 </url>
 <url>
 <loc>/preview/pr-13/talks/</loc>
