@@ -10,6 +10,8 @@ header:
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 ---
 
+## Contact
+横井の連絡先はこちらです： `yokoi[at]ninjal.ac.jp`
 
 ## Access
 〒190-8561 東京都立川市緑町10-2  
