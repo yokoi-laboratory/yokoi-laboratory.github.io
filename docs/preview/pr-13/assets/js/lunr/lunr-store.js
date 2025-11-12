@@ -137,7 +137,7 @@ var store = [{
         "url": "/preview/pr-13/yuji-yamamoto",
         "teaser": null
       },{
-        "title": "研究室のウェブサイトができました",
+        "title": "研究室のウェブサイトが立ち上がりました",
         "excerpt":"2025年4月に始動した研究室のウェブサイトが立ち上がりました． 立ち上げに際して発生した技術的問題については，博士課程の鴨田さんがそのほとんどをさらりと解決してくださいました，ありがとうございます！（横井）  ","categories": ["Blog"],
         "tags": [],
         "url": "/preview/pr-13/blog/website-launch/",
