@@ -8,6 +8,15 @@ header:
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 ---
 
+# Yokoi Lab
+- Under construction...
+
+
+
+
+
+
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
@@ -55,6 +64,8 @@ header:
   }
 
 </style>
+
+
 
 <div class="tab-container">
   <ul class="tab-menu greedy-nav">
