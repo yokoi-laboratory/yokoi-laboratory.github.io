@@ -37,6 +37,11 @@ header:
       <p class="member_email">
         {{ member.email }}
       </p>
+      {% if member.main_position %}
+      <p class="member_positions">
+        From {{ member.main_position }}
+      </p>
+      {% endif %}
     </div>
   </div>
   {% endfor %}

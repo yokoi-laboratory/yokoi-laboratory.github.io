@@ -9,4 +9,5 @@ website: https://sites.google.com/view/masahiro-kazama/home?authuser=0
 image: https://i.gyazo.com/16eae9aa2e2667b66e6df2124eba6a5e.jpg
 positions: 
   - "Visiting Researcher | 外来研究員"
+main_position: Ubie株式会社, Chief AI Officer
 ---
