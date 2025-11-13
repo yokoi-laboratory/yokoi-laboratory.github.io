@@ -12,7 +12,7 @@ header:
 
 ## Contact
 横井の連絡先はこちらです： `yokoi[at]ninjal.ac.jp`  
-ラボメンバーの連絡先は [Members](/members/) を参照ください．
+ラボメンバーの連絡先は [ラボメンバー一覧 (Members)](/members/) を参照ください．
 
 ## Access
 〒190-8561 東京都立川市緑町10-2  
