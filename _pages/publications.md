@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Publications / 研究成果（出版物・トーク・動画などなど）"
+title: "Publications / 研究成果"
 permalink: /publications/
 author_profile: false
 excerpt: ""
