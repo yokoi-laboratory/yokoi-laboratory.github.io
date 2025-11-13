@@ -54,5 +54,5 @@ jobs:
             owner,
             repo,
             issue_number: prNumber,
-            body: `✅ Preview ready: <a href="${previewUrl}" target="_blank">View Preview</a>`
+            body: `<a href="${previewUrl}" target="_blank">View Preview</a> (It may take a few minutes for the site to be live. Check <a href="https://github.com/yokoi-laboratory/yokoi-laboratory.github.io/actions" target="_blank">Actions</a> for build status.)`,
           });
