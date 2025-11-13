@@ -35,6 +35,16 @@
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
+      {% if page.header.show_date %}
+        <p class="page__meta">
+          <span class="page__meta-date">
+            <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+            {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time>
+          </span>
+          <span class="page__meta-sep">{{ page.category }}</span>
+        </p>
+      {% endif %}
       {% include page__meta.html %}
       {% if page.header.actions %}
         <p>

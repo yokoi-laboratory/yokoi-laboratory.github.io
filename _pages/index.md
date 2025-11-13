@@ -2,11 +2,11 @@
 layout: home
 permalink: /
 title: Yokoi Lab @ NINJAL / 横井研究室 @ 国語研
+seo_title: Top
 author_profile: false
 excerpt: ""
 header:
-  overlay_image: /assets/img/bg.png
-  overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
+  overlay_color: "#404040"
 ---
 
 ## 📝 ここは何
@@ -15,8 +15,9 @@ header:
 ## 📝 当研究室での活動に興味があるかたへ
 当研究室に何らかの方法でジョインしてみたいというかたは（歓迎です！），[当研究室での活動に興味があるかたへ (Join Us)](/join-us/) をご覧ください．<br/>おそらく，一般的な研究室よりもやや広めの選択肢があります．博士課程学生としての進学，他大学の学部生・修士学生・博士学生として研究活動に来る，ポスドクとしての参加，企業に在籍しつつ研究活動に来る，バックオフィスのお仕事，などなどの先例があります．[現在のラボメンバー一覧 (Members)](/members/) も参考になるかもしれません．まずは気軽に[コンタクト](/contact/)をください．
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<!-- <h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2> -->
 
+## {{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
 
