@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Research"
+title: "Research / 研究テーマ"
 permalink: /research/
 author_profile: false
 excerpt: ""
@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 ---
 
-## 研究テーマ
+## 🔬 扱っているテーマ
 
 大きく分けると，以下の3種類のモチベーションに関わる研究活動をしています．
 
@@ -20,7 +20,7 @@ header:
 
 ほか，日々の議論の中で面白いアイデアが出たら，とくにそれがラボメンバー同士の知的好奇心の交わりに置かれそうなら，どんどん試してみるようにしています．
 
-## 研究成果
+## 📑 研究活動の成果
 
 最近の研究成果・トーク・出版物・動画などは，[研究成果 (publications)](/publications/) をご覧ください．
 
