@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Contact & Access"
+title: "Contact & Access / 連絡先"
 permalink: /contact/
 author_profile: false
 excerpt: ""
