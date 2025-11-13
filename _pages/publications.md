@@ -6,8 +6,7 @@ author_profile: false
 excerpt: ""
 header:
   show_overlay_excerpt: false
-  overlay_image: /assets/img/bg.png
-  overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
+  overlay_color: "#404040"
 ---
 
 ## International Conferences

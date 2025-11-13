@@ -7,8 +7,7 @@ category: Blog
 excerpt: ""
 header:
   show_overlay_excerpt: false
-  overlay_image: /assets/img/bg.png
-  overlay_filter: 0.0 # 0.0 for no filter, 1.0 for full black filter
+  overlay_color: "#404040"
 ---
 
 横井研究室 @ [国立国語研究所 (国語研)](https://www.ninjal.ac.jp/) に何らかの方法でジョインしてみたいというかた向けの情報を集めたページです．今後も質問をいただく都度更新していきます．
