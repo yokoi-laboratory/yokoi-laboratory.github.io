@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Publications"
+title: "Publications / 研究成果（出版物・トーク・動画などなど）"
 permalink: /publications/
 author_profile: false
 excerpt: ""
@@ -9,6 +9,11 @@ header:
   overlay_image: /assets/img/bg.png
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 ---
+
+研究活動の成果として，出版物・トーク・動画などをリストしてあります．  
+載せられていない研究成果もまだ色々あるのですが，暫定的に公開します (2025-11)．  
+
+研究内容についての質問があれば，著者や発表者まで気軽にご連絡ください：[ラボメンバー一覧 (Members)](/members/)．
 
 ## International Conferences
 
