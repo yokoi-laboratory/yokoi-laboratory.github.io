@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ja-JP"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Yokoi Lab"
+title                    : "Yokoi Lab @ NINJAL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yokoi Lab"
@@ -28,7 +28,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 page_large_image         : "/assets/img/meta/OGP/page-large-img-1200x630_dpi72.png" # path of default large image for pages, e.g. "/assets/images/1200x630.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Yokoi Lab @ NINJAL"
+masthead_title           : "Yokoi Lab @ NINJALaaa"
 breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
