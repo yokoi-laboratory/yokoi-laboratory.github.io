@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "横井研究室 @ 国語研での活動を希望するかたへ"
+seo_title: "Join Us"
 permalink: /join-us/
 category: Blog
 excerpt: ""

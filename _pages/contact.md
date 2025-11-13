@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "Contact & Access"
+seo_title: "Contact & Access"
 permalink: /contact/
 author_profile: false
 excerpt: ""

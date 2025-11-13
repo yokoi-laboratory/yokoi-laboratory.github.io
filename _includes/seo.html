@@ -1,7 +1,12 @@
 <!-- begin _includes/seo.html -->
 {%- assign title_separator = site.title_separator | default: '-' -%}
 
-{%- assign page_title = page.title | default: site.title | replace: '|', '&#124;' -%}
+{%- if page.seo_title -%}
+  {%- assign page_title = page.seo_title | replace: '|', '&#124;' -%}
+{%- else -%}
+  {%- assign page_title = page.title | default: site.title | replace: '|', '&#124;' -%}
+{%- endif -%}
+
 {%- if page_title contains site.title -%}
   {%- assign seo_title = page_title | replace: '|', '&#124;' -%}
 {%- else -%}

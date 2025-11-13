@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 title: Yokoi Lab @ NINJAL / 横井研究室 @ 国語研
+seo_title: Top
 author_profile: false
 excerpt: ""
 header:
