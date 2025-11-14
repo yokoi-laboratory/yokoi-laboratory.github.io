@@ -43,7 +43,9 @@ header:
   - ぜひ色々な論文誌・学会に論文を研究結果を投稿し，発表に行き，日本中・世界中の研究仲間との議論を楽しんでもらえたらと思っています．
   - さらに，総研大には，国際学会への参加や，国内外の共同研究の打ち合わせに係る旅費を支援する制度があります：[SOKENDAI研究派遣プログラム](https://www.soken.ac.jp/education/dispatch/sokendai_studentdispatchprogram/)．
 - **ノートパソコン**：上限25万円（2025年度実績）で，総研大から希望の機種を貸与してもらえます．
-- **計算用サーバー**：共用の計算サーバーを利用できます．
+- <details markdown="1">
+  <summary><strong>計算用サーバー</strong>：共用の計算サーバーを利用できます．</summary>
+
   - 国語研の関係者が利用できるサーバー
     - GPU: NVIDIA RTX A6000 × 4, 各 48 GB VRAM
     - CPU: Intel(R) Xeon(R) Gold 6238R CPU @ 2.20GHz × 122
@@ -52,6 +54,8 @@ header:
     - GPU: NVIDIA H100 × 4, 各 80 GB VRAM
     - CPU: Intel(R) Xeon(R) Gold 6548Y+ × 128
     - RAM: 1 TB
+
+  </details>
 - **ほか**：何でも相談してください．
 
 ### 🏫 他大学の学部・修士・博士学生として定期的に遊びに来たい
