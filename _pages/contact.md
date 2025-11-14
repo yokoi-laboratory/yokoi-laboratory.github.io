@@ -10,11 +10,11 @@ header:
   overlay_color: "#404040"
 ---
 
-## Contact / 連絡先
+## ✉️ Contact / 連絡先
 ラボメンバーの連絡先は [ラボメンバー一覧 (Members)](/members/) を参照ください．  
 横井の連絡先はこちらです： `yokoi[at]ninjal.ac.jp`
 
-## Access / アクセス
+## 🚃 Access / アクセス
 〒190-8561 東京都立川市緑町10-2  
 国立国語研究所
 
