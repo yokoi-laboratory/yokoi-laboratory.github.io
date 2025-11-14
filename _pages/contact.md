@@ -23,4 +23,5 @@ header:
   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-交通機関については，[国立国語研究所 > 交通案内](https://www.ninjal.ac.jp/utility/access/)にも情報があります．
+<br/>
+国立国語研究所への移動のための交通機関については，[国立国語研究所 > 交通案内](https://www.ninjal.ac.jp/utility/access/)にも情報があります．
