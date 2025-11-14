@@ -24,4 +24,4 @@ header:
   referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <br/>
-国立国語研究所への移動のための交通機関については，[国立国語研究所 > 交通案内](https://www.ninjal.ac.jp/utility/access/)にも情報があります．
+国立国語研究所への移動のための交通機関については，[国立国語研究所 > 交通案内](https://www.ninjal.ac.jp/utility/access/) にも情報があります．
