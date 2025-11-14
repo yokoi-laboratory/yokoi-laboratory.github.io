@@ -11,7 +11,7 @@ header:
 ---
 
 ## Contact / 連絡先
-ラボメンバーの連絡先は，[ラボメンバー一覧 (Members)](/members/) を参照ください．  
+ラボメンバーの連絡先は [ラボメンバー一覧 (Members)](/members/) を参照ください．  
 横井の連絡先はこちらです： `yokoi[at]ninjal.ac.jp`
 
 ## Access / アクセス
