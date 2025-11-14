@@ -38,6 +38,14 @@
 
 
 // Custom styles for the site
+.page__hero{
+    &--overlay {
+        padding: 2em 0 0.5em 0; // Note .page__title has margin bottom
+        .page__title{
+            font-size: $type-size-3 !important;
+        }
+    }
+}
 
 h3 {
     margin: 2em 0 0.5em !important;
