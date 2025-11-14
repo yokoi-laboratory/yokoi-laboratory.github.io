@@ -21,7 +21,7 @@ title                    : "Yokoi Lab @ NINJAL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yokoi Lab"
-description              : "Website for Yokoi Lab at NINJAL, Tokyo, Japan."
+description              : "Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所"
 url                      : "https://yokoi-lab.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
 repository               : "yokoi-laboratory/yokoi-laboratory.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
