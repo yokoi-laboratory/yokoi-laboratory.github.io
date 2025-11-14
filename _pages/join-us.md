@@ -25,9 +25,9 @@ header:
 
 #### スケジュール
 入試や出願に関する毎年のスケジュールは概ね以下の通りです．相談会・説明会についても，ご興味があるかたはぜひ気軽にご参加ください．
-- 毎年7月の国語研のオープンハウス「[ニホンゴ探検](https://www2.ninjal.ac.jp/tanken/)」にて，[日本語言語科学コース 相談会](https://www.ninjal.ac.jp/education/soken/admission/guidance/)（大学院進学相談会）が併設されます．
-- 毎年9月に，国語研にて[日本語言語科学コース 説明会](https://www.ninjal.ac.jp/education/soken/admission/guidance/)（大学院進学希望者向けの説明会）が開催されます．
-- [願書は毎年**12月初旬 (必着)**](https://www.soken.ac.jp/admission/application_info/jls/index.html) です．大学院への検討されているかたはお忘れなきようご注意ください．
+- 毎年7月の国語研のオープンハウス「[ニホンゴ探検](https://www2.ninjal.ac.jp/tanken/)」にて[日本語言語科学コース 相談会](https://www.ninjal.ac.jp/education/soken/admission/guidance/)（進学希望者向けの相談会）が併設開催されます．
+- 毎年9月に国語研にて[日本語言語科学コース 説明会](https://www.ninjal.ac.jp/education/soken/admission/guidance/)（進学希望者向けの説明会）が開催されます．
+- [願書は毎年**12月初旬頃必着**](https://www.soken.ac.jp/admission/application_info/jls/index.html) です．大学院への検討されているかたはお忘れなきようご準備をお願いします．不明点があれば，事務的なことは事務ご担当者まで，研究内容については横井まで，早めにご確認ください．
 
 #### 支援
 
