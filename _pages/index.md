@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: 横井研究室 @ 国語研
-seo_title: Top
+seo_title: Top Page / News
 author_profile: false
 excerpt: ""
 header:
