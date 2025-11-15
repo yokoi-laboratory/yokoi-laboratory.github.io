@@ -1,7 +1,6 @@
 ---
 layout: splash
 title: "Contact & Access / 連絡先・アクセス"
-seo_title: "Contact & Access / 連絡先・アクセス"
 permalink: /contact/
 author_profile: false
 excerpt: ""
