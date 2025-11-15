@@ -2,6 +2,30 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+// custom style
+summary::-webkit-details-marker {
+  display: none;
+}
+summary::marker {
+  display: none;
+}
+summary {
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+  padding-left: 1.2em;
+}
+summary::before {
+  content: "▶";
+  position: absolute;
+  left: 0;
+  transition: transform 0.2s;
+}
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+// main
 #main {
   @include clearfix;
   margin-inline: auto;
