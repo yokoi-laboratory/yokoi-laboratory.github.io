@@ -1,7 +1,6 @@
 ---
 layout: splash
 title: "Join Us / 当研究室での活動を希望するかたへ"
-seo_title: "Join Us / 当研究室での活動を希望するかたへ"
 permalink: /join-us/
 category: Blog
 excerpt: ""
