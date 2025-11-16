@@ -32,15 +32,15 @@ header:
 - 総研大のWeb内，入学希望者向けの情報がまとまっているページ： [総合研究大学院大学 > 受験をお考えの方へ](https://www.ninjal.ac.jp/education/soken/)
 
 #### スケジュール
-入試や出願ののスケジュールは概ね以下の通りです．毎年の正確な日付はリンク先を確認してください．
-- 毎年7月の国語研のオープンハウス「[ニホンゴ探検](https://www2.ninjal.ac.jp/tanken/)」にて[日本語言語科学コース 相談会](https://www.ninjal.ac.jp/education/soken/admission/guidance/)（進学希望者向けの相談会）が併設開催されます．
-- 毎年9月に国語研にて[日本語言語科学コース 説明会](https://www.ninjal.ac.jp/education/soken/admission/guidance/)（進学希望者向けの説明会）が開催されます．
+入試や出願のスケジュールは概ね以下の通りです．毎年の正確な日付はリンク先を確認してください．
+- 毎年7月：国語研のオープンハウス「[ニホンゴ探検](https://www2.ninjal.ac.jp/tanken/)」にて，[日本語言語科学コース 相談会](https://www.ninjal.ac.jp/education/soken/admission/guidance/)（進学希望者向けの個別相談会）が併設開催されます．
+- 毎年9月：国語研にて，[日本語言語科学コース 説明会](https://www.ninjal.ac.jp/education/soken/admission/guidance/)（進学希望者向けの説明会および個別相談会）が開催されます．
 - [願書は毎年**12月初旬頃必着**](https://www.soken.ac.jp/admission/application_info/jls/index.html) です．大学院への検討されているかたはお忘れなきようご準備をお願いします．不明点があれば，事務的なことは事務ご担当者まで，研究内容については横井まで，早めにご確認ください．
 
 #### 支援
 
 - **研究費**：個人の裁量で自由に使える研究費が，総研大から年20万円（2025年度実績）支給されます．
-- **奨学金・グラント**：おおよそ学振DC相当額の収入が常に得られるように，大型の奨学金・グラントの申請活動を支援し，また採択までの期間の金銭的な支援をします．
+- **奨学金・グラント**：おおよそ学振DC相当額の収入が常に得られるように，大型の奨学金・グラントの申請活動の支援と，採択までの期間の金銭的な支援をします．
   - 大型の奨学金・グラントの獲得を支援します．
     - [SOKENDAI特別研究員制度](https://www.soken.ac.jp/campuslife/tuition/sp_researcher_n/)（JST SPRING，BOOSTにあたります），[学振DC](https://www.jsps.go.jp/j-pd/pd_sin.html)，[JST ACT-X](https://www.jst.go.jp/kisoken/act-x/) などの申請を，積極的に支援・添削します．
     - 大型の奨学金・グラントの申請を強く推奨しています．自由に使えるお金が大幅に増えるだけではなく，研究計画をまとめる良い機会になり，ライティングの練習にもなり，生産的な博士生活を送る上で有用です．さらに，採択されれば，近い世代の広い分野の元気な人と知り合うための良い機会となり，また就職活動時もアピールできます．
