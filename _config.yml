@@ -28,7 +28,7 @@ repository               : "yokoi-laboratory/yokoi-laboratory.github.io" # GitHu
 page_large_image         : "/assets/img/meta/OGP/page-large-img-1200x630_dpi72.png" # path of default large image for pages, e.g. "/assets/images/1200x630.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Yokoi Lab @ NINJAL"
+masthead_title           : "Yokoi Lab @ NINJAL🥷"
 breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)

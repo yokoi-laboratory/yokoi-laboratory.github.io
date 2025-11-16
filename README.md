@@ -1,6 +1,6 @@
 # Yokoi-Lab 
 
-## 編集方法
+## Web ページの編集の仕方
 
 1. GitHub上でテキストファイルを直接編集する
     - `collections/_posts` 内: news, blog, 等 (編集というより追加が主)
