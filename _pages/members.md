@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "Members / ラボメンバー一覧"
+seo_title: "Members / ラボメンバー一覧"
 permalink: /members/
 author_profile: false
 excerpt: ""
