@@ -35,6 +35,12 @@ var store = [{
         "url": "/preview/pr-30/202511-ibis-ishimine",
         "teaser": null
       },{
+        "title": "p進数を用いた単語埋め込みについて",
+        "excerpt":"","categories": [],
+        "tags": [],
+        "url": "/preview/pr-30/202511-ibis-mihara",
+        "teaser": null
+      },{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
         "excerpt":" ","categories": [],
         "tags": [],
