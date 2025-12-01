@@ -29,6 +29,24 @@ var store = [{
         "url": "/202509-yans-kazama",
         "teaser": null
       },{
+        "title": "なぜ一次モーメント情報のみ残したテキスト埋め込みはうまく動くのか？：単語埋め込み集合における二次モーメント情報の崩壊の分析",
+        "excerpt":"","categories": [],
+        "tags": [],
+        "url": "/202511-ibis-hara",
+        "teaser": null
+      },{
+        "title": "言語モデルの最終隠れ状態のソフト分割可能な単体複体としての分析",
+        "excerpt":"","categories": [],
+        "tags": [],
+        "url": "/202511-ibis-ishimine",
+        "teaser": null
+      },{
+        "title": "p進数を用いた単語埋め込みについて",
+        "excerpt":"","categories": [],
+        "tags": [],
+        "url": "/202511-ibis-mihara",
+        "teaser": null
+      },{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
         "excerpt":" ","categories": [],
         "tags": [],
