@@ -6,6 +6,7 @@ seo_title: Top Page / News
 author_profile: false
 excerpt: ""
 header:
+  show_overlay_excerpt: false
   overlay_color: "#404040"
 ---
 
