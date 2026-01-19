@@ -47,6 +47,12 @@ var store = [{
         "url": "/preview/pr-38/202511-ibis-mihara",
         "teaser": null
       },{
+        "title": null,
+        "excerpt":"","categories": [],
+        "tags": null,
+        "url": "/preview/pr-38/202603-hara-nlp",
+        "teaser": null
+      },{
         "title": "単体複体を用いた次単語予測分布の幾何的解釈",
         "excerpt":"","categories": [],
         "tags": [],
