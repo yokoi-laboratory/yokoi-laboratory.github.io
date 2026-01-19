@@ -59,6 +59,12 @@ var store = [{
         "url": "/preview/pr-38/202603-ishimine-nlp",
         "teaser": null
       },{
+        "title": null,
+        "excerpt":"","categories": [],
+        "tags": null,
+        "url": "/preview/pr-38/202603-kiya-nlp",
+        "teaser": null
+      },{
         "title": "タスク算術の誤差項とその解釈",
         "excerpt":"","categories": [],
         "tags": [],
