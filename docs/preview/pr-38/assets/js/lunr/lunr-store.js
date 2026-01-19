@@ -74,6 +74,12 @@ var store = [{
         "title": null,
         "excerpt":"","categories": [],
         "tags": null,
+        "url": "/preview/pr-38/202603-ohashi-nlp",
+        "teaser": null
+      },{
+        "title": null,
+        "excerpt":"","categories": [],
+        "tags": null,
         "url": "/preview/pr-38/202603-sakata-nlp",
         "teaser": null
       },{
