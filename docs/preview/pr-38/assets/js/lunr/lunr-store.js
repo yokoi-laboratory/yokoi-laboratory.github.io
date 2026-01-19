@@ -53,6 +53,12 @@ var store = [{
         "url": "/preview/pr-38/202603-ishimine-nlp",
         "teaser": null
       },{
+        "title": null,
+        "excerpt":"","categories": [],
+        "tags": null,
+        "url": "/preview/pr-38/202603-sakata-nlp",
+        "teaser": null
+      },{
         "title": "Mambaの‘‘処理時間’’はヒトの読み時間と符号する",
         "excerpt":"","categories": [],
         "tags": [],
