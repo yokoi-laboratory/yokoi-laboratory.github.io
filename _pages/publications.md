@@ -38,7 +38,7 @@ header:
   <ol>
     {% for publication in site.domesticConferences reversed %}
     <li>
-        {% include pub-anlp-domestic-conf.html  %}
+        {% include pub-domestic-conf.html  %}
       </li>
     {% endfor %}
 
