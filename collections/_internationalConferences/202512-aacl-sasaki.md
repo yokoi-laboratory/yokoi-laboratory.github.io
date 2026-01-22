@@ -39,6 +39,9 @@ year: 2025
 month: 12
 pages: 
 links:
+  - name: "ACL Anthology"
+    url: "https://aclanthology.org/2025.ijcnlp-short.36/"
+    logo:  "/assets/acl-logo.svg"
   - name: "arXiv"
     url: "https://arxiv.org/abs/2509.04432"
     logo: "/assets/arxiv-logomark-small.svg"
