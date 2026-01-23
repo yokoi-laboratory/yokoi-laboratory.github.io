@@ -12,6 +12,10 @@ paper:
   proceedings: "Findings of the Association for Computational Linguistics: ACL 2025"
   year_month: July 2025
   pages: 16717-16741
+presentation:
+  type: "Poster"
+  venue: "Vienna, Austria"
+  year_month: July 2025
 links:
   - name: "ACL 2025"
     url: "https://2025.aclweb.org/"
