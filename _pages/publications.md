@@ -59,3 +59,15 @@ header:
   </ol>
 
 </div>
+
+## Books
+
+<div>
+  <ol>
+    {% for book in site.books reversed %}
+    <li>
+        {% include pub-books.html  %}
+      </li>
+    {% endfor %}
+
+  </ol>
