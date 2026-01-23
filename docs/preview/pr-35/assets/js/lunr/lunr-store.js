@@ -1,158 +1,176 @@
 var store = [{
+        "title": "言語の表現空間の形, 数理科学 2025年10月号 No.748「データの幾何学と機械学習-データの「近さ」や「繋がり」を捉える-」",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/books/202510-article-mathscience/",
+        "teaser": null
+      },{
+        "title": "確率的機械学習：入門編 I ―基礎と線形モデル―",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/books/202511-book-Murphy1/",
+        "teaser": null
+      },{
+        "title": "確率的機械学習：入門編 II ―非線形モデル―",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/books/202511-book-murphy2/",
+        "teaser": null
+      },{
         "title": "不均衡最適輸送を用いた意味変化検出",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202503-kishino-nlp",
+        "url": "/preview/pr-35/domesticConferences/202503-kishino-nlp/",
         "teaser": null
       },{
         "title": "層の冗長性と層同士の独立性に基づく言語モデルの層交換の成否の特徴づけ",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202503-kobayashi-nlp",
+        "url": "/preview/pr-35/domesticConferences/202503-kobayashi-nlp/",
         "teaser": null
       },{
         "title": "文長による内容語率の変化が引き起こす文ベクトルの品質低下",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202505-hara-jsai",
+        "url": "/preview/pr-35/domesticConferences/202505-hara-jsai/",
         "teaser": null
       },{
         "title": "密度比の直接推定に基づく言語モデルの出力較正",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202509-yans-kamoda",
+        "url": "/preview/pr-35/domesticConferences/202509-yans-kamoda/",
         "teaser": null
       },{
         "title": "拡散言語モデルによる日本語縦読み文章生成",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202509-yans-kazama",
+        "url": "/preview/pr-35/domesticConferences/202509-yans-kazama/",
         "teaser": null
       },{
         "title": "なぜ一次モーメント情報のみ残したテキスト埋め込みはうまく動くのか？：単語埋め込み集合における二次モーメント情報の崩壊の分析",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202511-ibis-hara",
+        "url": "/preview/pr-35/domesticConferences/202511-ibis-hara/",
         "teaser": null
       },{
         "title": "言語モデルの最終隠れ状態のソフト分割可能な単体複体としての分析",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202511-ibis-ishimine",
+        "url": "/preview/pr-35/domesticConferences/202511-ibis-ishimine/",
         "teaser": null
       },{
         "title": "p進数を用いた単語埋め込みについて",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202511-ibis-mihara",
+        "url": "/preview/pr-35/domesticConferences/202511-ibis-mihara/",
         "teaser": null
       },{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202504-iclr-deguchi",
+        "url": "/preview/pr-35/internationalConferences/202504-iclr-deguchi/",
         "teaser": null
       },{
         "title": "TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202504-iclr-shing",
+        "url": "/preview/pr-35/internationalConferences/202504-iclr-shing/",
         "teaser": null
       },{
         "title": "On Entity Identification in Language Models",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202507-acl-sakata",
+        "url": "/preview/pr-35/internationalConferences/202507-acl-sakata/",
         "teaser": null
       },{
         "title": "Understanding the Side Effects of Rank-One Knowledge Editing",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202511-blackboxnlp-takahashi",
+        "url": "/preview/pr-35/internationalConferences/202511-blackboxnlp-takahashi/",
         "teaser": null
       },{
         "title": "How a Bilingual LM Becomes Bilingual: Tracing Internal Representations with Sparse Autoencoders",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202511-emnlp-inaba",
+        "url": "/preview/pr-35/internationalConferences/202511-emnlp-inaba/",
         "teaser": null
       },{
         "title": "Can Language Models Handle a Non-Gregorian Calendar?",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202512-aacl-sasaki",
+        "url": "/preview/pr-35/internationalConferences/202512-aacl-sasaki/",
         "teaser": null
       },{
         "title": "言語モデルの内部機序：解析と解釈",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202503-nlp2025-tutorial",
+        "url": "/preview/pr-35/invitedTalks/202503-nlp2025-tutorial/",
         "teaser": null
       },{
         "title": "「確率的なオウム」にできること，またそれがなぜできるのかについて",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/202509-yokoi-jaecs",
+        "url": "/preview/pr-35/invitedTalks/202509-yokoi-JAECS/",
         "teaser": null
       },{
         "title": "Go_kamoda",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/go-kamoda",
+        "url": "/preview/pr-35/members/go_kamoda/",
         "teaser": null
       },{
         "title": "Hikaru_nakao",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/hikaru-nakao",
+        "url": "/preview/pr-35/members/hikaru_nakao/",
         "teaser": null
       },{
         "title": "Kai_nakaishi",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/kai-nakaishi",
+        "url": "/preview/pr-35/members/kai_nakaishi/",
         "teaser": null
       },{
         "title": "Masahiro_kazama",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/masahiro-kazama",
+        "url": "/preview/pr-35/members/masahiro_kazama/",
         "teaser": null
       },{
         "title": "Ryo_ueda",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/ryo-ueda",
+        "url": "/preview/pr-35/members/ryo_ueda/",
         "teaser": null
       },{
         "title": "Saori_morita",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/saori-morita",
+        "url": "/preview/pr-35/members/saori_morita/",
         "teaser": null
       },{
         "title": "Sho_yokoi",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/sho-yokoi",
+        "url": "/preview/pr-35/members/sho_yokoi/",
         "teaser": null
       },{
         "title": "Shuri_kozuka",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/shuri-kozuka",
+        "url": "/preview/pr-35/members/shuri_kozuka/",
         "teaser": null
       },{
         "title": "Takumi_ishimine",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/takumi-ishimine",
+        "url": "/preview/pr-35/members/takumi_ishimine/",
         "teaser": null
       },{
         "title": "Yuji_yamamoto",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/yuji-yamamoto",
+        "url": "/preview/pr-35/members/yuji_yamamoto/",
         "teaser": null
       },{
         "title": "研究室のウェブサイトが立ち上がりました",
