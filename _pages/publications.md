@@ -21,7 +21,7 @@ header:
   <ol>
     {% for publication in site.internationalConferences reversed %}
       <li>
-        {% include pub-apa-international-conf.html  %}
+        {% include pub-international-conf.html  %}
       </li>
     {% endfor %}
 

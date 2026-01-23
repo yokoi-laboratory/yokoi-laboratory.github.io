@@ -1,27 +1,26 @@
 
-<!-- https://www.anlp.jp/guide/guideline.html -->
-{%- assign hideawards = include.hideawards | default: false -%}
-{%- assign publication = include.publication -%}
-
 {% for author in publication.authors %}
-    {{ author }}
+    {%- if forloop.last == true -%}
+    & 
+    {% endif %}
+    {{ author}}
     {%- if forloop.last == false -%}
     ,
-    {%- endif -%}
-{% endfor %}.<br>
+    {% endif %}
+{% endfor %}<br>
 <strong>{{ publication.title }}</strong>.<br>
-{%- if publication.conference -%}
-    {{ publication.conference }}
-    {% if publication.conference_abbreviation -%}
-        ({{ publication.conference_abbreviation }})
-    {%- endif -%}
-    .<br>
-{%- endif -%}
-
-
+{{ publication.conference}} {%- if publication.conference_abbreviation %} ({{ publication.conference_abbreviation }}){% endif %}.<br>
 {%- if publication.paper -%}
     <i class="fa-regular fa-file"></i> 
     {{ publication.paper.proceedings }}
+    {%- if publication.paper.pages -%}
+        <!-- if has "-" or "–", pages else page -->
+        {%- if publication.paper.pages contains "-" or publication.paper.pages contains "–" -%}
+            , pages {{ publication.paper.pages }}
+        {%- else -%}
+            , page {{ publication.paper.pages }}
+        {%- endif -%}
+    {%- endif -%}
     {%- if publication.paper.year_month -%}
         , {{ publication.paper.year_month }}
     {%- endif -%}.<br>
@@ -32,13 +31,6 @@
     {{ publication.presentation.venue }},
     {{ publication.presentation.year_month }}.<br>
 {% endif %}
-{%- if publication.awards -%}
-    {%- for award in publication.awards -%}
-        <i class="fa-solid fa-award"></i>
-        {{ award.name }} {% if award.rank %}({{ award.rank }}){%- endif %}.
-    {% endfor %}<br>
-{% endif %}
-
 {% if publication.links %}
     {%- for link in publication.links -%}
     <a class="link-btn" href="{{ link.url }}" target="_blank">{{ link.name}}</a>
