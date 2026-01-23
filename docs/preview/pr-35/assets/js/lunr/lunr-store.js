@@ -47,12 +47,6 @@ var store = [{
         "url": "/preview/pr-35/202511-ibis-mihara",
         "teaser": null
       },{
-        "title": "Mambaの‘‘処理時間’’はヒトの読み時間と符号する",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/preview/pr-35/202603-yamamoto-nlp",
-        "teaser": null
-      },{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
         "excerpt":" ","categories": [],
         "tags": [],
