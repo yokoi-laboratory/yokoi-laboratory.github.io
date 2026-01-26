@@ -5,15 +5,23 @@
 1. 正しいブランチに移動する
     - 新しく編集を行う場合は `main`ブランチに移動する
     - すでに編集をし始めていてそれに上書きをする場合は、編集中のブランチに移動する
+      - 同じブランチに編集するかどうかは，トピックが同じかどうかで判断する．
     - ※ すでにマージされたブランチはそれ以上編集しない
 1. GitHub上でテキストファイルを直接編集する
     - `collections/_posts` 内: news, blog, 等 (編集というより追加が主)
     - `collections/_domesticConferences` 内: 国内会議の論文 (ANLP, 言語処理学会, 情報処理学会 等)
     - `collections/_internationalConferences` 内: 国際会議の論文 (ACL, EMNLP, NAACL 等)
     - `collections/_invitedTalks` 内: 招待講演
+    - `collections/_books` 内: 書籍
     - `collections/_members` 内: メンバー情報
     - `_pages` 内: Research, Publications, Join Us などのメインページのフォーマット
     - 画像を埋め込む場合は、履歴に残らないようにラボのGyazoを利用する。
+    - 注意点
+      - 新しくファイルを作る場合は，拡張子まで指定すること (ほとんどの場合は`.md`)
+      - 各ファイルの上部に `---`で囲まれた部分はyaml形式で書くこと
+        - 適宜オンラインのチェッカー ([例](https://yamlchecker.com/)を使用すること))
+        - もしくは，VSCodeに慣れている人は，github上で`.`を打つとブラウザ上でvscodeが立ち上がる
+        - `tab`ではなくスペースを使用すること
 1. 新しいブランチにコミットする
     - `Commit changes` ボタンをクリックする
     - Commit message を埋める (任意)
