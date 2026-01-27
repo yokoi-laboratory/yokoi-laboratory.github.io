@@ -10,11 +10,6 @@ header:
   overlay_color: "#404040"
 ---
 
-<!--
-現在のラボメンバーの一覧です．  
-研究室に何らかの形で参加されたいというかたは（歓迎します），[当研究室での活動を希望するかたへ (Join Us)](/join-us/) をご確認ください．
--->
-
 <!-- Sort members by last name en -->
 {% assign members = site.members | sort: "last_name_en" %}
 
