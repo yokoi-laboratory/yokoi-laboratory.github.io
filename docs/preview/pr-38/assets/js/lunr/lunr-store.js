@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": null,
-        "excerpt":"","categories": [],
+        "excerpt":" ","categories": [],
         "tags": null,
         "url": "/preview/pr-38/202603-sakata-nlp",
         "teaser": null
