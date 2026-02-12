@@ -20,19 +20,19 @@ var store = [{
         "title": "不均衡最適輸送を用いた意味変化検出",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/domesticConferences/202503-kishino-nlp/",
+        "url": "/preview/pr-35/domesticConferences/202503-nlp-kishino/",
         "teaser": null
       },{
         "title": "層の冗長性と層同士の独立性に基づく言語モデルの層交換の成否の特徴づけ",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/domesticConferences/202503-kobayashi-nlp/",
+        "url": "/preview/pr-35/domesticConferences/202503-nlp-kobayashi/",
         "teaser": null
       },{
         "title": "文長による内容語率の変化が引き起こす文ベクトルの品質低下",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/preview/pr-35/domesticConferences/202505-hara-jsai/",
+        "url": "/preview/pr-35/domesticConferences/202505-jsai-hara/",
         "teaser": null
       },{
         "title": "密度比の直接推定に基づく言語モデルの出力較正",
@@ -48,21 +48,69 @@ var store = [{
         "teaser": null
       },{
         "title": "なぜ一次モーメント情報のみ残したテキスト埋め込みはうまく動くのか？：単語埋め込み集合における二次モーメント情報の崩壊の分析",
-        "excerpt":"","categories": [],
+        "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-35/domesticConferences/202511-ibis-hara/",
         "teaser": null
       },{
         "title": "言語モデルの最終隠れ状態のソフト分割可能な単体複体としての分析",
-        "excerpt":"","categories": [],
+        "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-35/domesticConferences/202511-ibis-ishimine/",
         "teaser": null
       },{
         "title": "p進数を用いた単語埋め込みについて",
-        "excerpt":"","categories": [],
+        "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-35/domesticConferences/202511-ibis-mihara/",
+        "teaser": null
+      },{
+        "title": "なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/domesticConferences/202603-nlp-hara/",
+        "teaser": null
+      },{
+        "title": "単体複体を用いた次単語予測分布の幾何的解釈",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/domesticConferences/202603-nlp-ishimine/",
+        "teaser": null
+      },{
+        "title": "Attention Sink および Massive Activation の発生機序の分解",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/domesticConferences/202603-nlp-kiya/",
+        "teaser": null
+      },{
+        "title": "タスク算術の誤差項とその解釈",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/domesticConferences/202603-nlp-lee/",
+        "teaser": null
+      },{
+        "title": "注意機構における Attention Sink のバイアス項的解釈",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/domesticConferences/202603-nlp-ohashi/",
+        "teaser": null
+      },{
+        "title": "言語モデルに線形に内在する階層的概念",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/domesticConferences/202603-nlp-sakata/",
+        "teaser": null
+      },{
+        "title": "Mambaの\"処理時間\"はヒトの読み時間と符号する",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/domesticConferences/202603-nlp-yamamoto/",
+        "teaser": null
+      },{
+        "title": "SoftMatcha 2: 一兆語規模のコーパスに対する柔らかく超高速な検索システム",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-35/domesticConferences/202603-nlp-yoneda/",
         "teaser": null
       },{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
