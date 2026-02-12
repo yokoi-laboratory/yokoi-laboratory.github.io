@@ -50,16 +50,16 @@ var store = [{
         "title": "なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/202603-hara-nlp",
+        "url": "/202603-nlp-hara",
         "teaser": null
       },{
         "title": "単体複体を用いた次単語予測分布の幾何的解釈",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/202603-ishimine-nlp",
+        "url": "/202603-nlp-ishimine",
         "teaser": null
       },{
-        "title": "Attention SinkおよびMassive Activationの発生機序の分解",
+        "title": "Attention Sink および Massive Activation の発生機序の分解",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/202603-nlp-kiya",
@@ -83,7 +83,7 @@ var store = [{
         "url": "/202603-nlp-sakata",
         "teaser": null
       },{
-        "title": "Mambaの‘‘処理時間’’はヒトの読み時間と符号する",
+        "title": "Mambaの\"処理時間\"はヒトの読み時間と符号する",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/202603-nlp-yamamoto",
