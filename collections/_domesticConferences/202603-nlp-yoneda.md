@@ -16,4 +16,7 @@ presentation:
     name: "言語処理学会第32回年次大会"
     abbreviation: "NLP 2026"
     url: "https://anlp.jp/nlp2026/"
+links:
+  - name: "Project Page"
+    url: https://softmatcha.github.io/v2/ja/
 ---
