@@ -59,9 +59,9 @@ var store = [{
         "url": "/preview/pr-38/202603-ishimine-nlp",
         "teaser": null
       },{
-        "title": null,
-        "excerpt":"","categories": [],
-        "tags": null,
+        "title": "Attention SinkおよびMassive Activationの発生機序の分解",
+        "excerpt":" ","categories": [],
+        "tags": [],
         "url": "/preview/pr-38/202603-kiya-nlp",
         "teaser": null
       },{
