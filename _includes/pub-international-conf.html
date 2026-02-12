@@ -1,18 +1,18 @@
 
 {% for author in publication.authors %}
     {%- if forloop.last == true -%}
-    & 
+    and 
     {% endif %}
     {{ author}}
     {%- if forloop.last == false -%}
     ,
     {% endif %}
 {% endfor %}<br>
-<strong>{{ publication.title }}</strong>.<br>
-{{ publication.conference}} {%- if publication.conference_abbreviation %} ({{ publication.conference_abbreviation }}){% endif %}.<br>
+{%- assign last = publication.title | slice: -1, 1 -%}
+<strong>{{ publication.title }}</strong>{%- unless last == "." or last == "!" or last == "?" -%}.{%- endunless -%}<br>
 {%- if publication.paper -%}
-    <i class="fa-regular fa-file"></i> 
-    {{ publication.paper.proceedings }}
+    <i class="fa-regular fa-file"></i>
+    In <i>{{ publication.paper.proceedings }}</i>
     {%- if publication.paper.pages -%}
         <!-- if has "-" or "–", pages else page -->
         {%- if publication.paper.pages contains "-" or publication.paper.pages contains "–" -%}
@@ -28,6 +28,11 @@
 {% if publication.presentation %}
     <i class="fa-solid fa-person-chalkboard"></i>
     {{ publication.presentation.type }},
+    {% if publication.presentation.conference.url %}
+    <a href="{{ publication.presentation.conference.url }}" target="_blank">{{ publication.presentation.conference.name }}</a> {%- if publication.presentation.conference.abbreviation %} ({{ publication.presentation.conference.abbreviation }}){% endif %}.
+    {% else %}
+    {{ publication.presentation.conference.name }} {%- if publication.presentation.conference.abbreviation %} ({{ publication.presentation.conference.abbreviation }}){% endif %}.
+    {% endif %}
     {{ publication.presentation.venue }},
     {{ publication.presentation.year_month }}.<br>
 {% endif %}
