@@ -1,0 +1,22 @@
+---
+title: "Mambaの‘‘処理時間’’はヒトの読み時間と符号する"
+proceedings_title: "言語処理学会 第32回年次大会 発表論文集"
+authors:
+  - name: 山本悠士
+    affiliation:
+    - 総合研究大学院大学
+    - 国立国語研究所
+  - name: 磯野真之介
+    affiliation:
+      - 国立国語研究所
+  - name: 河原 吉伸
+    affiliation:
+      - 
+  - name: 横井祥
+    affiliation:
+      - 国立国語研究所
+      - 東北大学
+      - 理化学研究所
+year: 2026
+month: 3
+---
