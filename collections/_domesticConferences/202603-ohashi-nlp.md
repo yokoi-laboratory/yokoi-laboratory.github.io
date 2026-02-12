@@ -34,8 +34,4 @@ authors:
       - 
 year: 2026
 month: 3
-pages: 
-links:
-  - name: "予稿"
-    url: ""
 ---
