@@ -1,15 +1,9 @@
 ---
-title: "Attention Sink および Massive Activation の発生機序の分解"
+title: "単体複体を用いた次単語予測分布の幾何的解釈"
 authors:
-  - 木谷頼斗
-  - 大橋諭貴
-  - 佐藤宏亮
-  - 鴨田豪
-  - 高橋良允
-  - 山本悠士
-  - 塩野大輝
-  - 坂口慶祐
-  - 小林悟郎
+  - 石峯拓海
+  - 日野英逸
+  - 横井祥
 presentation:
   type: "ポスター発表"
   venue: "宇都宮"

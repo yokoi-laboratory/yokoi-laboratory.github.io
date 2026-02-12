@@ -10,28 +10,39 @@
     {%- endif -%}
 {% endfor %}.<br>
 <strong>{{ publication.title }}</strong>.<br>
-{%- if publication.conference -%}
-    {{ publication.conference }}
-    {% if publication.conference_abbreviation -%}
-        ({{ publication.conference_abbreviation }})
-    {%- endif -%}
-    .<br>
-{%- endif -%}
+
 
 
 {%- if publication.paper -%}
     <i class="fa-regular fa-file"></i> 
-    {{ publication.paper.proceedings }}
+    In <i>{{ publication.paper.proceedings }}</i>
+    {%- if publication.paper.pages -%}
+        <!-- if has "-" or "–", pages else page -->
+        {%- if publication.paper.pages contains "-" or publication.paper.pages contains "–" -%}
+            , pp.{{ publication.paper.pages }}
+        {%- else -%}
+            , page {{ publication.paper.pages }}
+        {%- endif -%}
+    {%- endif -%}
     {%- if publication.paper.year_month -%}
         , {{ publication.paper.year_month }}
     {%- endif -%}.<br>
 {%- endif -%}
+
+
 {% if publication.presentation %}
     <i class="fa-solid fa-person-chalkboard"></i>
     {{ publication.presentation.type }},
+    {% if publication.presentation.conference.url %}
+    <a href="{{ publication.presentation.conference.url }}" target="_blank">{{ publication.presentation.conference.name }}</a> {%- if publication.presentation.conference.abbreviation %} ({{ publication.presentation.conference.abbreviation }}){% endif %}.
+    {% else %}
+    {{ publication.presentation.conference.name }} {%- if publication.presentation.conference.abbreviation %} ({{ publication.presentation.conference.abbreviation }}){% endif %}.
+    {% endif %}
     {{ publication.presentation.venue }},
     {{ publication.presentation.year_month }}.<br>
 {% endif %}
+
+
 {%- if publication.awards -%}
     {%- for award in publication.awards -%}
         <i class="fa-solid fa-award"></i>
