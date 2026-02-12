@@ -1,0 +1,21 @@
+{%- assign book = include.book -%}
+
+
+{% for author in book.authors %}
+{%- if forloop.last and forloop.length > 1 -%}
+& 
+{% endif %}
+{{ author }}.
+{%- if forloop.last == false -%}
+,
+{% endif %}
+{% endfor %}
+({{ book.year }}).<br>
+<strong>{{ book.title }}</strong>.<br>
+{{ book.publisher }}.<br>
+
+{% if book.links %}
+    {%- for link in book.links -%}
+    <a class="link-btn" href="{{ link.url }}" target="_blank">{{ link.label }}</a>
+    {%- endfor -%}
+{% endif %}

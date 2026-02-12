@@ -326,13 +326,11 @@ collections_dir: collections
 collections:
   members:
     output: false
-    permalink: /:name
   internationalConferences:
     output: false
-    permalink: /:name
   domesticConferences:
     output: false
-    permalink: /:name
   invitedTalks:
     output: false
-    permalink: /:name
+  books:
+    output: false
