@@ -77,9 +77,9 @@ var store = [{
         "url": "/preview/pr-38/202603-ohashi-nlp",
         "teaser": null
       },{
-        "title": null,
+        "title": "言語モデルに線形に内在する階層的概念",
         "excerpt":" ","categories": [],
-        "tags": null,
+        "tags": [],
         "url": "/preview/pr-38/202603-sakata-nlp",
         "teaser": null
       },{
