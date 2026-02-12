@@ -84,7 +84,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Mambaの‘‘処理時間’’はヒトの読み時間と符号する",
-        "excerpt":"","categories": [],
+        "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-38/202603-yamamoto-nlp",
         "teaser": null
