@@ -66,7 +66,7 @@ var store = [{
         "teaser": null
       },{
         "title": "タスク算術の誤差項とその解釈",
-        "excerpt":"","categories": [],
+        "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-38/202603-lee-nlp",
         "teaser": null
