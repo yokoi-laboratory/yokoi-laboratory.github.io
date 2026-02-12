@@ -13,9 +13,8 @@
 {{ talk.event_name }}<br>
 {{ talk.month }} {{ talk.year }}.
 {% if talk.links %}
-    <br>[
+    <br>
     {%- for link in talk.links -%}
-    <a href="{{ link.url }}" target="_blank">{{ link.name}}</a>{% if forloop.last == false %}, {% endif %}
+    <a href="{{ link.url }}" target="_blank" class="link-btn">{{ link.name}}</a>
     {%- endfor -%}
-    ]
 {% endif %}

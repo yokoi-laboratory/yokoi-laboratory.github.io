@@ -1,19 +1,15 @@
 ---
 title: 言語モデルの最終隠れ状態のソフト分割可能な単体複体としての分析
-proceedings_title: "第28回情報論的学習理論ワークショップ (IBIS 2025)"
 authors:
-  - name: "石峯拓海"
-    affiliation:
-      - 東京大学
-      - 国立国語研究所
-  - name: 日野英逸
-    affiliation:
-    - 統計数理研究所
-  - name: 横井祥
-    affiliation:
-      - 国立国語研究所
-      - 東北大学
-      - 理化学研究所
-year: 2025
-month: 11
+  - "石峯拓海"
+  - "日野英逸"
+  - "横井祥"
+presentation:
+  type: "ポスター発表"
+  venue: "沖縄"
+  year_month: 2025年11月
+  conference:
+    name: "第28回情報論的学習理論ワークショップ"
+    abbreviation: "IBIS 2025"
+    url: "https://ibisml.org/ibis2025/"
 ---

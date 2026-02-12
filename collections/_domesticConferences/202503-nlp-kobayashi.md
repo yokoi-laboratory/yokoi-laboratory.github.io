@@ -1,29 +1,31 @@
 ---
 title: "層の冗長性と層同士の独立性に基づく言語モデルの層交換の成否の特徴づけ"
-proceedings_title: "言語処理学会 第31回年次大会 発表論文集"
 authors:
-  - name: 小林春斗
-    affiliation:
-    - 東北大学
-  - name: 原知正
-    affiliation:
-      - 東北大学
-  - name: 鴨田豪
-    affiliation:
-      - 東北大学
-  - name: 横井祥
-    affiliation:
-      - 国立国語研究所
-      - 東北大学
-      - 理化学研究所
-year: 2025
-month: 3
-pages: 1751-1756
+  - 小林春斗
+  - 原知正
+  - 鴨田豪
+  - 横井祥
+paper:
+  proceedings: "言語処理学会 第31回年次大会 発表論文集"
+  year_month: 2025年3月
+  pages: 1751-1756
+presentation:
+  type: "口頭発表"
+  conference:
+    name: "言語処理学会 第31回年次大会"
+    abbreviation: "NLP 2025"
+    url: "https://anlp.jp/nlp2025/"
+  venue: "長崎"
+  year_month: 2025年3月
 links:
-  - name: "予稿"
+  - name: "論文"
     url: "https://www.anlp.jp/proceedings/annual_meeting/2025/#A5-1"
-    icon: "fa-regular fa-file"
 awards:
-  - name: "若手奨励賞 (20/487)"
+  - name: "言語処理学会第31回年次大会 若手奨励賞"
+    rank: "20/487"
+links:
+  - name: "論文"
+    url: "https://www.anlp.jp/proceedings/annual_meeting/2025/#A5-1"
+  - name: "若手奨励賞"
     url: "https://anlp.jp/nlp2025/award.html"
 ---

@@ -194,3 +194,22 @@ iframe {
         }       
     }
 }
+
+.link-btn {
+  display: inline-block;
+  border-style: solid;
+  border-width:1px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border-color: darkgray;
+  text-decoration: none;
+  margin: 5px 3px;
+
+
+  &:hover {
+    background-color: $primary-color;
+    color: white;
+    text-decoration: none !important;
+    cursor: pointer;
+  }
+}

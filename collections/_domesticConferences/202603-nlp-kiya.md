@@ -1,36 +1,21 @@
 ---
-title: "Attention SinkおよびMassive Activationの発生機序の分解"
-proceedings_title: "言語処理学会 第32回年次大会 発表論文集"
+title: "Attention Sink および Massive Activation の発生機序の分解"
 authors:
-  - name: 木谷頼斗
-    affiliation:
-    - 
-  - name: 大橋諭貴
-    affiliation:
-      - 
-  - name: 佐藤宏亮
-    affiliation:
-      - 
-  - name: 鴨田豪
-    affiliation:
-      - 総合研究大学院大学
-      - 国立国語研究所
-  - name: 高橋良允
-    affiliation:
-      -
-  - name: 山本悠士
-    affiliation:
-      - 総合研究大学院大学
-      - 国立国語研究所
-  - name: 塩野大輝
-    affiliation:
-      -
-  - name: 坂口慶祐
-    affiliation:
-      -
-  - name: 小林悟郎
-    affiliation:
-      - 
-year: 2026
-month: 3
+  - 木谷頼斗
+  - 大橋諭貴
+  - 佐藤宏亮
+  - 鴨田豪
+  - 高橋良允
+  - 山本悠士
+  - 塩野大輝
+  - 坂口慶祐
+  - 小林悟郎
+presentation:
+  type: "ポスター発表"
+  venue: "宇都宮"
+  year_month: 2026年3月
+  conference:
+    name: "言語処理学会第32回年次大会"
+    abbreviation: "NLP 2026"
+    url: "https://anlp.jp/nlp2026/"
 ---

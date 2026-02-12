@@ -44,7 +44,7 @@
    - 名前は `GH_PAT` とする
    - 先ほど取得したPersonal Access Tokenを値として登録する 
 3. Github Actions の権限を設定する
-   - GitHubの設定から、[Settings] -> [Actions] -> [General]
+   - GitHub Organization -> [Settings] -> [Actions] -> [General]
    - `Workflow permissions` を `Read and write permissions` に設定する
 4. Github Actions `Build and Deploy` を実行する
    - main に Push すると自動で実行されるが、失敗している場合は手動で再実行する
