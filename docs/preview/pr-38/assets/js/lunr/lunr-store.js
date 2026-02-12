@@ -71,9 +71,9 @@ var store = [{
         "url": "/preview/pr-38/202603-lee-nlp",
         "teaser": null
       },{
-        "title": null,
+        "title": "注意機構における Attention Sink のバイアス項的解釈",
         "excerpt":" ","categories": [],
-        "tags": null,
+        "tags": [],
         "url": "/preview/pr-38/202603-ohashi-nlp",
         "teaser": null
       },{
