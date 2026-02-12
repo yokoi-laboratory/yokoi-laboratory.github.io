@@ -19,13 +19,10 @@ authors:
       - 国立国語研究所
       - 東北大学
       - 理化学研究所
-　 - name: 乾 健太郎
+  - name: 乾 健太郎
     affiliation:
-      -
+    -   
 year: 2026
 month: 3
-pages: 
-links:
-  - name: "予稿"
-    url: 
+
 ---
