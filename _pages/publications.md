@@ -21,7 +21,7 @@ header:
   <ol>
     {% for publication in site.internationalConferences reversed %}
       <li>
-        {% include pub-apa-international-conf.html  %}
+        {% include pub-international-conf.html  %}
       </li>
     {% endfor %}
 
@@ -38,7 +38,7 @@ header:
   <ol>
     {% for publication in site.domesticConferences reversed %}
     <li>
-        {% include pub-anlp-domestic-conf.html  %}
+        {% include pub-domestic-conf.html  %}
       </li>
     {% endfor %}
 

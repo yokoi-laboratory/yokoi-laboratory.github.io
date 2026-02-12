@@ -1,32 +1,23 @@
 ---
 title: "TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models"
-proceedings_title: "The Thirteenth International Conference on Learning Representations (ICLR 2025)"
+conference_abbreviation: "ICLR 2025"
 authors:
-  - first_name: Makoto
-    last_name: Shing
-    affiliation:
-      - Sakana AI
-  - first_name: Kou
-    last_name: Misaki
-    affiliation:
-      - Sakana AI
-  - first_name: Han
-    last_name: Bao
-    affiliation:
-      - Kyoto University
-  - first_name: Sho
-    last_name: Yokoi
-    affiliation:
-      - "NINJAL"
-      - "Tohoku University"
-      - "RIKEN"
-  - first_name: Takuya
-    last_name: Akiba
-    affiliation:
-      - Sakana AI
-year: 2025
-month: April
-pages: 
+  - Makoto Shing
+  - Kou Misaki
+  - Han Bao
+  - Sho Yokoi
+  - Takuya Akiba
+paper:
+  proceedings: "The Thirteenth International Conference on Learning Representations"
+  year_month: April 2025
+presentation:
+  conference:
+    name: "The Thirteenth International Conference on Learning Representations"
+    abbreviation: "ICLR 2025"
+    url: "https://iclr.cc/Conferences/2025"
+  type: "Poster"
+  venue: "Singapore"
+  year_month: April 2025
 links:
   - name: "OpenReview"
     url: "https://openreview.net/forum?id=o48xY7eeIo"
