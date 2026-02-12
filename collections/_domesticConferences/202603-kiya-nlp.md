@@ -17,24 +17,20 @@ authors:
       - 国立国語研究所
   - name: 高橋良允
     affiliation:
-      - 
-　- name: 山本悠士
+      -
+  - name: 山本悠士
     affiliation:
       - 総合研究大学院大学
       - 国立国語研究所
-　- name: 塩野大輝
+  - name: 塩野大輝
     affiliation:
       -
- 　- name: 坂口慶祐
+  - name: 坂口慶祐
     affiliation:
       -
-   - name: 小林悟郎
+  - name: 小林悟郎
     affiliation:
       - 
 year: 2026
 month: 3
-pages: 
-links:
-  - name: "予稿"
-    url: ""
 ---
