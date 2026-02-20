@@ -2,15 +2,28 @@
 layout: splash
 title: "NLP2026ではN件の発表があります"
 category: Blog
-excerpt: 
+excerpt:
 header:
   show_overlay_excerpt: false
-  show_date: true 
+  show_date: true
   overlay_color: "#404040"
 ---
 
 ここに文章
 
-↓リスト（鴨田が整えます）
 
+<div>
+  <ol>
+    {% assign pubs = site.domesticConferences
+        | where_exp: "item", "item.slug contains '202603-nlp'" %}
+    {% for publication in pubs %}
+    <li>
+    {% include pub-domestic-conf.html publication=publication %}
+    </li>
+    {% endfor %}
 
+  </ol>
+
+</div>
+
+-> [Publications](/publications/#domestic-conferences)
