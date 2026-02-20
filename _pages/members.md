@@ -62,11 +62,11 @@ header:
       {{ member.first_name_en }} {{ member.last_name_en }} | {{ member.last_name_ja }} {{ member.first_name_ja }}
       <span class="period">
       {% if member.begin_year %}
-          [{{ member.begin_year }}/{{ member.begin_month | default: "??" }}
-          {% endif %}
-          {% if member.end_year %}
-          – {{ member.end_year }}/{{ member.end_month | default: "??" }}
-          {%- endif -%}]
+        &nbsp;[{{ member.begin_year }}/{{ member.begin_month | default: "??" }}
+      {% endif %}
+      {% if member.end_year %}
+        – {{ member.end_year }}/{{ member.end_month | default: "??" }}
+      {%- endif -%}]
       </span>
       <br>
       as 

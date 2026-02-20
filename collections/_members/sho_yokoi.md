@@ -9,4 +9,8 @@ website: https://www.cl.ecei.tohoku.ac.jp/~yokoi/
 image: https://i.gyazo.com/33c0aa1d918db0d18dcab9890f0798bf.png
 positions: 
     - "Associate Professor (准教授)"
+beegin_year: 2025
+begin_month: 1
+end_year:
+end_month:
 ---

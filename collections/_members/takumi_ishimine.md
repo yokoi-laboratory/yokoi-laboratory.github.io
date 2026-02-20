@@ -10,4 +10,8 @@ image: https://i.gyazo.com/5b428876f7ac635e13e7af67384bc570.png
 positions: 
   - "Part-time Researcher (技術補佐員)"
 main_position: 東京大学理学部数学科, 学部生
+begin_year: 2025
+begin_month: 8
+end_year:
+end_month: 
 ---
