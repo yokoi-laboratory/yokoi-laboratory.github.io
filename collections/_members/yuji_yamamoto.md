@@ -9,5 +9,5 @@ website: https://yuji96.github.io/
 image: https://i.gyazo.com/a68fb6dcbcd64380fc6d1cd0b3c50c1d.jpg
 positions: 
   - "Ph.D. Student"
-  - "Part-time Researcher | プロジェクト非常勤研究員"
+  - "Part-time Researcher (プロジェクト非常勤研究員)"
 ---

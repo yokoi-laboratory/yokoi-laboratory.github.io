@@ -8,6 +8,10 @@ email: msaori1023 at ninjal.ac.jp
 website: https://sites.google.com/g.ecc.u-tokyo.ac.jp/lily23m/
 image: https://i.gyazo.com/ceb8f52bd1f9edc9a23197345f4ce60e.png
 positions: 
-  - "Part-time Researcher | プロジェクト非常勤研究員"
+  - "Part-time Researcher (プロジェクト非常勤研究員)"
 main_position: 東京大学大学院総合文化研究科, 博士課程学生
+begin_year: 2025
+begin_month: 4
+end_year: 2026
+end_month: 3
 ---
