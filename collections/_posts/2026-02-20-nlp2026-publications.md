@@ -2,7 +2,7 @@
 layout: splash
 title: "NLP2026ではN件の発表があります"
 category: Blog
-excerpt:
+excerpt: "ここに書いたものがTopページのリンクしたに表示される"
 header:
   show_overlay_excerpt: false
   show_date: true
