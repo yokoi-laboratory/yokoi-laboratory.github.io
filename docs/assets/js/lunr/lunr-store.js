@@ -173,6 +173,12 @@ var store = [{
         "url": "/members/hikaru_nakao/",
         "teaser": null
       },{
+        "title": "Hitomi_kinoshita",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/hitomi_kinoshita/",
+        "teaser": null
+      },{
         "title": "Kai_nakaishi",
         "excerpt":" ","categories": [],
         "tags": [],
