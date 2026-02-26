@@ -8,7 +8,7 @@ email: hikaru.nakao at ninjal.ac.jp
 website: null
 image: https://i.gyazo.com/8766dd5f405d99afa1258ff33a62772d.jpg
 positions: 
-  - "Part-time Clerical Staff (技術補佐員)"
+  - "Research Support Staff (技術補佐員)"
 main_position: 東京農工大学大学院工学府, 修士課程学生
 beegin_year: 2025
 begin_month: 8
