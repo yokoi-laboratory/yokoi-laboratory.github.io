@@ -5,11 +5,11 @@ authors:
   - "日野英逸"
   - "横井祥"
 presentation:
-  type: "ポスター発表"
-  venue: "沖縄"
-  year_month: 2025年11月
-  conference:
-    name: "第28回情報論的学習理論ワークショップ"
-    abbreviation: "IBIS 2025"
-    url: "https://ibisml.org/ibis2025/"
+  - type: "ポスター発表"
+    venue: "沖縄"
+    year_month: 2025年11月
+    conference:
+      name: "第28回情報論的学習理論ワークショップ"
+      abbreviation: "IBIS 2025"
+      url: "https://ibisml.org/ibis2025/"
 ---
