@@ -24,6 +24,8 @@ presentation:
       abbreviation: "NLP 2026"
       url: "https://anlp.jp/nlp2026/"
 links:
+  - name: "論文"
+    url: "https://www.anlp.jp/proceedings/annual_meeting/2026/#Q1-5"
   - name: "Project Page"
     url: https://softmatcha.github.io/v2/ja/
 ---

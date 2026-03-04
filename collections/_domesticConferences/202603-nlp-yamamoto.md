@@ -13,4 +13,7 @@ presentation:
       name: "言語処理学会第32回年次大会"
       abbreviation: "NLP 2026"
       url: "https://anlp.jp/nlp2026/"
+links:
+  - name: "論文"
+    url: "https://www.anlp.jp/proceedings/annual_meeting/2026/#Q7-4"
 ---
