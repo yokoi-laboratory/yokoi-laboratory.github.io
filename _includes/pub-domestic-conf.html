@@ -30,17 +30,17 @@
 {%- endif -%}
 
 
-{% if publication.presentation %}
+{% for pres in publication.presentation %}
     <i class="fa-solid fa-person-chalkboard"></i>
-    {{ publication.presentation.type }},
-    {% if publication.presentation.conference.url %}
-    <a href="{{ publication.presentation.conference.url }}" target="_blank">{{ publication.presentation.conference.name }}</a> {%- if publication.presentation.conference.abbreviation %} ({{ publication.presentation.conference.abbreviation }}){% endif %}.
+    {{ pres.type }},
+    {% if pres.conference.url %}
+    <a href="{{ pres.conference.url }}" target="_blank">{{ pres.conference.name }}</a> {%- if pres.conference.abbreviation %} ({{ pres.conference.abbreviation }}){% endif %}.
     {% else %}
-    {{ publication.presentation.conference.name }} {%- if publication.presentation.conference.abbreviation %} ({{ publication.presentation.conference.abbreviation }}){% endif %}.
+    {{ pres.conference.name }} {%- if pres.conference.abbreviation %} ({{ pres.conference.abbreviation }}){% endif %}.
     {% endif %}
-    {{ publication.presentation.venue }},
-    {{ publication.presentation.year_month }}.<br>
-{% endif %}
+    {{ pres.venue }},
+    {{ pres.year_month }}.<br>
+{% endfor %}
 
 
 {%- if publication.awards -%}
