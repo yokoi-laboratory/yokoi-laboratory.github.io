@@ -65,18 +65,6 @@ var store = [{
         "url": "/preview/pr-53/domesticConferences/202511-ibis-mihara/",
         "teaser": null
       },{
-        "title": "hogehoge",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/preview/pr-53/domesticConferences/202603-nlp-award-hogehoge-wakate/",
-        "teaser": null
-      },{
-        "title": "hogehoge",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/preview/pr-53/domesticConferences/202603-nlp-award-hogehoge-yuushu/",
-        "teaser": null
-      },{
         "title": "なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -246,7 +234,7 @@ var store = [{
         "teaser": null
       },{
         "title": "言語処理学会第32回年次大会",
-        "excerpt":"2026年3月9日から13日にかけて宇都宮（栃木）で開催される 言語処理学会第32回年次大会 (NLP 2026)にて、 本研究室のメンバーが関わる以下8件の研究発表が行われます。 hogehoge. hogehoge. hogehoge, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 言語処理学会第32回年次大会 若手奨励賞 . 論文 hogehoge. hogehoge. hogehoge, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 言語処理学会第32回年次大会 優秀賞 . 論文 原知正, 栗田宙人, 今泉允聡, 乾健太郎, 横井祥. なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 論文 石峯拓海, 日野英逸, 横井祥. 単体複体を用いた次単語予測分布の幾何的解釈. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026)....","categories": ["News"],
+        "excerpt":"2026年3月9日から13日にかけて宇都宮（栃木）で開催される 言語処理学会第32回年次大会 (NLP 2026)にて、 本研究室のメンバーが関わる以下8件の研究発表が行われます。 原知正, 栗田宙人, 今泉允聡, 乾健太郎, 横井祥. なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 言語処理学会第32回年次大会 委員特別賞 (32/748 件). 論文委員特別賞 石峯拓海, 日野英逸, 横井祥. 単体複体を用いた次単語予測分布の幾何的解釈. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 論文 木谷頼斗, 大橋諭貴, 佐藤宏亮, 鴨田豪, 高橋良允, 山本悠士, 塩野大輝, 坂口慶祐, 小林悟郎. Attention Sink および Massive Activation の発生機序の分解. 口頭発表, 言語処理学会第32回年次大会...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-53/posts/nlp2026-publications/",
         "teaser": null
@@ -258,7 +246,7 @@ var store = [{
         "teaser": null
       },{
         "title": "言語処理学会第32回年次大会 受賞",
-        "excerpt":"2026年3月9日から13日にかけて宇都宮（栃木）で開催された 言語処理学会第32回年次大会 (NLP 2026) にて、 本研究室のメンバーが以下の賞を受賞しました。   優秀賞                                                                              hogehoge.  hogehoge.           hogehoge,          言語処理学会第32回年次大会 (NLP 2026).          宇都宮,     2026年3月.           言語処理学会第32回年次大会 優秀賞 .         論文                                                                                                                                                                                                                                         若手奨励賞                                                    hogehoge.  hogehoge.           hogehoge,          言語処理学会第32回年次大会 (NLP 2026).          宇都宮,     2026年3月.           言語処理学会第32回年次大会 若手奨励賞 .         論文                                                                                                                                                                                                                                                                   -&gt; Publications  ","categories": ["News"],
+        "excerpt":"2026年3月9日から13日にかけて宇都宮（栃木）で開催された 言語処理学会第32回年次大会 (NLP 2026) にて、 本研究室のメンバーが以下の賞を受賞しました。 優秀賞 米田優峻, 鴨田豪, 松下祐介, 末永幸平, 秋葉拓哉, 和賀正樹, 横井祥. SoftMatcha 2: 一兆語規模のコーパスに対する柔らかく超高速な検索システム. 口頭発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 言語処理学会第32回年次大会 優秀賞 (16/718 件). 論文Project Page優秀賞 若手奨励賞 木谷頼斗, 大橋諭貴, 佐藤宏亮, 鴨田豪, 高橋良允, 山本悠士, 塩野大輝, 坂口慶祐, 小林悟郎. Attention Sink および Massive Activation...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-53/posts/nlp2026-awards/",
         "teaser": null

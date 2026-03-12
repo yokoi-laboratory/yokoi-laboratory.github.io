@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-53/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-53/" rel="alternate" type="text/html" /><updated>2026-03-12T03:12:48+00:00</updated><id>https://yokoi-lab.net/preview/pr-53/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">言語処理学会第32回年次大会 受賞</title><link href="https://yokoi-lab.net/preview/pr-53/posts/nlp2026-awards/" rel="alternate" type="text/html" title="言語処理学会第32回年次大会 受賞" /><published>2026-03-12T00:00:00+00:00</published><updated>2026-03-12T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-53/posts/nlp2026-awards</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-53/posts/nlp2026-awards/"><![CDATA[<p>2026年3月9日から13日にかけて宇都宮（栃木）で開催された <a href="https://anlp.jp/nlp2026/index.html">言語処理学会第32回年次大会 (NLP 2026)</a> にて、
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-53/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-53/" rel="alternate" type="text/html" /><updated>2026-03-12T07:52:02+00:00</updated><id>https://yokoi-lab.net/preview/pr-53/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">言語処理学会第32回年次大会 受賞</title><link href="https://yokoi-lab.net/preview/pr-53/posts/nlp2026-awards/" rel="alternate" type="text/html" title="言語処理学会第32回年次大会 受賞" /><published>2026-03-12T00:00:00+00:00</published><updated>2026-03-12T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-53/posts/nlp2026-awards</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-53/posts/nlp2026-awards/"><![CDATA[<p>2026年3月9日から13日にかけて宇都宮（栃木）で開催された <a href="https://anlp.jp/nlp2026/index.html">言語処理学会第32回年次大会 (NLP 2026)</a> にて、
 本研究室のメンバーが以下の賞を受賞しました。</p>
 
 <h2 id="優秀賞">優秀賞</h2>
@@ -13,24 +13,118 @@
       
       
       
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
       <li>
       
 <!-- https://www.anlp.jp/guide/guideline.html -->
-    hogehoge.<br />
-<strong>hogehoge</strong>.<br />
+    米田優峻,
+    鴨田豪,
+    松下祐介,
+    末永幸平,
+    秋葉拓哉,
+    和賀正樹,
+    横井祥.<br />
+<strong>SoftMatcha 2: 一兆語規模のコーパスに対する柔らかく超高速な検索システム</strong>.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
-    hogehoge,
+    口頭発表,
+    
+    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
+    
+    宇都宮,
+    2026年3月.<br />
+
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
     
     <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
     
     宇都宮,
     2026年3月.<br />
 <i class="fa-solid fa-award"></i>
-        言語処理学会第32回年次大会 優秀賞 .
+        言語処理学会第32回年次大会 優秀賞 (16/718 件).
     <br />
 
 
-<a class="link-btn" href="hogehoge" target="_blank">論文</a>
+<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#Q1-5" target="_blank">論文</a><a class="link-btn" href="https://softmatcha.github.io/v2/ja/" target="_blank">Project Page</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">優秀賞</a>
+      </li>
+      
+    
+  </ul>
+</div>
+
+<h2 id="若手奨励賞">若手奨励賞</h2>
+
+<div>
+  <ul>
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+      <li>
+      
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    木谷頼斗,
+    大橋諭貴,
+    佐藤宏亮,
+    鴨田豪,
+    高橋良允,
+    山本悠士,
+    塩野大輝,
+    坂口慶祐,
+    小林悟郎.<br />
+<strong>Attention Sink および Massive Activation の発生機序の分解</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    口頭発表,
+    
+    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
+    
+    宇都宮,
+    2026年3月.<br />
+
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
+    
+    宇都宮,
+    2026年3月.<br />
+<i class="fa-solid fa-award"></i>
+        言語処理学会第32回年次大会 若手奨励賞 (21/517 件).
+    <br />
+
+
+<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#B6-13" target="_blank">論文</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">若手奨励賞</a>
       </li>
       
     
@@ -41,17 +135,41 @@
       
       
       
+      <li>
+      
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    大橋諭貴,
+    木谷頼斗,
+    佐藤宏亮,
+    高橋良允,
+    鴨田豪,
+    山本悠士,
+    塩野大輝,
+    坂口慶祐,
+    小林悟郎.<br />
+<strong>注意機構における Attention Sink のバイアス項的解釈</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    口頭発表,
     
-      
-      
-      
+    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
     
-      
-      
-      
+    宇都宮,
+    2026年3月.<br />
+
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
     
-      
-      
+    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
+    
+    宇都宮,
+    2026年3月.<br />
+<i class="fa-solid fa-award"></i>
+        言語処理学会第32回年次大会 若手奨励賞 (21/517 件).
+    <br />
+
+
+<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#B6-15" target="_blank">論文</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">若手奨励賞</a>
+      </li>
       
     
       
@@ -69,7 +187,7 @@
   </ul>
 </div>
 
-<h2 id="若手奨励賞">若手奨励賞</h2>
+<h2 id="委員特別賞">委員特別賞</h2>
 
 <div>
   <ul>
@@ -80,30 +198,26 @@
       <li>
       
 <!-- https://www.anlp.jp/guide/guideline.html -->
-    hogehoge.<br />
-<strong>hogehoge</strong>.<br />
+    原知正,
+    栗田宙人,
+    今泉允聡,
+    乾健太郎,
+    横井祥.<br />
+<strong>なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化</strong>.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
-    hogehoge,
+    ポスター発表,
     
     <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
     
     宇都宮,
     2026年3月.<br />
 <i class="fa-solid fa-award"></i>
-        言語処理学会第32回年次大会 若手奨励賞 .
+        言語処理学会第32回年次大会 委員特別賞 (32/748 件).
     <br />
 
 
-<a class="link-btn" href="hogehoge" target="_blank">論文</a>
+<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#C6-22" target="_blank">論文</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">委員特別賞</a>
       </li>
-      
-    
-      
-      
-      
-    
-      
-      
       
     
       
@@ -147,46 +261,6 @@
     <li>
     
 <!-- https://www.anlp.jp/guide/guideline.html -->
-    hogehoge.<br />
-<strong>hogehoge</strong>.<br />
-    <i class="fa-solid fa-person-chalkboard"></i>
-    hogehoge,
-    
-    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
-    
-    宇都宮,
-    2026年3月.<br />
-<i class="fa-solid fa-award"></i>
-        言語処理学会第32回年次大会 若手奨励賞 .
-    <br />
-
-
-<a class="link-btn" href="hogehoge" target="_blank">論文</a>
-    </li>
-    
-    <li>
-    
-<!-- https://www.anlp.jp/guide/guideline.html -->
-    hogehoge.<br />
-<strong>hogehoge</strong>.<br />
-    <i class="fa-solid fa-person-chalkboard"></i>
-    hogehoge,
-    
-    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
-    
-    宇都宮,
-    2026年3月.<br />
-<i class="fa-solid fa-award"></i>
-        言語処理学会第32回年次大会 優秀賞 .
-    <br />
-
-
-<a class="link-btn" href="hogehoge" target="_blank">論文</a>
-    </li>
-    
-    <li>
-    
-<!-- https://www.anlp.jp/guide/guideline.html -->
     原知正,
     栗田宙人,
     今泉允聡,
@@ -200,9 +274,12 @@
     
     宇都宮,
     2026年3月.<br />
+<i class="fa-solid fa-award"></i>
+        言語処理学会第32回年次大会 委員特別賞 (32/748 件).
+    <br />
 
 
-<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#C6-22" target="_blank">論文</a>
+<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#C6-22" target="_blank">論文</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">委員特別賞</a>
     </li>
     
     <li>
@@ -252,9 +329,12 @@
     
     宇都宮,
     2026年3月.<br />
+<i class="fa-solid fa-award"></i>
+        言語処理学会第32回年次大会 若手奨励賞 (21/517 件).
+    <br />
 
 
-<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#B6-13" target="_blank">論文</a>
+<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#B6-13" target="_blank">論文</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">若手奨励賞</a>
     </li>
     
     <li>
@@ -304,9 +384,12 @@
     
     宇都宮,
     2026年3月.<br />
+<i class="fa-solid fa-award"></i>
+        言語処理学会第32回年次大会 若手奨励賞 (21/517 件).
+    <br />
 
 
-<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#B6-15" target="_blank">論文</a>
+<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#B6-15" target="_blank">論文</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">若手奨励賞</a>
     </li>
     
     <li>
@@ -376,9 +459,12 @@
     
     宇都宮,
     2026年3月.<br />
+<i class="fa-solid fa-award"></i>
+        言語処理学会第32回年次大会 優秀賞 (16/718 件).
+    <br />
 
 
-<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#Q1-5" target="_blank">論文</a><a class="link-btn" href="https://softmatcha.github.io/v2/ja/" target="_blank">Project Page</a>
+<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#Q1-5" target="_blank">論文</a><a class="link-btn" href="https://softmatcha.github.io/v2/ja/" target="_blank">Project Page</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">優秀賞</a>
     </li>
     
 
