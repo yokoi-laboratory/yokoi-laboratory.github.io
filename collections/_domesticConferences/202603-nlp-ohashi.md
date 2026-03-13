@@ -25,7 +25,12 @@ presentation:
       name: "言語処理学会第32回年次大会"
       abbreviation: "NLP 2026"
       url: "https://anlp.jp/nlp2026/"
+awards:
+  - name: "言語処理学会第32回年次大会 若手奨励賞"
+    rank: "21/517 件"
 links:
   - name: "論文"
     url: "https://www.anlp.jp/proceedings/annual_meeting/2026/#B6-15"
+  - name: "若手奨励賞"
+    url: "https://anlp.jp/nlp2026/award.html"
 ---
