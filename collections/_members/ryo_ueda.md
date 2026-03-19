@@ -12,6 +12,6 @@ positions:
 main_position: 東京大学大学院情報理工学系研究科, 博士課程学生
 begin_year: 2025
 begin_month: 10
-end_year:
-end_month: 
+end_year: 2026
+end_month: 3
 ---
