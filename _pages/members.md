@@ -56,7 +56,8 @@ header:
 
 <div>
 <ul>
-  {% for member in members | sort: "end_year" %}
+  {% assign alumni = members | sort: "end_month" | sort: "end_year" | reverse %}
+  {% for member in alumni %}
   {% if member.end_year != nil and member.end_year != "" %}
     <li>
       {{ member.first_name_en }} {{ member.last_name_en }} | {{ member.last_name_ja }} {{ member.first_name_ja }}
