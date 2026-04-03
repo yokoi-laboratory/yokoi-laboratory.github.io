@@ -13,7 +13,7 @@
     - `collections/_invitedTalks` 内: 招待講演
     - `collections/_members` 内: メンバー情報
     - `_pages` 内: Research, Publications, Join Us などのメインページのフォーマット
-    - 画像を埋め込む場合は、履歴に残らないようにラボのGyazoを利用する。
+    - 画像を埋め込む場合は、履歴に残らないようにラボのGyazoを利用する。(Notionを参照すること)
 1. 新しいブランチにコミットする
     - `Commit changes` ボタンをクリックする
     - Commit message を埋める (任意)
@@ -33,28 +33,6 @@
         - すぐに修正できそうであれば、そのブランチ内で修正する
         - 修正方法がわからない場合は他の人に気軽に相談する
 1. レビューが済んだら `Squash and merge` で公開処理を開始する
-
-
-## 導入方法 (備忘録)
-1. Personal Access Tokenを取得する
-   - GitHubの設定から、[Developer settings] -> [Personal access tokens] -> [Tokens (classic)] -> [Generate new token]
-   - `repo` 権限を付与する
-2. Personal Access Tokenを登録する
-   - GitHubの設定から、[Settings] -> [Secrets and variables] -> [Actions] -> [New repository secret]
-   - 名前は `GH_PAT` とする
-   - 先ほど取得したPersonal Access Tokenを値として登録する 
-3. Github Actions の権限を設定する
-   - GitHub Organization -> [Settings] -> [Actions] -> [General]
-   - `Workflow permissions` を `Read and write permissions` に設定する
-4. Github Actions `Build and Deploy` を実行する
-   - main に Push すると自動で実行されるが、失敗している場合は手動で再実行する
-5. GitHub Pages の設定を行う
-   - GitHubの設定から、[Settings] -> [Pages]
-   - `Source` を `Deployment branch` に設定する
-   - `Branch` は `gh-pages` を選択する
-   - `Folder` は `/docs` を選択する
-   - `Save` をクリックする
-
 
 
 ## Local development
