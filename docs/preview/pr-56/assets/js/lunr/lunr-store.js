@@ -161,6 +161,12 @@ var store = [{
         "url": "/preview/pr-56/invitedTalks/202509-yokoi-JAECS/",
         "teaser": null
       },{
+        "title": "Akari_sumiwa",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-56/members/akari_sumiwa/",
+        "teaser": null
+      },{
         "title": "Go_kamoda",
         "excerpt":" ","categories": [],
         "tags": [],
