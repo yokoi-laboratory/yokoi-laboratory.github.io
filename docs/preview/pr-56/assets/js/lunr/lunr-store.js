@@ -179,6 +179,12 @@ var store = [{
         "url": "/preview/pr-56/members/hitomi_kinoshita/",
         "teaser": null
       },{
+        "title": "Jaesung_lee",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-56/members/jaesung_lee/",
+        "teaser": null
+      },{
         "title": "Kai_nakaishi",
         "excerpt":" ","categories": [],
         "tags": [],
