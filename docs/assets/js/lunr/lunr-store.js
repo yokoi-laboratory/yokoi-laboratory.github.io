@@ -161,6 +161,12 @@ var store = [{
         "url": "/invitedTalks/202509-yokoi-JAECS/",
         "teaser": null
       },{
+        "title": "Akari_sumiwa",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/akari_sumiwa/",
+        "teaser": null
+      },{
         "title": "Go_kamoda",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -177,6 +183,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/members/hitomi_kinoshita/",
+        "teaser": null
+      },{
+        "title": "Jaesung_lee",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/jaesung_lee/",
         "teaser": null
       },{
         "title": "Kai_nakaishi",
@@ -213,6 +225,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/members/shuri_kozuka/",
+        "teaser": null
+      },{
+        "title": "Taiga_ishii",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/taiga_ishii/",
         "teaser": null
       },{
         "title": "Takumi_ishimine",
