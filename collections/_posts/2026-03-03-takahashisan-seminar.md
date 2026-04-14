@@ -27,3 +27,8 @@ header:
  ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  
 <https://forms.gle/y488qGm4ifWW2eqj8>  
 どうぞお気軽にお越しください。
+
+
+![](https://gyazo.com/b6dbc70819ec39cbf357762e192f9cb5.jpg){: width="400" }
+![](https://gyazo.com/92498a54ceb6f3f732fc2fe6fb7e996f.jpg){: width="400" }
+![](https://gyazo.com/9cf99d4c6658da5e2d15a45c47fe6c73.jpg){: width="400" }
