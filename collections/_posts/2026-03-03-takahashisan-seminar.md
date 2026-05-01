@@ -13,7 +13,7 @@ header:
 3月16日（月）に少人数での研究会を国立国語研究所 @立川にて開催します。  
 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。  
 - 日時：3月16日（月）14:00〜15:00   
-  - 場所：国立国語研究所 @立川 https://www.ninjal.ac.jp/utility/access/ 、426室  
+  - 場所：国立国語研究所 @立川 [https://www.ninjal.ac.jp/utility/access/](https://www.ninjal.ac.jp/utility/access/) 、426室  
   - 発表者：髙橋昂さん（東京大学）  
 
 ---
@@ -26,4 +26,10 @@ header:
 ### 【参加登録フォーム】
  ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  
 <https://forms.gle/y488qGm4ifWW2eqj8>  
-どうぞお気軽にお越しください。
+どうぞお気軽にお越しください。  
+  
+  
+### 【開催当日セミナーの様子】
+![](https://gyazo.com/b6dbc70819ec39cbf357762e192f9cb5.jpg){: width="400" }
+![](https://gyazo.com/92498a54ceb6f3f732fc2fe6fb7e996f.jpg){: width="400" }
+![](https://gyazo.com/9cf99d4c6658da5e2d15a45c47fe6c73.jpg){: width="400" }
