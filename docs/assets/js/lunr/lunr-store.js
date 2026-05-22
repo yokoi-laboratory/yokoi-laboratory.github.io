@@ -203,6 +203,12 @@ var store = [{
         "url": "/members/masahiro_kazama/",
         "teaser": null
       },{
+        "title": "Ryo_karakida",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/ryo_karakida/",
+        "teaser": null
+      },{
         "title": "Ryo_ueda",
         "excerpt":" ","categories": [],
         "tags": [],
