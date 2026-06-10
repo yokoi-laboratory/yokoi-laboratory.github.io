@@ -2,7 +2,7 @@
 layout: splash
 title: "2026年6月19日(金) 第2回 国語研数理セミナー：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」"
 category: Talk
-excerpt: 
+excerpt: "AIによる業務効率化のトレンドや、Claudeを使った具体的な活用法（スライド作成・調査業務の自動化など）をデモを交えてご紹介します。"
 header:
   show_overlay_excerpt: false
   show_date: true 
