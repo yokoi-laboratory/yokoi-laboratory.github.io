@@ -149,6 +149,24 @@ var store = [{
         "url": "/preview/pr-61/internationalConferences/202512-aacl-sasaki/",
         "teaser": null
       },{
+        "title": "Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-61/internationalConferences/202607-acl-hara/",
+        "teaser": null
+      },{
+        "title": "Timesteps of Mamba Align with Human Reading Times",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-61/internationalConferences/202607-acl-yamamoto/",
+        "teaser": null
+      },{
+        "title": "SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-61/internationalConferences/202607-icml-yoneda/",
+        "teaser": null
+      },{
         "title": "言語モデルの内部機序：解析と解釈",
         "excerpt":" ","categories": [],
         "tags": [],
