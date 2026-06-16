@@ -14,7 +14,7 @@ header:
 
 <div>
   <ol>
-    {% assign pubs = site.domesticConferences
+    {% assign pubs = site.internationalConferences
         | where_exp: "item", "item.slug contains '202607-acl'" %}
     {% for publication in pubs %}
     <li>
