@@ -299,8 +299,8 @@ var store = [{
         "url": "/preview/pr-63/posts/kazamasan-seminar/",
         "teaser": null
       },{
-        "title": "ACL 2026",
-        "excerpt":"2026年7月2日から7日にかけてカリフォルニア州サンディエゴで開催される The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) にて、 本研究室のメンバーが関わる以下2件の研究発表が行われます。 Tomomasa Hara, Hiroto Kurita, Masaaki Imaizumi, Kentaro Inui, and Sho Yokoi Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, July...","categories": ["News"],
+        "title": "ACL 2026 Publications",
+        "excerpt":"2026年7月2日から7日にかけてカリフォルニア州サンディエゴで開催される The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) にて、 本研究室のメンバーが関わる以下2件の論文が採択されました。 Tomomasa Hara, Hiroto Kurita, Masaaki Imaizumi, Kentaro Inui, and Sho Yokoi Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, July...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-63/posts/acl2026-publications/",
         "teaser": null
