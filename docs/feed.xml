@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-06-15T00:58:57+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」</title><link href="https://yokoi-lab.net/posts/kazamasan-seminar/" rel="alternate" type="text/html" title="2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」" /><published>2026-06-10T00:00:00+00:00</published><updated>2026-06-10T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/kazamasan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/kazamasan-seminar/"><![CDATA[<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-06-19T04:15:41+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」</title><link href="https://yokoi-lab.net/posts/kazamasan-seminar/" rel="alternate" type="text/html" title="2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」" /><published>2026-06-10T00:00:00+00:00</published><updated>2026-06-10T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/kazamasan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/kazamasan-seminar/"><![CDATA[<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
 <p>6月19日（金）に少人数での研究会を国立国語研究所 @立川にて開催します。<br />
 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。</p>
 <ul>
@@ -19,7 +19,60 @@
 <a href="https://forms.gle/tLjYGUTW6fk2Hap38">https://forms.gle/tLjYGUTW6fk2Hap38</a></p>
 
 <p><br />
-どうぞお気軽にお越しください。</p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[6月19日(金)に少人数での研究会を国立国語研究所 @立川にて開催します。Ubie の風間さんより、AIによる研究活動の効率化や研究サポート活動の効率化を目指す内容で、Claude を用いたデモと講演をしていただきます。]]></summary></entry><entry><title type="html">言語処理学会第32回年次大会 受賞</title><link href="https://yokoi-lab.net/posts/nlp2026-awards/" rel="alternate" type="text/html" title="言語処理学会第32回年次大会 受賞" /><published>2026-03-12T00:00:00+00:00</published><updated>2026-03-12T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/nlp2026-awards</id><content type="html" xml:base="https://yokoi-lab.net/posts/nlp2026-awards/"><![CDATA[<p>2026年3月9日から13日にかけて宇都宮（栃木）で開催された <a href="https://anlp.jp/nlp2026/index.html">言語処理学会第32回年次大会 (NLP 2026)</a> にて、
+どうぞお気軽にお越しください。</p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[6月19日(金)に少人数での研究会を国立国語研究所 @立川にて開催します。Ubie の風間さんより、AIによる研究活動の効率化や研究サポート活動の効率化を目指す内容で、Claude を用いたデモと講演をしていただきます。]]></summary></entry><entry><title type="html">ACL 2026 採択</title><link href="https://yokoi-lab.net/posts/acl2026-publications/" rel="alternate" type="text/html" title="ACL 2026 採択" /><published>2026-04-07T00:00:00+00:00</published><updated>2026-04-07T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/acl2026-publications</id><content type="html" xml:base="https://yokoi-lab.net/posts/acl2026-publications/"><![CDATA[<p>自然言語処理の国際会議 <a href="https://2026.aclweb.org/">The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</a> に、
+本研究室のメンバーが関わる2件の論文が採択されました。</p>
+
+<div>
+  <ol>
+    
+    
+    <li>
+    
+
+    Tomomasa Hara,
+    
+
+    Hiroto Kurita,
+    
+
+    Masaaki Imaizumi,
+    
+
+    Kentaro Inui,
+    
+and 
+    
+    Sho Yokoi
+<br /><strong>Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings</strong>.<br /><i class="fa-regular fa-file"></i>
+    In <i>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics</i>, July 2026.<br />
+<a class="link-btn" href="https://arxiv.org/abs/2604.27398" target="_blank">arXiv</a>
+    </li>
+    
+    <li>
+    
+
+    Yuji Yamamoto,
+    
+
+    Shinnosuke Isono,
+    
+
+    Yoshinobu Kawahara,
+    
+and 
+    
+    Sho Yokoi
+<br /><strong>Timesteps of Mamba Align with Human Reading Times</strong>.<br /><i class="fa-regular fa-file"></i>
+    In <i>Findings of the Association for Computational Linguistics: ACL 2026</i>, July 2026.<br />
+
+    </li>
+    
+
+  </ol>
+
+</div>
+
+<p>-&gt; <a href="/publications/#international-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが関わる2件の論文が ACL 2026 に採択されました。]]></summary></entry><entry><title type="html">言語処理学会第32回年次大会 受賞</title><link href="https://yokoi-lab.net/posts/nlp2026-awards/" rel="alternate" type="text/html" title="言語処理学会第32回年次大会 受賞" /><published>2026-03-12T00:00:00+00:00</published><updated>2026-03-12T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/nlp2026-awards</id><content type="html" xml:base="https://yokoi-lab.net/posts/nlp2026-awards/"><![CDATA[<p>2026年3月9日から13日にかけて宇都宮（栃木）で開催された <a href="https://anlp.jp/nlp2026/index.html">言語処理学会第32回年次大会 (NLP 2026)</a> にて、
 本研究室のメンバーが関わる以下の研究で4件の受賞がありました。</p>
 
 <h2 id="優秀賞">優秀賞</h2>
