@@ -15,7 +15,7 @@ header:
 <div>
   <ol>
     {% assign pubs = site.internationalConferences
-        | where_exp: "item", "item.slug contains '202607-acl'" %}
+        | where_exp: "item", "item.slug contains '202607-icml'" %}
     {% for publication in pubs %}
     <li>
     {% include pub-international-conf.html publication=publication %}
