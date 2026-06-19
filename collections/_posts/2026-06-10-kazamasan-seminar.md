@@ -29,3 +29,8 @@ header:
 
 <br>
 どうぞお気軽にお越しください。
+
+
+### 開催当日セミナーの様子
+![](https://gyazo.com/cac10030557ff009e2ac2f13b35fb97b.jpg){: width="400" }
+![](https://gyazo.com/1da233f20eb6d47bc8441b3b4464276f.jpg){: width="400" }
