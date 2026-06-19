@@ -300,7 +300,7 @@ var store = [{
         "teaser": null
       },{
         "title": "ICML 2026 採択",
-        "excerpt":"自然言語処理の国際会議 Forty-Third International Conference on Machine Learning (ICML 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Tomomasa Hara, Hiroto Kurita, Masaaki Imaizumi, Kentaro Inui, and Sho Yokoi Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, July 2026. arXiv Yuji Yamamoto,...","categories": ["News"],
+        "excerpt":"自然言語処理の国際会議 Forty-Third International Conference on Machine Learning (ICML 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Masataka Yoneda, Yusuke Matsushita, Go Kamoda, Kohei Suenaga, Takuya Akiba, Masaki Waga, and Sho Yokoi SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora. In Forty-third International Conference on Machine Learning, July 2026. Project PagearXiv -&gt; Publications...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-65/posts/icml2026-publications/",
         "teaser": null
