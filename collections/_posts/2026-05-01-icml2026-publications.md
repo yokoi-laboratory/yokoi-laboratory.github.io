@@ -9,7 +9,7 @@ header:
   overlay_color: "#404040"
 ---
 
-自然言語処理の国際会議 [Forty-Third International Conference on Machine Learning (ICML 2026)](https://icml.cc/) に、
+機械学習の国際会議 [Forty-Third International Conference on Machine Learning (ICML 2026)](https://icml.cc/) に、
 本研究室のメンバーが関わる1件の論文が採択されました。
 
 <div>
