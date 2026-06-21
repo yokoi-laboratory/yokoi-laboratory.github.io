@@ -18,16 +18,17 @@
       </div>
     {% endif %}
     
-
-      
-    <h2 class="archive__item-title no_toc" itemprop="headline">
+    
+    <h2 class="archive__item-title archive__item-title--flex no_toc" itemprop="headline">
       <span class="archive__item-tag date">{{ post.date | date: "%Y-%m-%d" }}</span>
       <span class="archive__item-tag tag-{{ post.category | cgi_encode }}">{{ post.category }}</span>
-      {% if post.link %}
+      <span class="archive__item-title">
+        {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
+        {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
+        {% endif %}
+      </span>
     </h2>
 
 

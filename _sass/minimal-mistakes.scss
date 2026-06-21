@@ -213,3 +213,26 @@ iframe {
     cursor: pointer;
   }
 }
+
+h2.archive__item-title--flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.6rem;
+  row-gap: 0.35rem;
+  padding-bottom: 0;
+}
+
+.archive__item-title--flex .archive__item-tag {
+  flex: 0 0 auto;
+  white-space: nowrap;
+  margin-right: 0;
+}
+
+.archive__item-title {
+  flex: 0 1 auto;
+  width: max-content;
+  max-width: 100%;
+  min-width: 0;
+  margin-top: 0 !important;
+}
