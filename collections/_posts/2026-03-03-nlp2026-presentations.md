@@ -3,6 +3,8 @@ layout: splash
 title: "言語処理学会第32回年次大会"
 category: News
 excerpt: "本研究室のメンバーが関わる8件の研究発表があります。"
+redirect_from:
+  - /posts/nlp2026-publications/
 header:
   show_overlay_excerpt: false
   show_date: true
