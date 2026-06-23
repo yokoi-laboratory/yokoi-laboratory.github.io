@@ -11,6 +11,14 @@ authors:
 paper:
   proceedings: "Forty-third International Conference on Machine Learning"
   year_month: July 2026
+presentation:
+  conference:
+    name: "Forty-Third International Conference on Machine Learning"
+    abbreviation: "ICML 2026"
+    url: "https://icml.cc/Conferences/2026"
+  type: "Poster"
+  venue: "Seoul, South Korea"
+  year_month: July 2026
 links:
   - name: "Project Page"
     url: "https://softmatcha.github.io/v2/"
