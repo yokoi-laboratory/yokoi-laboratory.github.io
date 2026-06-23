@@ -14,6 +14,6 @@ presentation:
     abbreviation: "ACL 2026"
     url: "https://2026.aclweb.org/"
   type: "Poster"
-  venue: "United States"
+  venue: "California, United States"
   year_month: July 2026
 ---
