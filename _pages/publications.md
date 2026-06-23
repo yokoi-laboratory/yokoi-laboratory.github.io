@@ -18,7 +18,7 @@ header:
 ## International Conferences
 
 <div>
-  <ol>
+  <ol reversed>
     {% for publication in site.internationalConferences reversed %}
       <li>
         {% include pub-international-conf.html  %}
@@ -35,7 +35,7 @@ header:
 ## Domestic Conferences
 
 <div>
-  <ol>
+  <ol reversed>
     {% for publication in site.domesticConferences reversed %}
     <li>
         {% include pub-domestic-conf.html  %}
@@ -49,7 +49,7 @@ header:
 
 ## Invited Talks
 <div>
-  <ol>
+  <ol reversed>
     {% for talk in site.invitedTalks reversed %}
     <li>
         {% include pub-talks.html  %}
@@ -63,7 +63,7 @@ header:
 ## Books
 
 <div>
-  <ol>
+  <ol reversed>
     {% for book in site.books reversed %}
     <li>
         {% include pub-books.html  %}
