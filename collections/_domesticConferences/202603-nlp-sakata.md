@@ -6,6 +6,10 @@ authors:
   - 伊藤拓海
   - 横井祥
   - 乾健太郎
+paper:
+  proceedings: "言語処理学会 第32回年次大会 発表論文集"
+  year_month: 2026年3月
+  pages: 2597-2602
 presentation:
   - type: "ポスター発表"
     venue: "宇都宮"

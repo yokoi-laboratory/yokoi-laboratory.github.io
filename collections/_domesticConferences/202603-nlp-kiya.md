@@ -10,6 +10,10 @@ authors:
   - 塩野大輝
   - 坂口慶祐
   - 小林悟郎
+paper:
+  proceedings: "言語処理学会 第32回年次大会 発表論文集"
+  year_month: 2026年3月
+  pages: 2579-2584
 presentation:
   - type: "口頭発表"
     conference:

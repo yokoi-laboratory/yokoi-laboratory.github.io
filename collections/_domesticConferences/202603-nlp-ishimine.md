@@ -4,6 +4,10 @@ authors:
   - 石峯拓海
   - 日野英逸
   - 横井祥
+paper:
+  proceedings: "言語処理学会 第32回年次大会 発表論文集"
+  year_month: 2026年3月
+  pages: 2726-2730
 presentation:
   - type: "ポスター発表"
     venue: "宇都宮"
