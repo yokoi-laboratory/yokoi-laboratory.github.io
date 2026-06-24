@@ -16,4 +16,7 @@ presentation:
   type: "Poster"
   venue: "California, United States"
   year_month: July 2026
+links:
+  - name: "ACL Anthology"
+    url: "https://aclanthology.org/2026.findings-acl.1592/"
 ---
