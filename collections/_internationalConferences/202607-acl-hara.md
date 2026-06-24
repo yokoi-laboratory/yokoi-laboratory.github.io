@@ -7,7 +7,7 @@ authors:
   - Kentaro Inui
   - Sho Yokoi
 paper:
-  proceedings: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+  proceedings: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics"
   year_month: July 2026
   pages: 47180–47201
 presentation:
