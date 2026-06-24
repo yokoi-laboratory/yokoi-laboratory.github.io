@@ -15,7 +15,7 @@ presentation:
     abbreviation: "ACL 2026"
     url: "https://2026.aclweb.org/"
   type: "Poster"
-  venue: "San Diego, California, United States"
+  venue: "San Diego, United States"
   year_month: July 2026
 links:
   - name: "ACL Anthology"
