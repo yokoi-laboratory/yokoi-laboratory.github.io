@@ -27,7 +27,7 @@ header:
 以下のリンクより、参加申し込みと併せてご回答ください。（30名迄）  
 ~~<https://forms.gle/tLjYGUTW6fk2Hap38>~~  
 
-
+<br>
 
 ### 開催当日セミナーの様子
 ![](https://gyazo.com/cac10030557ff009e2ac2f13b35fb97b.jpg){: width="400" }
