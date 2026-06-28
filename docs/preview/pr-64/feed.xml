@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-64/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-64/" rel="alternate" type="text/html" /><updated>2026-06-19T10:14:48+00:00</updated><id>https://yokoi-lab.net/preview/pr-64/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」</title><link href="https://yokoi-lab.net/preview/pr-64/posts/kazamasan-seminar/" rel="alternate" type="text/html" title="2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」" /><published>2026-06-10T00:00:00+00:00</published><updated>2026-06-10T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-64/posts/kazamasan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-64/posts/kazamasan-seminar/"><![CDATA[<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-64/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-64/" rel="alternate" type="text/html" /><updated>2026-06-28T06:44:20+00:00</updated><id>https://yokoi-lab.net/preview/pr-64/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」</title><link href="https://yokoi-lab.net/preview/pr-64/posts/kazamasan-seminar/" rel="alternate" type="text/html" title="2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」" /><published>2026-06-10T00:00:00+00:00</published><updated>2026-06-10T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-64/posts/kazamasan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-64/posts/kazamasan-seminar/"><![CDATA[<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
 <p>6月19日（金）に少人数での研究会を国立国語研究所 @立川にて開催します。<br />
 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。</p>
 <ul>
@@ -18,12 +18,57 @@
 以下のリンクより、参加申し込みと併せてご回答ください。（30名迄）<br />
 <del><a href="https://forms.gle/tLjYGUTW6fk2Hap38">https://forms.gle/tLjYGUTW6fk2Hap38</a></del></p>
 
-<p><br />
-どうぞお気軽にお越しください。</p>
-
 <h3 id="開催当日セミナーの様子">開催当日セミナーの様子</h3>
 <p><img src="https://gyazo.com/cac10030557ff009e2ac2f13b35fb97b.jpg" alt="" width="400" />
-<img src="https://gyazo.com/1da233f20eb6d47bc8441b3b4464276f.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[6月19日(金)に少人数での研究会を国立国語研究所 @立川にて開催します。Ubie の風間さんより、AIによる研究活動の効率化や研究サポート活動の効率化を目指す内容で、Claude を用いたデモと講演をしていただきます。]]></summary></entry><entry><title type="html">ACL 2026 採択</title><link href="https://yokoi-lab.net/preview/pr-64/posts/acl2026-publications/" rel="alternate" type="text/html" title="ACL 2026 採択" /><published>2026-04-07T00:00:00+00:00</published><updated>2026-04-07T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-64/posts/acl2026-publications</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-64/posts/acl2026-publications/"><![CDATA[<p>自然言語処理の国際会議 <a href="https://2026.aclweb.org/">The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</a> に、
+<img src="https://gyazo.com/1da233f20eb6d47bc8441b3b4464276f.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[6月19日(金)に少人数での研究会を国立国語研究所 @立川にて開催します。Ubie の風間さんより、AIによる研究活動の効率化や研究サポート活動の効率化を目指す内容で、Claude を用いたデモと講演をしていただきます。]]></summary></entry><entry><title type="html">ICML 2026 採択</title><link href="https://yokoi-lab.net/preview/pr-64/posts/icml2026-publications/" rel="alternate" type="text/html" title="ICML 2026 採択" /><published>2026-05-01T00:00:00+00:00</published><updated>2026-05-01T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-64/posts/icml2026-publications</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-64/posts/icml2026-publications/"><![CDATA[<p>機械学習の国際会議 <a href="https://icml.cc/">Forty-Third International Conference on Machine Learning (ICML 2026)</a> に、
+本研究室のメンバーが関わる1件の論文が採択されました。</p>
+
+<div>
+  <ol>
+    
+    
+    <li>
+    
+
+    Masataka Yoneda,
+    
+
+    Yusuke Matsushita,
+    
+
+    Go Kamoda,
+    
+
+    Kohei Suenaga,
+    
+
+    Takuya Akiba,
+    
+
+    Masaki Waga,
+    
+and 
+    
+    Sho Yokoi
+<br /><strong>SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora</strong>.<br /><i class="fa-regular fa-file"></i>
+    In <i>Forty-third International Conference on Machine Learning</i>, July 2026.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    Poster,
+    
+    <a href="https://icml.cc/Conferences/2026" target="_blank">Forty-Third International Conference on Machine Learning</a> (ICML 2026).
+    
+    Seoul, South Korea,
+    July 2026.<br />
+
+<a class="link-btn" href="https://softmatcha.github.io/v2/" target="_blank">Project Page</a><a class="link-btn" href="https://arxiv.org/abs/2602.10908" target="_blank">arXiv</a>
+    </li>
+    
+
+  </ol>
+
+</div>
+
+<p>-&gt; <a href="/publications/#international-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが関わる1件の論文が ICML 2026 に採択されました。]]></summary></entry><entry><title type="html">ACL 2026 採択</title><link href="https://yokoi-lab.net/preview/pr-64/posts/acl2026-publications/" rel="alternate" type="text/html" title="ACL 2026 採択" /><published>2026-04-07T00:00:00+00:00</published><updated>2026-04-07T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-64/posts/acl2026-publications</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-64/posts/acl2026-publications/"><![CDATA[<p>自然言語処理の国際会議 <a href="https://2026.aclweb.org/">The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</a> に、
 本研究室のメンバーが関わる2件の論文が採択されました。</p>
 
 <div>
@@ -49,6 +94,14 @@ and
     Sho Yokoi
 <br /><strong>Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings</strong>.<br /><i class="fa-regular fa-file"></i>
     In <i>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics</i>, July 2026.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    Poster,
+    
+    <a href="https://2026.aclweb.org/" target="_blank">The 64th Annual Meeting of the Association for Computational Linguistics</a> (ACL 2026).
+    
+    California, United States,
+    July 2026.<br />
+
 <a class="link-btn" href="https://arxiv.org/abs/2604.27398" target="_blank">arXiv</a>
     </li>
     
@@ -68,6 +121,14 @@ and
     Sho Yokoi
 <br /><strong>Timesteps of Mamba Align with Human Reading Times</strong>.<br /><i class="fa-regular fa-file"></i>
     In <i>Findings of the Association for Computational Linguistics: ACL 2026</i>, July 2026.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    Poster,
+    
+    <a href="https://2026.aclweb.org/" target="_blank">The 64th Annual Meeting of the Association for Computational Linguistics</a> (ACL 2026).
+    
+    California, United States,
+    July 2026.<br />
+
 
     </li>
     
@@ -125,7 +186,8 @@ and
     秋葉拓哉,
     和賀正樹,
     横井祥.<br />
-<strong>SoftMatcha 2: 一兆語規模のコーパスに対する柔らかく超高速な検索システム</strong>.<br />
+<strong>SoftMatcha 2: 1兆語規模コーパスの超高速かつ柔らかい検索</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.375-380, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     口頭発表,
     
@@ -182,7 +244,8 @@ and
     塩野大輝,
     坂口慶祐,
     小林悟郎.<br />
-<strong>Attention Sink および Massive Activation の発生機序の分解</strong>.<br />
+<strong>Attention Sink および Massive Activation の発生機序の分解</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2579-2584, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     口頭発表,
     
@@ -226,7 +289,8 @@ and
     塩野大輝,
     坂口慶祐,
     小林悟郎.<br />
-<strong>注意機構における Attention Sink のバイアス項的解釈</strong>.<br />
+<strong>注意機構における Attention Sink のバイアス項的解釈</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2591-2596, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     口頭発表,
     
@@ -282,7 +346,8 @@ and
     今泉允聡,
     乾健太郎,
     横井祥.<br />
-<strong>なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化</strong>.<br />
+<strong>なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2753-2758, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     ポスター発表,
     
@@ -330,7 +395,7 @@ and
   </ul>
 </div>
 
-<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが関わる研究で4件の受賞がありました。]]></summary></entry><entry><title type="html">言語処理学会第32回年次大会</title><link href="https://yokoi-lab.net/preview/pr-64/posts/nlp2026-publications/" rel="alternate" type="text/html" title="言語処理学会第32回年次大会" /><published>2026-03-03T00:00:00+00:00</published><updated>2026-03-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-64/posts/nlp2026-publications</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-64/posts/nlp2026-publications/"><![CDATA[<p>2026年3月9日から13日にかけて宇都宮（栃木）で開催される <a href="https://anlp.jp/nlp2026/index.html">言語処理学会第32回年次大会 (NLP 2026)</a>にて、
+<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが関わる研究で4件の受賞がありました。]]></summary></entry><entry><title type="html">言語処理学会第32回年次大会</title><link href="https://yokoi-lab.net/preview/pr-64/posts/nlp2026-presentations/" rel="alternate" type="text/html" title="言語処理学会第32回年次大会" /><published>2026-03-03T00:00:00+00:00</published><updated>2026-03-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-64/posts/nlp2026-presentations</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-64/posts/nlp2026-presentations/"><![CDATA[<p>2026年3月9日から13日にかけて宇都宮（栃木）で開催される <a href="https://anlp.jp/nlp2026/index.html">言語処理学会第32回年次大会 (NLP 2026)</a>にて、
 本研究室のメンバーが関わる以下8件の研究発表が行われます。</p>
 
 <div>
@@ -345,7 +410,8 @@ and
     今泉允聡,
     乾健太郎,
     横井祥.<br />
-<strong>なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化</strong>.<br />
+<strong>なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2753-2758, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     ポスター発表,
     
@@ -367,7 +433,8 @@ and
     石峯拓海,
     日野英逸,
     横井祥.<br />
-<strong>単体複体を用いた次単語予測分布の幾何的解釈</strong>.<br />
+<strong>単体複体を用いた次単語予測分布の幾何的解釈</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2726-2730, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     ポスター発表,
     
@@ -392,7 +459,8 @@ and
     塩野大輝,
     坂口慶祐,
     小林悟郎.<br />
-<strong>Attention Sink および Massive Activation の発生機序の分解</strong>.<br />
+<strong>Attention Sink および Massive Activation の発生機序の分解</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2579-2584, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     口頭発表,
     
@@ -421,8 +489,10 @@ and
 <!-- https://www.anlp.jp/guide/guideline.html -->
     李宰成,
     中石海,
+    鈴木潤,
     横井祥.<br />
-<strong>タスク算術の誤差項とその解釈</strong>.<br />
+<strong>タスク算術の誤差項とその解釈</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2609-2614, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     ポスター発表,
     
@@ -447,7 +517,8 @@ and
     塩野大輝,
     坂口慶祐,
     小林悟郎.<br />
-<strong>注意機構における Attention Sink のバイアス項的解釈</strong>.<br />
+<strong>注意機構における Attention Sink のバイアス項的解釈</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2591-2596, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     口頭発表,
     
@@ -479,7 +550,8 @@ and
     伊藤拓海,
     横井祥,
     乾健太郎.<br />
-<strong>言語モデルに線形に内在する階層的概念</strong>.<br />
+<strong>言語モデルに線形に内在する階層的概念</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2597-2602, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     ポスター発表,
     
@@ -499,7 +571,8 @@ and
     磯野真之介,
     河原吉伸,
     横井祥.<br />
-<strong>Mambaの"処理時間"はヒトの読み時間と符号する</strong>.<br />
+<strong>Mambaの"処理時間"はヒトの読み時間と符合する</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.3410-3415, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     ポスター発表,
     
@@ -522,7 +595,8 @@ and
     秋葉拓哉,
     和賀正樹,
     横井祥.<br />
-<strong>SoftMatcha 2: 一兆語規模のコーパスに対する柔らかく超高速な検索システム</strong>.<br />
+<strong>SoftMatcha 2: 1兆語規模コーパスの超高速かつ柔らかい検索</strong>.<br /><i class="fa-regular fa-file"></i> 
+    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.375-380, 2026年3月.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     口頭発表,
     

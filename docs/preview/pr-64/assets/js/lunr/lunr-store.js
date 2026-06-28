@@ -101,13 +101,13 @@ var store = [{
         "url": "/preview/pr-64/domesticConferences/202603-nlp-sakata/",
         "teaser": null
       },{
-        "title": "Mambaの\"処理時間\"はヒトの読み時間と符号する",
+        "title": "Mambaの\"処理時間\"はヒトの読み時間と符合する",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-64/domesticConferences/202603-nlp-yamamoto/",
         "teaser": null
       },{
-        "title": "SoftMatcha 2: 一兆語規模のコーパスに対する柔らかく超高速な検索システム",
+        "title": "SoftMatcha 2: 1兆語規模コーパスの超高速かつ柔らかい検索",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-64/domesticConferences/202603-nlp-yoneda/",
@@ -276,9 +276,9 @@ var store = [{
         "teaser": null
       },{
         "title": "言語処理学会第32回年次大会",
-        "excerpt":"2026年3月9日から13日にかけて宇都宮（栃木）で開催される 言語処理学会第32回年次大会 (NLP 2026)にて、 本研究室のメンバーが関わる以下8件の研究発表が行われます。 原知正, 栗田宙人, 今泉允聡, 乾健太郎, 横井祥. なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 言語処理学会第32回年次大会 委員特別賞 (32/748 件). 論文委員特別賞 石峯拓海, 日野英逸, 横井祥. 単体複体を用いた次単語予測分布の幾何的解釈. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 論文 木谷頼斗, 大橋諭貴, 佐藤宏亮, 鴨田豪, 高橋良允, 山本悠士, 塩野大輝, 坂口慶祐, 小林悟郎. Attention Sink および Massive Activation の発生機序の分解. 口頭発表, 言語処理学会第32回年次大会...","categories": ["News"],
+        "excerpt":"2026年3月9日から13日にかけて宇都宮（栃木）で開催される 言語処理学会第32回年次大会 (NLP 2026)にて、 本研究室のメンバーが関わる以下8件の研究発表が行われます。 原知正, 栗田宙人, 今泉允聡, 乾健太郎, 横井祥. なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化. In 言語処理学会 第32回年次大会 発表論文集, pp.2753-2758, 2026年3月. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 言語処理学会第32回年次大会 委員特別賞 (32/748 件). 論文委員特別賞 石峯拓海, 日野英逸, 横井祥. 単体複体を用いた次単語予測分布の幾何的解釈. In 言語処理学会 第32回年次大会 発表論文集, pp.2726-2730, 2026年3月. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 論文 木谷頼斗, 大橋諭貴, 佐藤宏亮, 鴨田豪, 高橋良允,...","categories": ["News"],
         "tags": [],
-        "url": "/preview/pr-64/posts/nlp2026-publications/",
+        "url": "/preview/pr-64/posts/nlp2026-presentations/",
         "teaser": null
       },{
         "title": "2026年3月16日(月) 国語研数理セミナー #1：髙橋昂さん「多段階の最適化に基づく学習の統計力学的解析」",
@@ -288,7 +288,7 @@ var store = [{
         "teaser": null
       },{
         "title": "言語処理学会第32回年次大会 受賞",
-        "excerpt":"2026年3月9日から13日にかけて宇都宮（栃木）で開催された 言語処理学会第32回年次大会 (NLP 2026) にて、 本研究室のメンバーが関わる以下の研究で4件の受賞がありました。 優秀賞 米田優峻, 鴨田豪, 松下祐介, 末永幸平, 秋葉拓哉, 和賀正樹, 横井祥. SoftMatcha 2: 一兆語規模のコーパスに対する柔らかく超高速な検索システム. 口頭発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 言語処理学会第32回年次大会 優秀賞 (16/718 件). 論文Project Page優秀賞 若手奨励賞 賞は第一著者に与えられる． 木谷頼斗, 大橋諭貴, 佐藤宏亮, 鴨田豪, 高橋良允, 山本悠士, 塩野大輝, 坂口慶祐, 小林悟郎. Attention Sink および Massive...","categories": ["News"],
+        "excerpt":"2026年3月9日から13日にかけて宇都宮（栃木）で開催された 言語処理学会第32回年次大会 (NLP 2026) にて、 本研究室のメンバーが関わる以下の研究で4件の受賞がありました。 優秀賞 米田優峻, 鴨田豪, 松下祐介, 末永幸平, 秋葉拓哉, 和賀正樹, 横井祥. SoftMatcha 2: 1兆語規模コーパスの超高速かつ柔らかい検索. In 言語処理学会 第32回年次大会 発表論文集, pp.375-380, 2026年3月. 口頭発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. ポスター発表, 言語処理学会第32回年次大会 (NLP 2026). 宇都宮, 2026年3月. 言語処理学会第32回年次大会 優秀賞 (16/718 件). 論文Project Page優秀賞 若手奨励賞 賞は第一著者に与えられる． 木谷頼斗, 大橋諭貴, 佐藤宏亮, 鴨田豪, 高橋良允, 山本悠士, 塩野大輝,...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-64/posts/nlp2026-awards/",
         "teaser": null
@@ -299,8 +299,14 @@ var store = [{
         "url": "/preview/pr-64/posts/acl2026-publications/",
         "teaser": null
       },{
+        "title": "ICML 2026 採択",
+        "excerpt":"機械学習の国際会議 Forty-Third International Conference on Machine Learning (ICML 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Masataka Yoneda, Yusuke Matsushita, Go Kamoda, Kohei Suenaga, Takuya Akiba, Masaki Waga, and Sho Yokoi SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora. In Forty-third International Conference on Machine Learning, July 2026. Poster, Forty-Third International Conference...","categories": ["News"],
+        "tags": [],
+        "url": "/preview/pr-64/posts/icml2026-publications/",
+        "teaser": null
+      },{
         "title": "2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」",
-        "excerpt":"国語研数理セミナーのお知らせ  6月19日（金）に少人数での研究会を国立国語研究所 @立川にて開催します。  リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。     日時：6月19日（金）16:00〜17:30   場所：国立国語研究所 @立川 https://www.ninjal.ac.jp/utility/access/ 、2F 多目的室   発表者：風間正弘さん（Ubie株式会社 ; https://sites.google.com/view/masahiro-kazama/）   タイトル：AI for Research (Administration) 勉強会 〜Claudeを活用して〜     概要  生成AIは、研究活動や事務手続きの現場でも「使える道具」になりつつあります。本勉強会では、AIによる業務効率化のトレンドと、Claudeを使った具体的な活用法を、講演とデモ（スライド作成・調査業務の自動化など）を交えてご紹介します。「興味はあるが何から始めればよいか分からない」という方も歓迎です。日々の業務を少し楽にするヒントをご提供できたら幸いです。   参加登録フォーム　　  フォームには皆さまのAI利用状況や関心事を伺う項目を設けており、事前に講師の方へ共有する予定です。  以下のリンクより、参加申し込みと併せてご回答ください。（30名迄）  https://forms.gle/tLjYGUTW6fk2Hap38     どうぞお気軽にお越しください。   開催当日セミナーの様子     ","categories": ["Talk"],
+        "excerpt":"国語研数理セミナーのお知らせ  6月19日（金）に少人数での研究会を国立国語研究所 @立川にて開催します。  リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。     日時：6月19日（金）16:00〜17:30   場所：国立国語研究所 @立川 https://www.ninjal.ac.jp/utility/access/ 、2F 多目的室   発表者：風間正弘さん（Ubie株式会社 ; https://sites.google.com/view/masahiro-kazama/）   タイトル：AI for Research (Administration) 勉強会 〜Claudeを活用して〜     概要  生成AIは、研究活動や事務手続きの現場でも「使える道具」になりつつあります。本勉強会では、AIによる業務効率化のトレンドと、Claudeを使った具体的な活用法を、講演とデモ（スライド作成・調査業務の自動化など）を交えてご紹介します。「興味はあるが何から始めればよいか分からない」という方も歓迎です。日々の業務を少し楽にするヒントをご提供できたら幸いです。   参加登録フォーム　　  フォームには皆さまのAI利用状況や関心事を伺う項目を設けており、事前に講師の方へ共有する予定です。  以下のリンクより、参加申し込みと併せてご回答ください。（30名迄）  https://forms.gle/tLjYGUTW6fk2Hap38   開催当日セミナーの様子     ","categories": ["Talk"],
         "tags": [],
         "url": "/preview/pr-64/posts/kazamasan-seminar/",
         "teaser": null
