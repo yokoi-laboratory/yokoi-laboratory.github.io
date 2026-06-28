@@ -25,10 +25,9 @@ header:
 ### 参加登録フォーム　　
 フォームには皆さまのAI利用状況や関心事を伺う項目を設けており、事前に講師の方へ共有する予定です。  
 以下のリンクより、参加申し込みと併せてご回答ください。（30名迄）  
-~~<https://forms.gle/tLjYGUTW6fk2Hap38>~~  
-
-<br>
-
+~~<https://forms.gle/tLjYGUTW6fk2Hap38>~~  　   
+  
+  
 ### 開催当日セミナーの様子
 ![](https://gyazo.com/cac10030557ff009e2ac2f13b35fb97b.jpg){: width="400" }
 ![](https://gyazo.com/1da233f20eb6d47bc8441b3b4464276f.jpg){: width="400" }
