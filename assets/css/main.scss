@@ -8,13 +8,12 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.site-title--logo {
-  display: flex;
-  align-items: center;
+.site-title--logo img {
+  display: block;
+  height: 66px;
+  width: auto;
 }
 
-.site-title__logo-image {
-  display: block;
-  height: 81px;
-  width: auto;
+.masthead__inner-wrap {
+  padding: 0.5em 1em;
 }
