@@ -81,11 +81,13 @@
 
     <!-- start custom head snippets -->
 
-<link rel="icon" href="/assets/img/favicon/lab_icon.svg" type="image/svg+xml">
-<link rel="shortcut icon" href="/assets/img/favicon/lab_icon.svg" type="image/svg+xml">
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<link rel="icon" type="image/svg+xml" href="/assets/favicon/favicon.svg?v=2">
+<link rel="alternate icon" href="/assets/favicon/favicon.ico?v=2">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png?v=2">
+<link rel="manifest" href="/assets/favicon/site.webmanifest?v=2">
 
 <!-- end custom head snippets -->
-
   </head>
 
   <body class="layout--splash" dir="ltr">
@@ -103,15 +105,12 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title site-title--logo" href="/" aria-label="Yokoi Lab @ NINJAL🥷">
-          <img
-            class="site-title__logo-image"
-            src="/assets/img/logo/lab_logo.svg"
-            alt="Yokoi Lab @ NINJAL🥷"
-          >
-        </a>
-
         
+          <a class="site-title site-title--logo" href="/" aria-label="Yokoi Lab @ NINJAL🥷">
+            <img src="/assets/img/logo/lab_logo.svg" alt="Yokoi Lab @ NINJAL🥷">
+          </a>
+        
+
         <ul class="visible-links">
           <li class="masthead__menu-item">
             <a href="/">Top</a>
@@ -136,17 +135,19 @@
                 <a href="/contact/">Contact</a>
               </li>
             </ul>
+
         
+
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">メニュー</span>
           <div class="navicon"></div>
         </button>
+
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
 </div>
-
 
     <div class="initial-content">
       
