@@ -25,7 +25,7 @@ description              : "Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @
 url                      : "https://yokoi-lab.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
 repository               : "yokoi-laboratory/yokoi-laboratory.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-page_large_image         : "/assets/img/meta/OGP/page-large-img-1200x630_dpi72.png" # path of default large image for pages, e.g. "/assets/images/1200x630.png"
+page_large_image         : "/assets/img/meta/OGP/lab_ogp.png" # path of default large image for pages, e.g. "/assets/images/1200x630.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/img/logo/lab_logo.svg"
 masthead_title           : "Yokoi Lab @ NINJAL🥷"
@@ -96,7 +96,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/img/meta/OGP/page-large-img-1200x630_dpi72.png"
+og_image                 : "/assets/img/meta/OGP/lab_ogp.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
