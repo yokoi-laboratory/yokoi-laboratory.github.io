@@ -34,8 +34,9 @@
         - 修正方法がわからない場合は他の人に気軽に相談する
 1. レビューが済んだら `Squash and merge` で公開処理を開始する
 
-*初心者向け Webページ更新マニュアル　https://app.notion.com/p/yokoi-lab/Web-news-blog-3b18436103218041b001e4e87a55b508?source=copy_link
-
+　　初心者向け Webページ更新マニュアルはこちら  
+　　https://app.notion.com/p/yokoi-lab/Web-news-blog-3b18436103218041b001e4e87a55b508?source=copy_link     
+   <br> 
 
 ## 導入方法 (備忘録)
 1. Personal Access Tokenを取得する
