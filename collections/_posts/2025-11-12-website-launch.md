@@ -2,7 +2,7 @@
 layout: splash
 title: "研究室のウェブサイトが立ち上がりました"
 category: Blog
-excerpt: 
+excerpt: ""
 header:
   show_overlay_excerpt: false
   show_date: true 
