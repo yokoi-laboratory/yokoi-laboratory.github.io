@@ -3,10 +3,6 @@ layout: splash
 title: "2026年9月10日(木) 国語研数理セミナー #3：大塚淳さん、道田蒼人さん、福水健次さん「言語と不変性・同変性」"
 category: Talk
 excerpt: "9月10日(木)に「言語と不変性・同変性」というセミナーを国立国語研究所 @立川にて開催します。
-header:
-  show_overlay_excerpt: false
-  show_date: true 
-  overlay_color: "#404040"
 ---
 
 ## 国語研数理セミナーのお知らせ  
