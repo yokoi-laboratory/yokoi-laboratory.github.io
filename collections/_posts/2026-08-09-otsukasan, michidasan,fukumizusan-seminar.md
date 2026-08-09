@@ -29,7 +29,7 @@ TBA
 
 ### 参加登録フォーム（要申込）
 ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  
-<[https://forms.gle/y488qGm4ifWW2eqj8](https://forms.gle/a3E7bc7fe2hnCz7v5)>     　   
+[https://forms.gle/tLjYGUTW6fk2Hap38](https://forms.gle/RzhUq7hFjUp5SpqL8)　  　   
   
   
 
