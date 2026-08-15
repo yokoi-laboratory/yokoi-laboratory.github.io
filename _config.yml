@@ -228,6 +228,7 @@ sass:
 
 # Outputting
 permalink: /posts/:title/
+future: true # 未来日付の投稿も公開；未来のイベント予定など
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
