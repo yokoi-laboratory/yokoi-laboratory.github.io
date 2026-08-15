@@ -228,7 +228,7 @@ sass:
 
 # Outputting
 permalink: /posts/:title/
-future: true # 開催日を日付にした未来日付の投稿も公開する（github-pages gem の既定と同じ値を明示）
+future: true # 未来日付の投稿も公開；未来のイベント予定など
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
