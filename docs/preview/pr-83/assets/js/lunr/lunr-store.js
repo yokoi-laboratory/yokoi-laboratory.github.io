@@ -320,6 +320,6 @@ var store = [{
         "title": "大学院説明会（申込締切：9月14日正午）",
         "excerpt":"2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。  本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。  個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。     日時：2026年9月28日（月）午後   場所：国立国語研究所 @立川（アクセス）およびオンライン   参加申込：2026年9月14日（月）正午まで   詳細は国立国語研究所の案内ページをご覧ください：  https://www.ninjal.ac.jp/education/soken/admission/guidance/  ","categories": ["News"],
         "tags": [],
-        "url": "/preview/pr-83/posts/ninjal-graduate-admission-guidance/",
+        "url": "/preview/pr-83/posts/sokendai-guidance-2026-fall/",
         "teaser": null
       }]
