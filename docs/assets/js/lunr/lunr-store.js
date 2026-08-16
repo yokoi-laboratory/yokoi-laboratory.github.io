@@ -113,6 +113,30 @@ var store = [{
         "url": "/domesticConferences/202603-nlp-yoneda/",
         "teaser": null
       },{
+        "title": "単体複体を用いた言語モデルの出力空間の幾何的解釈",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/domesticConferences/202608-yans-ishimine/",
+        "teaser": null
+      },{
+        "title": "大規模言語モデルにおける文内Attentionメカニズムの分析",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/domesticConferences/202608-yans-kamoda/",
+        "teaser": null
+      },{
+        "title": "パラメータ空間の幾何構造から見るタスク算術の失敗",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/domesticConferences/202608-yans-lee/",
+        "teaser": null
+      },{
+        "title": "Zipf則の頑健性――『残像に口紅を』を題材に",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/domesticConferences/202608-yans-nakaishi/",
+        "teaser": null
+      },{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -315,6 +339,12 @@ var store = [{
         "excerpt":"国語研数理セミナーのお知らせ  9月10日（木）に「言語と不変性・同変性」というセミナーを国立国語研究所 @ 立川にて開催します。 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。     日時：2026年9月10日（木）10:15〜14:30   場所：国立国語研究所 @立川 https://www.ninjal.ac.jp/utility/access/   講師：大塚淳さん（ZEN大学）、道田蒼人さん（京都大学）、福水健次さん（統計数理研究所）   タイトル：言語と不変性・同変性   プログラム：  10:15–11:45 (90 min) 大塚さん ・道田さん「言語の合成性と同変性：群論的アプローチ」（仮）   11:45–13:30　昼休み   13:30–14:30 (60 min) 福水さん「幾何学的な表現学習・機械学習」（仮）     概要  TBA   参加登録フォーム（要申込）  ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  https://forms.gle/tLjYGUTW6fk2Hap38　  　   ","categories": ["Talk"],
         "tags": [],
         "url": "/posts/otsukasan-michidasan-fukumizusan-seminar/",
+        "teaser": null
+      },{
+        "title": "YANS 2026 発表",
+        "excerpt":"2026年8月16日（日）から18日（火）にかけて仙台（宮城）で開催される 第21回言語処理若手シンポジウム (YANS 2026) にて、 本研究室のメンバーが関わる以下4件の研究発表がおこなわれます。                                石峯拓海,     日野英逸,     横井祥.  単体複体を用いた言語モデルの出力空間の幾何的解釈.           ポスター発表,          第21回言語処理若手シンポジウム (YANS 2026).          仙台,     2026年8月.                              鴨田豪,     窪田悠介,     横井祥.  大規模言語モデルにおける文内Attentionメカニズムの分析.           ポスター発表,          第21回言語処理若手シンポジウム (YANS 2026).          仙台,     2026年8月.                              李宰成,     中石海,     唐木田亮,     横井祥.  パラメータ空間の幾何構造から見るタスク算術の失敗.           ポスター発表,          第21回言語処理若手シンポジウム (YANS 2026).          仙台,     2026年8月.                              中石海.  Zipf則の頑健性――『残像に口紅を』を題材に.           ポスター発表,          第21回言語処理若手シンポジウム (YANS 2026).          仙台,     2026年8月.                      -&gt; Publications  ","categories": ["News"],
+        "tags": [],
+        "url": "/posts/yans2026-presentations/",
         "teaser": null
       },{
         "title": "大学院説明会（申込締切：9月14日正午）",
