@@ -2,7 +2,7 @@
 layout: splash
 title: "YANS 2026 発表"
 category: News
-excerpt: "自然言語処理分野の若手の会 YANS 2026 にて本研究室のメンバーが関わる4件の研究発表がおこなわれます。"
+excerpt: "自然言語処理分野の若手の会 YANS 2026 にて、本研究室のメンバーが関わる4件の研究発表がおこなわれます。"
 header:
   show_overlay_excerpt: false
   show_date: true
