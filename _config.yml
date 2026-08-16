@@ -190,6 +190,7 @@ exclude:
   - package-lock.json
   - Rakefile
   - README
+  - scripts
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   # - /test # ignore Minimal Mistakes /test
