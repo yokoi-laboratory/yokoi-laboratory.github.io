@@ -15,19 +15,26 @@
        発表項目をすべて解析し、セッション ID・タイトル・著者欄に分ける。
        タイトル・著者欄はいずれも項目の境界（`</p>` や次の `<li>`）を跨がないので、
        `<br>` を欠いた項目があっても隣の項目の著者を吸い込むことはない。
-    3. 著者欄をカンマ類（, 、 ，）で分割し、各要素から末尾の所属（括弧書き）を
-       落として 1 名ずつに分ける。対象著者リスト（TARGET_AUTHORS.tsv）の名前と
+    3. 著者欄を「括弧の外にある」カンマ類（, 、 ，）で分割し、各要素の
+       「括弧の外で最初に現れる開き括弧」より前を名前とする（所属括弧の
+       入れ子・連続にも対応）。対象著者リスト（TARGET_AUTHORS.tsv）の名前と
        「空白をすべて除去した文字列」が完全一致する著者を含む項目を抽出し、
        TSV（セッション ID / タイトル / 著者）で標準出力へ書き出す。
        完全一致にしているのは、部分一致だと「中石海」が「中石海斗」に、
-       あるいは所属文字列に当たって誤検出するため。
+       あるいは所属文字列に当たって誤検出するため。ただし、括弧の対応が
+       崩れている項目や、所属括弧の後ろに想定外の文字が残る項目（未知の
+       区切り文字の可能性がある）は著者単位の分割を信用できないので、
+       WARNING を出してその項目だけ部分一致にフォールバックする
+       （取りこぼしより過検出側に倒す）。
     4. 取りこぼし検査（スイープ）: ページ全体のテキスト（タグを潰し、実体参照は
        文字へ戻したもの）を走査して対象著者名の出現箇所をすべて洗い出し、
        いずれも解析済み項目の著者欄の内側にあることを確認する。外側の出現
        （別セクションへの掲載、解析に失敗した項目など）があれば警告を標準エラーへ
        出し、標準出力には何も書かずに終了コード 1 で終わる（誤った一覧を
        そのまま使ってしまわないようにするため）。ここで使う照合は部分一致で、
-       取りこぼし側に保守的に倒してある。ただしスイープが検知できるのは
+       取りこぼし側に保守的に倒してある。ただしスイープが見るのは著者欄の
+       「外側」だけで、著者欄の内側での分割ミスは検知できない（そちらは
+       3. のフォールバックが受け持つ）。またスイープが検知できるのは
        TSV に列挙した表記のみで、ローマ字・旧字体等の表記ゆれは
        TSV に行を足して担保する。
 
@@ -70,6 +77,7 @@ HTTP_USER_AGENT = "Mozilla/5.0 (compatible; lab-site-presentation-extractor/1.0)
 HTTP_TIMEOUT_SEC = 30
 RETRY_COUNT = 3
 RETRY_BACKOFF_SEC = 2.0  # 2s, 4s, ... と指数的に待つ
+RETRIABLE_HTTP_STATUS = {408, 429}  # 4xx のうち一時的なもの（これらはリトライする）
 
 # 発表項目の書式:
 #   <li><p>[S3-P07] タイトル<br/>著者 (所属), 著者 (所属)</p></li>
@@ -77,13 +85,15 @@ RETRY_BACKOFF_SEC = 2.0  # 2s, 4s, ... と指数的に待つ
 # セッション ID は英数字始まりの「英数字とハイフンのみ」（最大 16 文字）とする。
 # コロンを含まないので「13:00-13:30」のような時刻表記は誤ってマッチしない。
 # 学会側の ID 体系（例: 記号を含む、より長い）が変わったらこの文字クラスを調整する。
-SESSION_ID_SUBPATTERN = r"[A-Za-z0-9][A-Za-z0-9-]{0,15}"
+# (?-i: ...) は ITEM_PATTERN 全体の IGNORECASE をここだけ無効にする
+# （Unicode ケースフォールドで [A-Za-z] にケルビン記号等が紛れ込むのを防ぐ）。
+SESSION_ID_SUBPATTERN = r"(?-i:[A-Za-z0-9][A-Za-z0-9-]{0,15})"
 # タイトル・著者欄はそれぞれ項目の境界を跨げないよう tempered subpattern にする
-# （タイトルは `</p>`・`<br` の手前まで、著者欄は `</p>`・`<li` の手前まで）。
-# これにより `<br>` を欠いた項目があっても次の項目へ食い込まない。
+# （タイトルは `</p>`・`<br`・`<li` の手前まで、著者欄は `</p>`・`<li` の手前まで）。
+# これにより `<br>` や `</p>` を欠いた項目があっても次の項目へ食い込まない。
 ITEM_PATTERN = re.compile(
     r"<li>\s*<p>\s*\[(" + SESSION_ID_SUBPATTERN + r")\]\s*"
-    r"((?:(?!</p>|<br)[\s\S])*?)"
+    r"((?:(?!</p>|<br|<li)[\s\S])*?)"
     r"<br\s*/?>"
     r"((?:(?!</p>|<li)[\s\S])*?)"
     r"</p>\s*</li>",
@@ -92,13 +102,16 @@ ITEM_PATTERN = re.compile(
 
 TAG_PATTERN = re.compile(r"<[^>]*>")
 SCRIPT_STYLE_PATTERN = re.compile(r"<(script|style)\b.*?</\1>", re.DOTALL | re.IGNORECASE)
-# 数値参照・名前付き参照の両方（スイープで実体参照書きの氏名を見つけるため）
+# 数値参照・名前付き参照の両方（スイープで実体参照書きの氏名を見つけるため）。
+# セミコロン付きのみ対象（html.unescape はセミコロンなしも復号するが、
+# パターンを緩めると通常の文字列を誤食するため、スイープはこの範囲に限る）。
 ENTITY_PATTERN = re.compile(r"&(?:#x[0-9A-Fa-f]+|#[0-9]+|[A-Za-z][A-Za-z0-9]*);")
 
-# 著者欄の区切り（半角カンマ・読点・全角カンマ）
-AUTHOR_SEPARATOR_PATTERN = re.compile(r"[,、，]")
-# 各著者の末尾に付く所属（半角・全角の括弧書き）
-AFFILIATION_SUFFIX_PATTERN = re.compile(r"\s*(?:\([^()]*\)|（[^（）]*）)\s*$")
+# 著者欄の区切り（半角カンマ・読点・全角カンマ）。括弧の外にあるものだけを
+# 区切りとして扱う。中黒「・」はカタカナ氏名の中に現れるため意図的に含めない
+# （未知の区切りが使われた項目は split_authors が検出してフォールバックする）。
+# セミコロン区切りの学会に流用するときは ";；" を足す。
+AUTHOR_SEPARATORS = ",、，"
 
 # デコード失敗を示す置換文字（charset 誤りの検出に使う）
 REPLACEMENT_CHARACTER = "�"
@@ -114,9 +127,17 @@ def fetch_html(url):
             with urllib.request.urlopen(request, timeout=HTTP_TIMEOUT_SEC) as response:
                 charset = response.headers.get_content_charset() or "utf-8"
                 return response.read().decode(charset, errors="replace")
-        except (OSError, http.client.HTTPException) as error:
+        except (OSError, http.client.HTTPException, ValueError) as error:
+            # ValueError は不正な URL（スキームなし等）。urlopen が送出する
+            if isinstance(error, ValueError):
+                raise SystemExit("ERROR: invalid URL {0}: {1}".format(url, error))
             # 4xx はページ側の恒久的な問題（URL 間違い・削除）なのでリトライしない
-            if isinstance(error, urllib.error.HTTPError) and 400 <= error.code < 500:
+            # （408/429 のような一時的なものは除く）
+            if (
+                isinstance(error, urllib.error.HTTPError)
+                and 400 <= error.code < 500
+                and error.code not in RETRIABLE_HTTP_STATUS
+            ):
                 raise SystemExit(
                     "ERROR: {0} returned HTTP {1} {2}; not retrying".format(
                         url, error.code, error.reason
@@ -172,18 +193,69 @@ def compact(text):
 
 
 def split_authors(authors_text):
-    """著者欄を 1 名ずつに分け、末尾の所属（括弧書き）を落とした名前の一覧を返す。"""
+    """著者欄を 1 名ずつに分け、所属（括弧書き）を除いた名前の一覧を返す。
+
+    区切り文字は括弧の外にあるものだけを区切りとして扱う（所属の括弧内に
+    カンマを含む著者欄が実在するため。例: YANS 2026 の S4-P44）。各著者の
+    名前は「括弧の外で最初に現れる開き括弧」より前の部分とする（入れ子や
+    連続の所属括弧にも対応するため）。括弧の対応が崩れている場合と、
+    所属括弧の後ろに空白以外の文字が残る場合（AUTHOR_SEPARATORS にない
+    未知の区切り文字が使われた可能性があり、後続の著者を黙って捨てる
+    おそれがある）は分割を信用できないので、(names, False) を返して
+    判断を呼び出し元に委ねる。
+    """
     names = []
-    for chunk in AUTHOR_SEPARATOR_PATTERN.split(authors_text):
-        name = AFFILIATION_SUFFIX_PATTERN.sub("", chunk).strip()
+    name_chars = []
+    in_affiliation = False  # この著者の名前部分を読み終えた（所属括弧に入った）か
+    depth = 0
+    balanced = True
+
+    def flush():
+        nonlocal name_chars, in_affiliation
+        name = "".join(name_chars).strip()
         if name:
             names.append(name)
-    return names
+        name_chars = []
+        in_affiliation = False
+
+    for character in authors_text:
+        if character in "(（":
+            if depth == 0:
+                in_affiliation = True
+            depth += 1
+        elif character in ")）":
+            if depth == 0:
+                balanced = False  # 開きより先に閉じが来た
+            depth = max(0, depth - 1)
+        elif depth == 0 and character in AUTHOR_SEPARATORS:
+            flush()
+        elif depth == 0 and not in_affiliation:
+            name_chars.append(character)
+        elif depth == 0 and not character.isspace():
+            balanced = False  # 所属括弧の後ろに想定外の文字が残った（未知の区切り？）
+    flush()
+    if depth != 0:
+        balanced = False  # 閉じられていない括弧が残った
+    return names, balanced
 
 
 def item_matches(item, target_authors):
-    """項目の著者のいずれかが対象著者と（空白を無視して）完全一致するか判定する。"""
-    compact_names = {compact(name) for name in split_authors(item["authors"])}
+    """項目の著者のいずれかが対象著者と（空白を無視して）完全一致するか判定する。
+
+    著者単位の分割を信用できない項目（括弧の不整合・未知の区切り文字）は、
+    取りこぼし回避を優先して部分一致で判定し、WARNING を出す。部分一致は
+    「中石海」が「中石海斗」や所属文字列に当たる過検出を許すが、無警告の
+    取りこぼしよりは安全側なので許容する。
+    """
+    names, balanced = split_authors(item["authors"])
+    if not balanced:
+        print(
+            "WARNING: item {0} has an author column that cannot be split reliably; "
+            "falling back to substring matching for it".format(item["session"]),
+            file=sys.stderr,
+        )
+        return any(compact(author) in compact(item["authors"]) for author in target_authors)
+    compact_names = {compact(name) for name in names}
     return any(compact(author) in compact_names for author in target_authors)
 
 
