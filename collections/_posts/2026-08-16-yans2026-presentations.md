@@ -1,16 +1,16 @@
 ---
 layout: splash
-title: "第21回言語処理若手シンポジウム"
+title: "YANS 2026 発表"
 category: News
-excerpt: "本研究室のメンバーが関わる4件の研究発表があります。"
+excerpt: "自然言語処理分野の若手の会 YANS 2026 にて本研究室のメンバーが関わる4件の研究発表がおこなわれます。"
 header:
   show_overlay_excerpt: false
   show_date: true
   overlay_color: "#404040"
 ---
 
-2026年8月16日から18日にかけて仙台（宮城）で開催される [第21回言語処理若手シンポジウム (YANS 2026)](https://yans.anlp.jp/entry/yans2026)にて、
-本研究室のメンバーが関わる以下4件の研究発表が行われます。
+2026年8月16日（日）から18日（火）にかけて仙台（宮城）で開催される [第21回言語処理若手シンポジウム (YANS 2026)](https://yans.anlp.jp/entry/yans2026) にて、
+本研究室のメンバーが関わる以下4件の研究発表がおこなわれます。
 
 <div>
   <ol>
