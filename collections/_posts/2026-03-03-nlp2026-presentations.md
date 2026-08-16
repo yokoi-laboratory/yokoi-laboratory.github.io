@@ -2,7 +2,7 @@
 layout: splash
 title: "NLP 2026 発表"
 category: News
-excerpt: "言語処理学会の年次大会 NLP 2026 にて、本研究室のメンバーが関わる8件の研究発表がおこなわれます。"
+excerpt: "自然言語処理分野の国内会議 NLP 2026 にて、本研究室のメンバーが関わる8件の研究発表がおこなわれます。"
 redirect_from:
   - /posts/nlp2026-publications/
 header:
