@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-08-16T09:42:24+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-08-21T05:46:06+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
 本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。<br />
 個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。</p>
 <ul>
@@ -104,19 +104,23 @@
   <li><strong>講師</strong>：大塚淳さん（ZEN大学）、道田蒼人さん（京都大学）、福水健次さん（統計数理研究所）</li>
   <li><strong>タイトル</strong>：言語と不変性・同変性</li>
   <li><strong>プログラム</strong>：<br />
-10:15–11:45 (90 min) 大塚さん ・道田さん「言語の合成性と同変性：群論的アプローチ」（仮） <br />
+10:15–11:45 (90 min) 大塚さん ・道田さん「言語の合成性と同変性：群論的アプローチ」 <br />
 11:45–13:30　昼休み <br />
-13:30–14:30 (60 min) 福水さん「幾何学的な表現学習・機械学習」（仮）</li>
+13:30–14:30 (60 min) 福水さん「同変性を用いた表現学習」</li>
 </ul>
 
 <hr />
 
 <h3 id="概要">概要</h3>
-<p>TBA</p>
+<p><strong>大塚さん ・道田さん「言語の合成性と同変性：群論的アプローチ」</strong> <br />
+言語の本質的な特徴はその生産性、すなわち語を組み合わせることで無数の文を作り出せることにある。フレーゲ以来、哲学者はこの生産性を合成性、すなわち記号を組み合わせる構文的ルール（文法）の観点から解明しようと試みてきた。一方、言語哲学者のMillikanは、合成性ではなく、記号の変換と指示対象の変換の間の一致によって生産性を捉えようとしてきた。本発表では、これを群作用の不変性（invariance）および同変性（equivariance）として定式化することで、哲学的な言語表象理論を、機械学習における対称性学習とパラレルに捉えることを提案する。またその上で、群表現の既約分解を通じて、言語の文法性を切り出していくことの可能性を探る。</p>
+
+<p><strong>福水さん「同変性を用いた表現学習」</strong> <br />
+表現学習はデータからの知識表現の有効な方法であり、人工知能の基礎技術として広く利用されている。本講演では幾何学的・代数的な知識をデータを通して表現学習に組み込む研究として、データ空間に群が作用すると仮定して、作用に対する同変性を利用した表現学習に関して議論する。特に、群の作用が明示的に与えられていない場合に対しても表現学習を可能とするNeural Fourier変換の方法に関して紹介を行う。この方法は、Autoencoderを用いて、群作用に関して同変性を持つよう潜在表現を学習し、潜在空間では群作用が線形変換となるような表現学習を行う。方法の有効性を示すとともに、群の表現論を通したFourier変換との関係に関して説明する。時間が許せば群以外の作用の場合への発展も論じたい。</p>
 
 <h3 id="参加登録フォーム要申込">参加登録フォーム（要申込）</h3>
 <p>ご参加いただける方は、以下のフォームよりご登録をお願いいたします。<br />
-<a href="https://forms.gle/RzhUq7hFjUp5SpqL8">https://forms.gle/tLjYGUTW6fk2Hap38</a>　  　</p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[9月10日(木)に「言語と不変性・同変性」というセミナーを国立国語研究所 @立川にて開催します。]]></summary></entry><entry><title type="html">2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」</title><link href="https://yokoi-lab.net/posts/kazamasan-seminar/" rel="alternate" type="text/html" title="2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」" /><published>2026-06-10T00:00:00+00:00</published><updated>2026-06-10T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/kazamasan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/kazamasan-seminar/"><![CDATA[<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
+<a href="https://forms.gle/RzhUq7hFjUp5SpqL8">https://forms.gle/tLjYGUTW6fk2Hap38</a>　  　</p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[9月10日(木)に「言語と不変性・同変性」というセミナーを国立国語研究所 @立川にて開催します。ZEN大学の大塚さん、京都大学の道田さんより「言語の合成性と同変性」について、統計数理研究所の福水さんより「同変性を用いた表現学習」について、それぞれご講演いただきます。]]></summary></entry><entry><title type="html">2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」</title><link href="https://yokoi-lab.net/posts/kazamasan-seminar/" rel="alternate" type="text/html" title="2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」" /><published>2026-06-10T00:00:00+00:00</published><updated>2026-06-10T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/kazamasan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/kazamasan-seminar/"><![CDATA[<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
 <p>6月19日（金）に少人数での研究会を国立国語研究所 @立川にて開催します。<br />
 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。</p>
 <ul>
