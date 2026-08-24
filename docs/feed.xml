@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-08-21T05:46:06+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-08-24T06:40:53+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
 本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。<br />
 個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。</p>
 <ul>
@@ -8,7 +8,126 @@
 </ul>
 
 <p>詳細は国立国語研究所の案内ページをご覧ください：<br />
-<a href="https://www.ninjal.ac.jp/education/soken/admission/guidance/#SESSION">https://www.ninjal.ac.jp/education/soken/admission/guidance/</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[9月28日(月)午後に総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。個別面談を含め、参加申込の締切は9月14日(月)正午です。]]></summary></entry><entry><title type="html">YANS 2026 発表</title><link href="https://yokoi-lab.net/posts/yans2026-presentations/" rel="alternate" type="text/html" title="YANS 2026 発表" /><published>2026-08-16T00:00:00+00:00</published><updated>2026-08-16T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/yans2026-presentations</id><content type="html" xml:base="https://yokoi-lab.net/posts/yans2026-presentations/"><![CDATA[<p>2026年8月16日（日）から18日（火）にかけて仙台（宮城）で開催される <a href="https://yans.anlp.jp/entry/yans2026">第21回言語処理若手シンポジウム (YANS 2026)</a> にて、
+<a href="https://www.ninjal.ac.jp/education/soken/admission/guidance/#SESSION">https://www.ninjal.ac.jp/education/soken/admission/guidance/</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[9月28日(月)午後に総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。個別面談を含め、参加申込の締切は9月14日(月)正午です。]]></summary></entry><entry><title type="html">YANS 2026 受賞</title><link href="https://yokoi-lab.net/posts/yans2026-awards/" rel="alternate" type="text/html" title="YANS 2026 受賞" /><published>2026-08-18T00:00:00+00:00</published><updated>2026-08-18T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/yans2026-awards</id><content type="html" xml:base="https://yokoi-lab.net/posts/yans2026-awards/"><![CDATA[<p>2026年8月16日（日）から18日（火）にかけて仙台（宮城）で開催された <a href="https://yans.anlp.jp/entry/yans2026">第21回言語処理若手シンポジウム (YANS 2026)</a> にて、
+本研究室のメンバーが関わる以下の研究で3件の受賞がありました。</p>
+
+<h2 id="奨励賞">奨励賞</h2>
+<p>賞は第一著者に与えられます。</p>
+
+<div>
+  <ul>
+    
+      
+      
+      
+      <li>
+      
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    石峯拓海,
+    日野英逸,
+    横井祥.<br />
+<strong>単体複体を用いた言語モデルの出力空間の幾何的解釈</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://yans.anlp.jp/entry/yans2026" target="_blank">第21回言語処理若手シンポジウム</a> (YANS 2026).
+    
+    仙台,
+    2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 奨励賞 (22/231 件).
+    <br />
+
+
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">奨励賞</a>
+      </li>
+      
+    
+      
+      
+      
+      <li>
+      
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    鴨田豪,
+    窪田悠介,
+    横井祥.<br />
+<strong>大規模言語モデルにおける文内Attentionメカニズムの分析</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://yans.anlp.jp/entry/yans2026" target="_blank">第21回言語処理若手シンポジウム</a> (YANS 2026).
+    
+    仙台,
+    2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 奨励賞 (22/231 件).
+    <br />
+
+
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">奨励賞</a>
+      </li>
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+  </ul>
+</div>
+
+<h2 id="株式会社サイバーエージェント賞">株式会社サイバーエージェント賞</h2>
+
+<div>
+  <ul>
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+      <li>
+      
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    李宰成,
+    中石海,
+    唐木田亮,
+    横井祥.<br />
+<strong>パラメータ空間の幾何構造から見るタスク算術の失敗</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://yans.anlp.jp/entry/yans2026" target="_blank">第21回言語処理若手シンポジウム</a> (YANS 2026).
+    
+    仙台,
+    2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 株式会社サイバーエージェント賞 .
+    <br />
+
+
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">株式会社サイバーエージェント賞</a>
+      </li>
+      
+    
+      
+      
+      
+    
+  </ul>
+</div>
+
+<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[自然言語処理分野の若手の会 YANS 2026 にて、本研究室のメンバーが関わる研究で3件の受賞がありました。]]></summary></entry><entry><title type="html">YANS 2026 発表</title><link href="https://yokoi-lab.net/posts/yans2026-presentations/" rel="alternate" type="text/html" title="YANS 2026 発表" /><published>2026-08-16T00:00:00+00:00</published><updated>2026-08-16T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/yans2026-presentations</id><content type="html" xml:base="https://yokoi-lab.net/posts/yans2026-presentations/"><![CDATA[<p>2026年8月16日（日）から18日（火）にかけて仙台（宮城）で開催される <a href="https://yans.anlp.jp/entry/yans2026">第21回言語処理若手シンポジウム (YANS 2026)</a> にて、
 本研究室のメンバーが関わる以下4件の研究発表がおこなわれます。</p>
 
 <div>
@@ -29,9 +148,12 @@
     
     仙台,
     2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 奨励賞 (22/231 件).
+    <br />
 
 
-
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">奨励賞</a>
     </li>
     
     <li>
@@ -48,9 +170,12 @@
     
     仙台,
     2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 奨励賞 (22/231 件).
+    <br />
 
 
-
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">奨励賞</a>
     </li>
     
     <li>
@@ -68,9 +193,12 @@
     
     仙台,
     2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 株式会社サイバーエージェント賞 .
+    <br />
 
 
-
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">株式会社サイバーエージェント賞</a>
     </li>
     
     <li>
@@ -769,5 +897,4 @@ and
 <h3 id="開催当日セミナーの様子">開催当日セミナーの様子</h3>
 <p><img src="https://gyazo.com/b6dbc70819ec39cbf357762e192f9cb5.jpg" alt="" width="400" />
 <img src="https://gyazo.com/92498a54ceb6f3f732fc2fe6fb7e996f.jpg" alt="" width="400" />
-<img src="https://gyazo.com/9cf99d4c6658da5e2d15a45c47fe6c73.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[3月16日(月)に少人数での研究会を国立国語研究所 @立川にて開催します。東京大学の髙橋さんより、多段階の最適化を用いた学習について、統計力学の立場から最新の研究結果をご紹介いただきます。]]></summary></entry><entry><title type="html">研究室のウェブサイトが立ち上がりました</title><link href="https://yokoi-lab.net/posts/website-launch/" rel="alternate" type="text/html" title="研究室のウェブサイトが立ち上がりました" /><published>2025-11-12T00:00:00+00:00</published><updated>2025-11-12T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/website-launch</id><content type="html" xml:base="https://yokoi-lab.net/posts/website-launch/"><![CDATA[<p>2025年4月に始動した横井研究室 @ 国語研のウェブサイトが立ち上がりました．<br />
-立ち上げに際して発生した技術的問題については，博士課程の鴨田さん・山本さんがそのほとんどをさらりと解決してくださいました，ありがとうございます！（横井）</p>]]></content><author><name>Yokoi Lab</name></author><category term="Blog" /></entry></feed>
+<img src="https://gyazo.com/9cf99d4c6658da5e2d15a45c47fe6c73.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[3月16日(月)に少人数での研究会を国立国語研究所 @立川にて開催します。東京大学の髙橋さんより、多段階の最適化を用いた学習について、統計力学の立場から最新の研究結果をご紹介いただきます。]]></summary></entry></feed>
