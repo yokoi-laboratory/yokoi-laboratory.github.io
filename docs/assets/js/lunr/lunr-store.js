@@ -191,6 +191,12 @@ var store = [{
         "url": "/internationalConferences/202607-icml-yoneda/",
         "teaser": null
       },{
+        "title": "It's Not RoPE That Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/internationalConferences/202610-emnlp-kiya/",
+        "teaser": null
+      },{
         "title": "言語モデルの内部機序：解析と解釈",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -351,6 +357,12 @@ var store = [{
         "excerpt":"2026年8月16日（日）から18日（火）にかけて仙台（宮城）で開催された 第21回言語処理若手シンポジウム (YANS 2026) にて、 本研究室のメンバーが関わる以下の研究で3件の受賞がありました。 奨励賞 賞は第一著者に与えられます。 石峯拓海, 日野英逸, 横井祥. 単体複体を用いた言語モデルの出力空間の幾何的解釈. ポスター発表, 第21回言語処理若手シンポジウム (YANS 2026). 仙台, 2026年8月. 第21回言語処理若手シンポジウム 奨励賞 (22/231 件). 奨励賞 鴨田豪, 窪田悠介, 横井祥. 大規模言語モデルにおける文内Attentionメカニズムの分析. ポスター発表, 第21回言語処理若手シンポジウム (YANS 2026). 仙台, 2026年8月. 第21回言語処理若手シンポジウム 奨励賞 (22/231 件). 奨励賞 株式会社サイバーエージェント賞 李宰成, 中石海, 唐木田亮, 横井祥. パラメータ空間の幾何構造から見るタスク算術の失敗. ポスター発表, 第21回言語処理若手シンポジウム (YANS 2026). 仙台, 2026年8月....","categories": ["News"],
         "tags": [],
         "url": "/posts/yans2026-awards/",
+        "teaser": null
+      },{
+        "title": "EMNLP 2026 採択",
+        "excerpt":"自然言語処理の国際会議 The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Raito Kiya, Satoki Ohashi, Kosuke Sato, Go Kamoda, Ryosuke Takahashi, Yuji Yamamoto, Daiki Shiono, Keisuke Sakaguchi, and Goro Kobayashi It's Not RoPE That Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention. In Proceedings...","categories": ["News"],
+        "tags": [],
+        "url": "/posts/emnlp2026-publications/",
         "teaser": null
       },{
         "title": "大学院説明会（申込締切：9月14日正午）",

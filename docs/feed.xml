@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-08-24T06:40:53+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-08-24T08:36:22+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
 本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。<br />
 個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。</p>
 <ul>
@@ -8,7 +8,61 @@
 </ul>
 
 <p>詳細は国立国語研究所の案内ページをご覧ください：<br />
-<a href="https://www.ninjal.ac.jp/education/soken/admission/guidance/#SESSION">https://www.ninjal.ac.jp/education/soken/admission/guidance/</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[9月28日(月)午後に総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。個別面談を含め、参加申込の締切は9月14日(月)正午です。]]></summary></entry><entry><title type="html">YANS 2026 受賞</title><link href="https://yokoi-lab.net/posts/yans2026-awards/" rel="alternate" type="text/html" title="YANS 2026 受賞" /><published>2026-08-18T00:00:00+00:00</published><updated>2026-08-18T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/yans2026-awards</id><content type="html" xml:base="https://yokoi-lab.net/posts/yans2026-awards/"><![CDATA[<p>2026年8月16日（日）から18日（火）にかけて仙台（宮城）で開催された <a href="https://yans.anlp.jp/entry/yans2026">第21回言語処理若手シンポジウム (YANS 2026)</a> にて、
+<a href="https://www.ninjal.ac.jp/education/soken/admission/guidance/#SESSION">https://www.ninjal.ac.jp/education/soken/admission/guidance/</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[9月28日(月)午後に総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。個別面談を含め、参加申込の締切は9月14日(月)正午です。]]></summary></entry><entry><title type="html">EMNLP 2026 採択</title><link href="https://yokoi-lab.net/posts/emnlp2026-publications/" rel="alternate" type="text/html" title="EMNLP 2026 採択" /><published>2026-08-21T00:00:00+00:00</published><updated>2026-08-21T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/emnlp2026-publications</id><content type="html" xml:base="https://yokoi-lab.net/posts/emnlp2026-publications/"><![CDATA[<p>自然言語処理の国際会議 <a href="https://2026.emnlp.org/">The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</a> に、
+本研究室のメンバーが関わる1件の論文が採択されました。</p>
+
+<div>
+  <ol>
+    
+    
+    <li>
+    
+
+    Raito Kiya,
+    
+
+    Satoki Ohashi,
+    
+
+    Kosuke Sato,
+    
+
+    Go Kamoda,
+    
+
+    Ryosuke Takahashi,
+    
+
+    Yuji Yamamoto,
+    
+
+    Daiki Shiono,
+    
+
+    Keisuke Sakaguchi,
+    
+and 
+    
+    Goro Kobayashi
+<br /><strong>It's Not RoPE That Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention</strong>.<br /><i class="fa-regular fa-file"></i>
+    In <i>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing</i>, October 2026.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    TBA,
+    
+    <a href="https://2026.emnlp.org/" target="_blank">The 2026 Conference on Empirical Methods in Natural Language Processing</a> (EMNLP 2026).
+    
+    Budapest, Hungary,
+    October 2026.<br />
+
+
+    </li>
+    
+
+  </ol>
+
+</div>
+
+<p>-&gt; <a href="/publications/#international-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが関わる1件の論文が EMNLP 2026 に採択されました。]]></summary></entry><entry><title type="html">YANS 2026 受賞</title><link href="https://yokoi-lab.net/posts/yans2026-awards/" rel="alternate" type="text/html" title="YANS 2026 受賞" /><published>2026-08-18T00:00:00+00:00</published><updated>2026-08-18T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/yans2026-awards</id><content type="html" xml:base="https://yokoi-lab.net/posts/yans2026-awards/"><![CDATA[<p>2026年8月16日（日）から18日（火）にかけて仙台（宮城）で開催された <a href="https://yans.anlp.jp/entry/yans2026">第21回言語処理若手シンポジウム (YANS 2026)</a> にて、
 本研究室のメンバーが関わる以下の研究で3件の受賞がありました。</p>
 
 <h2 id="奨励賞">奨励賞</h2>
@@ -875,26 +929,4 @@ and
 
 </div>
 
-<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[自然言語処理分野の国内会議 NLP 2026 にて、本研究室のメンバーが関わる8件の研究発表がおこなわれます。]]></summary></entry><entry><title type="html">2026年3月16日(月) 国語研数理セミナー #1：髙橋昂さん「多段階の最適化に基づく学習の統計力学的解析」</title><link href="https://yokoi-lab.net/posts/takahashisan-seminar/" rel="alternate" type="text/html" title="2026年3月16日(月) 国語研数理セミナー #1：髙橋昂さん「多段階の最適化に基づく学習の統計力学的解析」" /><published>2026-03-03T00:00:00+00:00</published><updated>2026-03-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/takahashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/takahashisan-seminar/"><![CDATA[<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
-<p>3月16日（月）に少人数での研究会を国立国語研究所 @立川にて開催します。<br />
-リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。</p>
-<ul>
-  <li>日時：3月16日（月）14:00〜15:00</li>
-  <li>場所：国立国語研究所 @立川 <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a> 、426室</li>
-  <li>発表者：髙橋昂さん（東京大学）</li>
-  <li>タイトル：多段階の最適化に基づく学習の統計力学的解析</li>
-</ul>
-
-<hr />
-
-<h3 id="概要">概要</h3>
-<p>近年、データ科学の文脈において、多段階の最適化を用いた学習が重要な役割を果たしています。これらの手法では、損失関数の最適化を用いて学習を行った後、その結果を用いて構成される損失関数を改めて最適化する手続きを繰り返すことで学習を行います。代表的なものとして、疑似ラベルを用いた半教師あり学習や蒸留、交互最適化法などが含まれます。本発表では、これらの多段階の最適化を用いた学習について、統計力学の立場から研究を行った発表者らの最近の結果を紹介します。</p>
-
-<h3 id="参加登録フォーム">参加登録フォーム</h3>
-<p>ご参加いただける方は、以下のフォームよりご登録をお願いいたします。<br />
-<del><a href="https://forms.gle/y488qGm4ifWW2eqj8">https://forms.gle/y488qGm4ifWW2eqj8</a></del></p>
-
-<h3 id="開催当日セミナーの様子">開催当日セミナーの様子</h3>
-<p><img src="https://gyazo.com/b6dbc70819ec39cbf357762e192f9cb5.jpg" alt="" width="400" />
-<img src="https://gyazo.com/92498a54ceb6f3f732fc2fe6fb7e996f.jpg" alt="" width="400" />
-<img src="https://gyazo.com/9cf99d4c6658da5e2d15a45c47fe6c73.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[3月16日(月)に少人数での研究会を国立国語研究所 @立川にて開催します。東京大学の髙橋さんより、多段階の最適化を用いた学習について、統計力学の立場から最新の研究結果をご紹介いただきます。]]></summary></entry></feed>
+<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[自然言語処理分野の国内会議 NLP 2026 にて、本研究室のメンバーが関わる8件の研究発表がおこなわれます。]]></summary></entry></feed>
