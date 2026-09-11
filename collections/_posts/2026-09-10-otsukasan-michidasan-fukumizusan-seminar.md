@@ -38,9 +38,11 @@ header:
   
   
 ### 開催当日セミナーの様子
-![](https://gyazo.com/ca17b4732b09aeff60bcc5b3b82d673a.jpg){: width="32%" }
-![](https://gyazo.com/60314f6102347fe633b2a194aeab05d9.jpg){: width="32%" }
-![](https://gyazo.com/c31a5d1795df7226a7fd79ca5d979535.jpg){: width="32%" }
+<div style="display: flex; gap: 4px;">
+  <img src="https://gyazo.com/ca17b4732b09aeff60bcc5b3b82d673a.jpg" style="width: 33%;">
+  <img src="https://gyazo.com/60314f6102347fe633b2a194aeab05d9.jpg" style="width: 33%;">
+  <img src="https://gyazo.com/c31a5d1795df7226a7fd79ca5d979535.jpg" style="width: 33%;">
+</div>
   
   
 
