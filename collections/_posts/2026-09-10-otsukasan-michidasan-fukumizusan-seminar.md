@@ -34,7 +34,13 @@ header:
 
 ### 参加登録フォーム（要申込）
 ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  
-[https://forms.gle/tLjYGUTW6fk2Hap38](https://forms.gle/RzhUq7hFjUp5SpqL8)　  　   
+~~[https://forms.gle/tLjYGUTW6fk2Hap38](https://forms.gle/RzhUq7hFjUp5SpqL8)~~  　   
+  
+  
+### 開催当日セミナーの様子
+![](https://gyazo.com/ca17b4732b09aeff60bcc5b3b82d673a.jpg){: width="400" }
+![](https://gyazo.com/60314f6102347fe633b2a194aeab05d9.jpg){: width="400" }  
+![](https://gyazo.com/c31a5d1795df7226a7fd79ca5d979535.jpg){: width="400" }
   
   
 
