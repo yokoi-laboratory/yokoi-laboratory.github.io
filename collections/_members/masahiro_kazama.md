@@ -6,7 +6,7 @@ first_name_ja: 正弘
 last_name_ja: 風間
 email: kazama.masa at gmail.com
 website: https://sites.google.com/view/masahiro-kazama/home?authuser=0
-image: https://i.gyazo.com/16eae9aa2e2667b66e6df2124eba6a5e.jpg
+image: https://i.gyazo.com/791947c1792bdb25f096d1b3d7e4264b.jpg
 positions: 
   - "Visiting Researcher (外来研究員)"
 main_position: Ubie株式会社, Chief AI Officer
