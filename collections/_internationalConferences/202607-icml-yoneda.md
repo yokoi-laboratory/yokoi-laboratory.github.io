@@ -11,6 +11,7 @@ authors:
 paper:
   proceedings: "Forty-third International Conference on Machine Learning"
   year_month: July 2026
+  pages: 149430-149463
 presentation:
   conference:
     name: "Forty-Third International Conference on Machine Learning"
@@ -20,6 +21,8 @@ presentation:
   venue: "Seoul, South Korea"
   year_month: July 2026
 links:
+  - name: "PMLR"
+    url: "https://proceedings.mlr.press/v306/yoneda26a.html"
   - name: "Project Page"
     url: "https://softmatcha.github.io/v2/"
   - name: "arXiv"
