@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-09-28T06:57:32+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-10-19T05:35:05+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
 本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。<br />
 個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。</p>
 <ul>
@@ -362,7 +362,7 @@ and
     
     Sho Yokoi
 <br /><strong>SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora</strong>.<br /><i class="fa-regular fa-file"></i>
-    In <i>Forty-third International Conference on Machine Learning</i>, July 2026.<br />
+    In <i>Forty-third International Conference on Machine Learning</i><!-- if has "-" or "–", pages else page -->, pages 149430-149463, July 2026.<br />
     <i class="fa-solid fa-person-chalkboard"></i>
     Poster,
     
@@ -371,7 +371,7 @@ and
     Seoul, South Korea,
     July 2026.<br />
 
-<a class="link-btn" href="https://softmatcha.github.io/v2/" target="_blank">Project Page</a><a class="link-btn" href="https://arxiv.org/abs/2602.10908" target="_blank">arXiv</a>
+<a class="link-btn" href="https://proceedings.mlr.press/v306/yoneda26a.html" target="_blank">PMLR</a><a class="link-btn" href="https://softmatcha.github.io/v2/" target="_blank">Project Page</a><a class="link-btn" href="https://arxiv.org/abs/2602.10908" target="_blank">arXiv</a>
     </li>
     
 
