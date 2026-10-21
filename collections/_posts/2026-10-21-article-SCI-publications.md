@@ -9,7 +9,7 @@ header:
   overlay_color: "#404040"
 ---
 
-システム制御情報学会の学会誌「システム／制御／情報」 [目次集Tables of Contents 学会誌「システム／制御／情報」](https://www.iscie.or.jp/pub/journal/toc#journal) に、横井先生の解説記事が掲載されました。
+システム制御情報学会の学会誌[「システム／制御／情報」](https://www.iscie.or.jp/pub/journal/toc#journal) に、横井先生の解説記事が掲載されました。
 
 <div>
   <ol>
