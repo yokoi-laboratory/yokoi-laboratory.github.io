@@ -372,7 +372,7 @@ var store = [{
         "teaser": null
       },{
         "title": "学会誌「システム／制御／情報」寄稿",
-        "excerpt":"システム制御情報学会の学会誌「システム／制御／情報」 目次集Tables of Contents 学会誌「システム／制御／情報」 に、横井先生の解説記事が掲載されました。                        -&gt; Publications  ","categories": ["News"],
+        "excerpt":"システム制御情報学会の学会誌「システム／制御／情報」 に、横井先生の解説記事が掲載されました。                        -&gt; Publications  ","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-98/posts/article-SCI-publications/",
         "teaser": null
