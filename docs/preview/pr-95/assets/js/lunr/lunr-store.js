@@ -330,7 +330,7 @@ var store = [{
         "teaser": null
       },{
         "title": "ICML 2026 採択",
-        "excerpt":"機械学習の国際会議 Forty-Third International Conference on Machine Learning (ICML 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Masataka Yoneda, Yusuke Matsushita, Go Kamoda, Kohei Suenaga, Takuya Akiba, Masaki Waga, and Sho Yokoi SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora. In Forty-third International Conference on Machine Learning, July 2026. Poster, Forty-Third International Conference...","categories": ["News"],
+        "excerpt":"機械学習の国際会議 Forty-Third International Conference on Machine Learning (ICML 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Masataka Yoneda, Yusuke Matsushita, Go Kamoda, Kohei Suenaga, Takuya Akiba, Masaki Waga, and Sho Yokoi SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora. In Forty-third International Conference on Machine Learning, pages 149430-149463, July 2026. Poster, Forty-Third...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-95/posts/icml2026-publications/",
         "teaser": null
@@ -371,7 +371,7 @@ var store = [{
         "url": "/preview/pr-95/posts/sokendai-guidance-2026-fall/",
         "teaser": null
       },{
-        "title": "2026年12月3日(木) 国語研数理セミナー #4：渡邉大師さん、中牟田旭さん、小林秀太さん「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」/ December 3, 2026 (Thu) NINJAL Mathematical Sciences Seminar #4: Taishi Watanabe, Asahi Nakamuta, and shuta Kobayashi \"A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning\"",
+        "title": "2026年12月3日(木) 国語研数理セミナー #4：渡邉大師さん、中牟田旭さん、小林秀太さん「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」/ December 3, 2026 (Thu) NINJAL Mathematical Sciences Seminar #4: Taishi Watanabe, Asahi Nakamuta, and Shuta Kobayashi \"A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning\"",
         "excerpt":"国語研数理セミナーのお知らせ / Announcement: NINJAL Mathematical Sciences Seminar 12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。 The NINJAL Mathematical Sciences Seminar #4, entitled “A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning,” will be held at the National Institute for Japanese Language and Linguistics (NINJAL) in Tachikawa on Thursday, December 3, 2026....","categories": ["Talk"],
         "tags": [],
         "url": "/preview/pr-95/posts/watanabesan-nakamutasan-kobayashisan-seminar/",
