@@ -9,7 +9,7 @@ header:
   overlay_color: "#404040"
 ---
 
-*English follows below. → [English](#english)*
+*[English follows below.](#english)*
 
 ## 国語研数理セミナーのお知らせ
 12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。
