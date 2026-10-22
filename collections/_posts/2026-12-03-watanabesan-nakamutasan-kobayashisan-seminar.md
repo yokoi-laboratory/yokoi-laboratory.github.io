@@ -27,4 +27,4 @@ The NINJAL Mathematical Sciences Seminar #4, entitled "A Physics-Inspired Approa
 
 ### 参加登録フォーム（要申込） / Registration (Required)
 ご参加いただける方は、以下のフォームよりご登録をお願いいたします。/ Those wishing to attend are kindly requested to register using the form below.  
-[https://forms.gle/tLjYGUTW6fk2Hap38](https://forms.gle/af9YJH5hdgMhvoTx9)
+<https://forms.gle/af9YJH5hdgMhvoTx9>
