@@ -1,8 +1,9 @@
 ---
 layout: splash
-title: "2026年12月3日(木) 国語研数理セミナー #4：渡邉大師さん、中牟田旭さん、小林秀太さん「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」/ December 3, 2026 (Thu) NINJAL Mathematical Sciences Seminar #4: Taishi Watanabe, Asahi Nakamuta, and Shuta Kobayashi \"A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning\""
+title: "12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ<br>NINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics"
+seo_title: "国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ / NINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics"
 category: Talk
-excerpt: "12月3日(木)に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @立川にて開催します。 / The NINJAL Mathematical Sciences Seminar #4, entitled \"A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning,\" will be held at the National Institute for Japanese Language and Linguistics (NINJAL) in Tachikawa on December 3, 2026."
+excerpt: "12月3日(木)に国語研数理セミナー #4「学習ダイナミクスへの物理学的アプローチ」を国語研 @立川で開催します。京大の渡邉大師さん、中牟田旭さん、小林秀太さんにご講演いただきます。 / Dec. 3 (Thu) at NINJAL, Tachikawa, with Taishi Watanabe, Asahi Nakamuta, and Shuta Kobayashi (Kyoto U.)."
 header:
   show_overlay_excerpt: false
   show_date: true 
@@ -16,7 +17,7 @@ header:
 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。
 - **日時**：2026年12月3日（木）13:30〜17:30
 - **場所**：国立国語研究所 @立川 <https://www.ninjal.ac.jp/utility/access/>
-- **講師**：渡邉大師さん（京都大学）、中牟田旭さん（京都大学）、小林秀太さん（京都大学）
+- **講師**：渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大）
 - **タイトル**：学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて
 - **プログラム**：  
 13:30–14:30 (1h) 渡邉さん「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）  
@@ -30,15 +31,15 @@ header:
 ---
 
 ## Announcement: NINJAL Mathematical Sciences Seminar {#english}
-The NINJAL Mathematical Sciences Seminar #4, entitled "A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning," will be held at the National Institute for Japanese Language and Linguistics (NINJAL) in Tachikawa on Thursday, December 3, 2026. We hope to provide a relaxed and informal setting for discussion. Anyone interested in the topic is welcome to attend. Please register in advance using the form below.
+The NINJAL Mathematical Sciences Seminar #4, entitled “A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning,” will be held at the National Institute for Japanese Language and Linguistics (NINJAL) in Tachikawa on Thursday, December 3, 2026. We hope to provide a relaxed and informal setting for discussion. Anyone interested in the topic is welcome to attend. Please register in advance using the form below.
 - **Date and Time**: Thursday, December 3, 2026, 13:30–17:30
 - **Venue**: National Institute for Japanese Language and Linguistics (NINJAL), Tachikawa <https://www.ninjal.ac.jp/utility/access/>
-- **Speakers**: Taishi Watanabe (Kyoto University), Asahi Nakamuta (Kyoto University), and Shuta Kobayashi (Kyoto University)
-- **Title**: "A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning"
+- **Speakers**: Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)
+- **Title**: “A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning”
 - **Program**:  
-13:30–14:30 (1h) Watanabe "Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data" (tentative)  
-15:00–16:00 (1h) Nakamuta "Learning reshapes power-law anisotropy in internal representations" (tentative)  
-16:30–17:30 (1h) Kobayashi "Fisher-Information Flow Speed Limits in Stochastic Gradient Descent" (tentative)
+13:30–14:30 (1h) Watanabe “Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)  
+15:00–16:00 (1h) Nakamuta “Learning reshapes power-law anisotropy in internal representations” (tentative)  
+16:30–17:30 (1h) Kobayashi “Fisher-Information Flow Speed Limits in Stochastic Gradient Descent” (tentative)
 
 ### Registration (Required)
 Those wishing to attend are kindly requested to register using the form below.  
