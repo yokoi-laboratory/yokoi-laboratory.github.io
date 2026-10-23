@@ -19,9 +19,9 @@ header:
 - **講師**：渡邉大師さん（京都大学）、中牟田旭さん（京都大学）、小林秀太さん（京都大学）
 - **タイトル**：学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて
 - **プログラム**：  
-13:30–14:30 (1h) 渡邉さん / 概要 TBA  
-15:00–16:00 (1h) 中牟田さん / 概要 TBA  
-16:30–17:30 (1h) 小林さん / 概要 TBA
+13:30–14:30 (1h) 渡邉さん「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）  
+15:00–16:00 (1h) 中牟田さん「学習によって再編成されるニューラルネット内部表現のべき的非等方性」（仮）  
+16:30–17:30 (1h) 小林さん「確率的勾配降下法におけるFisher情報流の速度限界」（仮）
 
 ### 参加登録フォーム（要申込）
 ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  
@@ -36,9 +36,9 @@ The NINJAL Mathematical Sciences Seminar #4, entitled "A Physics-Inspired Approa
 - **Speakers**: Taishi Watanabe (Kyoto University), Asahi Nakamuta (Kyoto University), and Shuta Kobayashi (Kyoto University)
 - **Title**: "A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning"
 - **Program**:  
-13:30–14:30 (1h) Watanabe / Abstract TBA  
-15:00–16:00 (1h) Nakamuta / Abstract TBA  
-16:30–17:30 (1h) Kobayashi / Abstract TBA
+13:30–14:30 (1h) Watanabe "Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data" (tentative)  
+15:00–16:00 (1h) Nakamuta "Learning reshapes power-law anisotropy in internal representations" (tentative)  
+16:30–17:30 (1h) Kobayashi "Fisher-Information Flow Speed Limits in Stochastic Gradient Descent" (tentative)
 
 ### Registration (Required)
 Those wishing to attend are kindly requested to register using the form below.  
