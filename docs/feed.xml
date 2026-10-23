@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-10-22T04:32:02+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-10-23T05:53:45+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics</title><link href="https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
+
+<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
+<p>12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。
+リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。</p>
+<ul>
+  <li><strong>日時</strong>：2026年12月3日（木）13:30〜17:30</li>
+  <li><strong>場所</strong>：国立国語研究所 @立川 <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a></li>
+  <li><strong>講師</strong>：渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大）</li>
+  <li><strong>タイトル</strong>：学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて</li>
+  <li><strong>プログラム</strong>：<br />
+13:30–14:30 (1h) 渡邉さん「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）<br />
+15:00–16:00 (1h) 中牟田さん「学習によって再編成されるニューラルネット内部表現のべき的非等方性」（仮）<br />
+16:30–17:30 (1h) 小林さん「確率的勾配降下法におけるFisher情報流の速度限界」（仮）</li>
+</ul>
+
+<h3 id="参加登録フォーム要申込">参加登録フォーム（要申込）</h3>
+<p>ご参加いただける方は、以下のフォームよりご登録をお願いいたします。<br />
+<a href="https://forms.gle/af9YJH5hdgMhvoTx9">https://forms.gle/af9YJH5hdgMhvoTx9</a></p>
+
+<hr />
+
+<h2 id="english">Announcement: NINJAL Mathematical Sciences Seminar</h2>
+<p>The NINJAL Mathematical Sciences Seminar #4, entitled “A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning,” will be held at the National Institute for Japanese Language and Linguistics (NINJAL) in Tachikawa on Thursday, December 3, 2026. We hope to provide a relaxed and informal setting for discussion. Anyone interested in the topic is welcome to attend. Please register in advance using the form below.</p>
+<ul>
+  <li><strong>Date and Time</strong>: Thursday, December 3, 2026, 13:30–17:30</li>
+  <li><strong>Venue</strong>: National Institute for Japanese Language and Linguistics (NINJAL), Tachikawa <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a></li>
+  <li><strong>Speakers</strong>: Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)</li>
+  <li><strong>Title</strong>: “A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning”</li>
+  <li><strong>Program</strong>:<br />
+13:30–14:30 (1h) Watanabe “Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)<br />
+15:00–16:00 (1h) Nakamuta “Learning reshapes power-law anisotropy in internal representations” (tentative)<br />
+16:30–17:30 (1h) Kobayashi “Fisher-Information Flow Speed Limits in Stochastic Gradient Descent” (tentative)</li>
+</ul>
+
+<h3 id="registration-required">Registration (Required)</h3>
+<p>Those wishing to attend are kindly requested to register using the form below.<br />
+<a href="https://forms.gle/af9YJH5hdgMhvoTx9">https://forms.gle/af9YJH5hdgMhvoTx9</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[12月3日(木)に国語研数理セミナー #4「学習ダイナミクスへの物理学的アプローチ」を国語研 @立川で開催します。京大の渡邉大師さん、中牟田旭さん、小林秀太さんにご講演いただきます。 / Dec. 3 (Thu) at NINJAL, Tachikawa, with Taishi Watanabe, Asahi Nakamuta, and Shuta Kobayashi (Kyoto U.).]]></summary></entry><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
 本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。<br />
 個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。</p>
 <ul>
@@ -470,262 +507,4 @@ and
 <h3 id="開催当日セミナーの様子">開催当日セミナーの様子</h3>
 <p><img src="https://gyazo.com/b6dbc70819ec39cbf357762e192f9cb5.jpg" alt="" width="400" />
 <img src="https://gyazo.com/92498a54ceb6f3f732fc2fe6fb7e996f.jpg" alt="" width="400" />
-<img src="https://gyazo.com/9cf99d4c6658da5e2d15a45c47fe6c73.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[3月16日(月)に少人数での研究会を国立国語研究所 @立川にて開催します。東京大学の髙橋さんより、多段階の最適化を用いた学習について、統計力学の立場から最新の研究結果をご紹介いただきます。]]></summary></entry><entry><title type="html">言語処理学会第32回年次大会 受賞</title><link href="https://yokoi-lab.net/posts/nlp2026-awards/" rel="alternate" type="text/html" title="言語処理学会第32回年次大会 受賞" /><published>2026-03-12T00:00:00+00:00</published><updated>2026-03-12T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/nlp2026-awards</id><content type="html" xml:base="https://yokoi-lab.net/posts/nlp2026-awards/"><![CDATA[<p>2026年3月9日から13日にかけて宇都宮（栃木）で開催された <a href="https://anlp.jp/nlp2026/index.html">言語処理学会第32回年次大会 (NLP 2026)</a> にて、
-本研究室のメンバーが関わる以下の研究で4件の受賞がありました。</p>
-
-<h2 id="優秀賞">優秀賞</h2>
-
-<div>
-  <ul>
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-      <li>
-      
-<!-- https://www.anlp.jp/guide/guideline.html -->
-    米田優峻,
-    鴨田豪,
-    松下祐介,
-    末永幸平,
-    秋葉拓哉,
-    和賀正樹,
-    横井祥.<br />
-<strong>SoftMatcha 2: 1兆語規模コーパスの超高速かつ柔らかい検索</strong>.<br /><i class="fa-regular fa-file"></i> 
-    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.375-380, 2026年3月.<br />
-    <i class="fa-solid fa-person-chalkboard"></i>
-    口頭発表,
-    
-    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
-    
-    宇都宮,
-    2026年3月.<br />
-
-    <i class="fa-solid fa-person-chalkboard"></i>
-    ポスター発表,
-    
-    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
-    
-    宇都宮,
-    2026年3月.<br />
-<i class="fa-solid fa-award"></i>
-        言語処理学会第32回年次大会 優秀賞 (16/718 件).
-    <br />
-
-
-<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#Q1-5" target="_blank">論文</a><a class="link-btn" href="https://softmatcha.github.io/v2/ja/" target="_blank">Project Page</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">優秀賞</a>
-      </li>
-      
-    
-  </ul>
-</div>
-
-<h2 id="若手奨励賞">若手奨励賞</h2>
-<p>賞は第一著者に与えられる．</p>
-
-<div>
-  <ul>
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-      <li>
-      
-<!-- https://www.anlp.jp/guide/guideline.html -->
-    木谷頼斗,
-    大橋諭貴,
-    佐藤宏亮,
-    鴨田豪,
-    高橋良允,
-    山本悠士,
-    塩野大輝,
-    坂口慶祐,
-    小林悟郎.<br />
-<strong>Attention Sink および Massive Activation の発生機序の分解</strong>.<br /><i class="fa-regular fa-file"></i> 
-    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2579-2584, 2026年3月.<br />
-    <i class="fa-solid fa-person-chalkboard"></i>
-    口頭発表,
-    
-    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
-    
-    宇都宮,
-    2026年3月.<br />
-
-    <i class="fa-solid fa-person-chalkboard"></i>
-    ポスター発表,
-    
-    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
-    
-    宇都宮,
-    2026年3月.<br />
-<i class="fa-solid fa-award"></i>
-        言語処理学会第32回年次大会 若手奨励賞 (21/517 件).
-    <br />
-
-
-<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#B6-13" target="_blank">論文</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">若手奨励賞</a>
-      </li>
-      
-    
-      
-      
-      
-    
-      
-      
-      
-      <li>
-      
-<!-- https://www.anlp.jp/guide/guideline.html -->
-    大橋諭貴,
-    木谷頼斗,
-    佐藤宏亮,
-    高橋良允,
-    鴨田豪,
-    山本悠士,
-    塩野大輝,
-    坂口慶祐,
-    小林悟郎.<br />
-<strong>注意機構における Attention Sink のバイアス項的解釈</strong>.<br /><i class="fa-regular fa-file"></i> 
-    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2591-2596, 2026年3月.<br />
-    <i class="fa-solid fa-person-chalkboard"></i>
-    口頭発表,
-    
-    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
-    
-    宇都宮,
-    2026年3月.<br />
-
-    <i class="fa-solid fa-person-chalkboard"></i>
-    ポスター発表,
-    
-    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
-    
-    宇都宮,
-    2026年3月.<br />
-<i class="fa-solid fa-award"></i>
-        言語処理学会第32回年次大会 若手奨励賞 (21/517 件).
-    <br />
-
-
-<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#B6-15" target="_blank">論文</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">若手奨励賞</a>
-      </li>
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-  </ul>
-</div>
-
-<h2 id="委員特別賞">委員特別賞</h2>
-
-<div>
-  <ul>
-    
-      
-      
-      
-      <li>
-      
-<!-- https://www.anlp.jp/guide/guideline.html -->
-    原知正,
-    栗田宙人,
-    今泉允聡,
-    乾健太郎,
-    横井祥.<br />
-<strong>なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化</strong>.<br /><i class="fa-regular fa-file"></i> 
-    In <i>言語処理学会 第32回年次大会 発表論文集</i><!-- if has "-" or "–", pages else page -->, pp.2753-2758, 2026年3月.<br />
-    <i class="fa-solid fa-person-chalkboard"></i>
-    ポスター発表,
-    
-    <a href="https://anlp.jp/nlp2026/" target="_blank">言語処理学会第32回年次大会</a> (NLP 2026).
-    
-    宇都宮,
-    2026年3月.<br />
-<i class="fa-solid fa-award"></i>
-        言語処理学会第32回年次大会 委員特別賞 (32/748 件).
-    <br />
-
-
-<a class="link-btn" href="https://www.anlp.jp/proceedings/annual_meeting/2026/#C6-22" target="_blank">論文</a><a class="link-btn" href="https://anlp.jp/nlp2026/award.html" target="_blank">委員特別賞</a>
-      </li>
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-  </ul>
-</div>
-
-<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが関わる研究で4件の受賞がありました。]]></summary></entry></feed>
+<img src="https://gyazo.com/9cf99d4c6658da5e2d15a45c47fe6c73.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[3月16日(月)に少人数での研究会を国立国語研究所 @立川にて開催します。東京大学の髙橋さんより、多段階の最適化を用いた学習について、統計力学の立場から最新の研究結果をご紹介いただきます。]]></summary></entry></feed>
