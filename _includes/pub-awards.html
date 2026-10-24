@@ -1,0 +1,23 @@
+{% assign document = include.document %}
+{% for award in document.awards %}
+  {% unless award.include_in_awards == false %}
+  <li>
+  <i class="fa-solid fa-award" aria-hidden="true"></i>
+  <strong>
+  {% if award.url %}
+    <a href="{{ award.url | escape }}">{{ award.name | escape }}</a>
+  {% else %}
+    {{ award.name | escape }}
+  {% endif %}
+  {% if award.rank %}({{ award.rank | escape }}){% endif %}
+  </strong><br>
+  {% if document.authors.size > 0 %}
+    {{ document.authors | join: ", " | escape }}.<br>
+  {% endif %}
+  {{ document.title | escape }}.<br>
+{% for link in document.links %}
+  <a class="link-btn" href="{{ link.url | escape }}">{{ link.name | escape }}</a>
+{% endfor %}
+  </li>
+  {% endunless %}
+{% endfor %}

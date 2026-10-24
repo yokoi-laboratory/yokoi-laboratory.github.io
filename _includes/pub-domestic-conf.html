@@ -47,6 +47,7 @@
     {%- for award in publication.awards -%}
         <i class="fa-solid fa-award"></i>
         {{ award.name }} {% if award.rank %}({{ award.rank }}){%- endif %}.
+        {% if award.recipient_note %}<small>{{ award.recipient_note | escape }}</small>{% endif %}
     {% endfor %}<br>
 {% endif %}
 

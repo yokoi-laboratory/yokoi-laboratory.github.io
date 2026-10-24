@@ -15,6 +15,14 @@ header:
 研究内容についての質問があれば，著者や発表者まで気軽にご連絡ください．  
 ラボメンバーの連絡先はこちらを参照ください：[ラボメンバー一覧 (Members)](/members/)
 
+<nav class="publications-nav" aria-label="研究成果のセクション">
+  <a href="#international-conferences">International Conferences</a>
+  <a href="#domestic-conferences">Domestic Conferences</a>
+  <a href="#awards">Awards</a>
+  <a href="#invited-talks">Invited Talks</a>
+  <a href="#books">Books</a>
+</nav>
+
 ## International Conferences
 
 <div>
@@ -46,6 +54,17 @@ header:
 
 </div>
 
+
+## Awards
+
+{% assign award_documents = site.documents | where_exp: "document", "document.awards.size > 0" | sort: "date" | reverse %}
+<div>
+  <ol reversed>
+    {% for document in award_documents %}
+      {% include pub-awards.html document=document %}
+    {% endfor %}
+  </ol>
+</div>
 
 ## Invited Talks
 <div>

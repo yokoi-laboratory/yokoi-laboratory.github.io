@@ -22,6 +22,8 @@ links:
     url: "https://www.anlp.jp/proceedings/annual_meeting/2025/#A5-1"
 awards:
   - name: "言語処理学会第31回年次大会 若手奨励賞"
+    include_in_awards: false
+    recipient_note: "筆頭著者が受賞"
     rank: "20/487"
 links:
   - name: "論文"
