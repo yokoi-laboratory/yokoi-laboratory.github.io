@@ -31,6 +31,8 @@ presentation:
       url: "https://anlp.jp/nlp2026/"
 awards:
   - name: "言語処理学会第32回年次大会 若手奨励賞"
+    include_in_awards: false
+    recipient_note: "筆頭著者が受賞"
     rank: "21/517 件"
 links:
   - name: "論文"

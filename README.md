@@ -61,6 +61,52 @@
 
 
 
+## Awards の追加
+
+Publications の Awards には、すべての collection から `awards` が空でない記事を集め、
+`date` の新しい順に表示します。既存の論文などは、その記事の `awards` に追加するだけで反映されます。
+同じ受賞を専用 collection にも登録すると重複するので、どちらか一方に記載してください。
+
+論文や講演に紐づかない受賞は `collections/_awards/` に Markdown ファイルを追加します。
+以下は記入形式の例です（内容は実際の受賞情報に置き換えてください）。
+
+```yaml
+---
+title: "受賞対象の活動・業績"
+date: 2026-10-23
+authors:
+  - 受賞者名
+awards:
+  - name: "賞の名称"
+    url: "https://example.com/awards/"
+    rank: "選考件数など（任意）"
+links:
+  - name: "関連情報"
+    url: "https://example.com/"
+---
+```
+
+`title`、`date`、`awards`（各要素の `name`）を指定してください。
+`authors`、受賞の `url`・`rank`、`links` は任意です。
+受賞情報は front matter の構造化データのみで管理し、本文は記載しません。
+他 collection の記事も同じ `awards` の形式を使えます。
+各賞を1項目として、賞名・著者・対象業績の順に表示します。
+
+筆頭著者個人に贈られる賞で、その受賞者が受賞時に研究室外所属の場合は、
+該当する賞に `include_in_awards: false` を指定してください。
+Awards 一覧のみから除外され、論文などの受賞情報は残ります。
+未指定の賞は掲載されます。所属は現在のメンバー一覧から自動判定せず、受賞時点の情報で指定します。
+
+```yaml
+awards:
+  - name: "若手奨励賞"
+    include_in_awards: false
+    recipient_note: "筆頭著者が受賞"
+```
+
+この指定は賞ごとに適用されるため、同じ論文の別の賞は引き続き掲載できます。
+`date` を省略した既存記事は Jekyll がファイル名などから決める日付で並びます。
+
 ## Local development
 
 - (todo)

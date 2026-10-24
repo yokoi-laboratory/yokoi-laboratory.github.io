@@ -327,6 +327,8 @@ defaults:
 
 collections_dir: collections
 collections:
+  awards:
+    output: false
   members:
     output: false
   internationalConferences:
