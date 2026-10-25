@@ -20,22 +20,17 @@ header:
 - **講師**：渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大）
 - **タイトル**：学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて
 - **プログラム**：
-  <div class="program">
-  <details>
-  <summary><span class="program__row"><span class="program__time">13:30–14:30</span> <span>渡邉大師<br>「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）</span></span></summary>
-  <div class="program__abstract">概要：TBA</div>
-  </details>
-  <div class="program__row program__row--break"><span class="program__time">14:30–15:00</span> <span>休憩</span></div>
-  <details>
-  <summary><span class="program__row"><span class="program__time">15:00–16:00</span> <span>中牟田旭<br>「学習によって再編成されるニューラルネット内部表現のべき的非等方性」（仮）</span></span></summary>
-  <div class="program__abstract">概要：TBA</div>
-  </details>
-  <div class="program__row program__row--break"><span class="program__time">16:00–16:30</span> <span>休憩</span></div>
-  <details>
-  <summary><span class="program__row"><span class="program__time">16:30–17:30</span> <span>小林秀太<br>「確率的勾配降下法におけるFisher情報流の速度限界」（仮）</span></span></summary>
-  <div class="program__abstract">概要：TBA</div>
-  </details>
-  </div>
+  - 13:30–14:30 渡邉大師
+    「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）
+    - 概要：TBA
+  - 14:30–15:00 休憩
+  - 15:00–16:00 中牟田旭
+    「学習によって再編成されるニューラルネット内部表現のべき的非等方性」（仮）
+    - 概要：TBA
+  - 16:00–16:30 休憩
+  - 16:30–17:30 小林秀太
+    「確率的勾配降下法におけるFisher情報流の速度限界」（仮）
+    - 概要：TBA
 
 ### 参加登録フォーム（要申込）
 ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  
@@ -50,22 +45,17 @@ The NINJAL Mathematical Sciences Seminar #4, entitled “A Physics-Inspired Appr
 - **Speakers**: Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)
 - **Title**: “A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning”
 - **Program**:
-  <div class="program">
-  <details>
-  <summary><span class="program__row"><span class="program__time">13:30–14:30</span> <span>Taishi Watanabe<br>“Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)</span></span></summary>
-  <div class="program__abstract">Abstract: TBA</div>
-  </details>
-  <div class="program__row program__row--break"><span class="program__time">14:30–15:00</span> <span>Break</span></div>
-  <details>
-  <summary><span class="program__row"><span class="program__time">15:00–16:00</span> <span>Asahi Nakamuta<br>“Learning reshapes power-law anisotropy in internal representations” (tentative)</span></span></summary>
-  <div class="program__abstract">Abstract: TBA</div>
-  </details>
-  <div class="program__row program__row--break"><span class="program__time">16:00–16:30</span> <span>Break</span></div>
-  <details>
-  <summary><span class="program__row"><span class="program__time">16:30–17:30</span> <span>Shuta Kobayashi<br>“Fisher-Information Flow Speed Limits in Stochastic Gradient Descent” (tentative)</span></span></summary>
-  <div class="program__abstract">Abstract: TBA</div>
-  </details>
-  </div>
+  - 13:30–14:30 Taishi Watanabe
+    “Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)
+    - Abstract: TBA
+  - 14:30–15:00 Break
+  - 15:00–16:00 Asahi Nakamuta
+    “Learning reshapes power-law anisotropy in internal representations” (tentative)
+    - Abstract: TBA
+  - 16:00–16:30 Break
+  - 16:30–17:30 Shuta Kobayashi
+    “Fisher-Information Flow Speed Limits in Stochastic Gradient Descent” (tentative)
+    - Abstract: TBA
 
 ### Registration (Required)
 Those wishing to attend are kindly requested to register using the form below.  
