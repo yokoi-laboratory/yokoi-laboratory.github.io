@@ -7,17 +7,31 @@
 //       - Abstract (a nested list becomes the folded content)
 //     - 14:30–15:00 Break (no nested list: shown as a muted row)
 //
-// A list is converted only when it sits under an item labelled PROGRAM_LABELS, has 2+ items, and every item starts
-// with a time ("13:30–14:30", "13:30〜", "17:30", full-width digits allowed). Otherwise it stays an ordinary list,
-// which is also what readers without JavaScript see.
+// A list is converted only when it sits under an item starting with a bold PROGRAM_LABELS label, has 2+ items, and
+// every item starts with a time ("13:30–14:30", "13:30〜", "17:30", full-width digits allowed). Otherwise it stays an
+// ordinary list, which is also what readers without JavaScript see.
 (function () {
   var PROGRAM_LABELS = ["プログラム", "Program"];
   var MIN_ITEMS = 2;
-  var TIME = "\\d{1,2}:\\d{2}";
-  var DASHES = "–—\\-~〜ー－−―‐";
-  // matched against NFKC-normalized text, so full-width digits/colons/tildes are already ASCII
-  var TIME_PREFIX = new RegExp("^\\s*(" + TIME + ")(?:\\s*[" + DASHES + "]\\s*(" + TIME + ")?)?");
+  var TIME = "\\d{1,2}:\\d{2}(?!\\d)";
+  var DASH = "[–—\\-~〜ー−―‐]";
+  // after the time: a range ("–14:30"), an attached dash meaning open-ended ("〜"), or a spaced dash used only as a
+  // separator ("17:30 - Closing"); matched against toAscii() text, so full-width forms are already ASCII
+  var TIME_PREFIX = new RegExp(
+    "^\\s*(" + TIME + ")(?:\\s*" + DASH + "\\s*(" + TIME + ")|(" + DASH + ")(?!\\s*\\d)|\\s+" + DASH + "(?=\\s))?"
+  );
   var DISPLAY_DASH = "–";
+  // inline wrappers that may be left empty once the time is cut out of them ("**13:30–14:30** Speaker")
+  var INLINE_WRAPPERS = ["STRONG", "B", "EM", "I", "SPAN", "CODE"];
+
+  // full-width digits, colon, hyphen, tilde and space to ASCII; one character to one character, so match lengths
+  // on the converted text are valid on the original
+  function toAscii(text) {
+    return text.replace(/[\uFF10-\uFF19\uFF1A\uFF0D\uFF5E\u3000]/g, function (ch) {
+      if (ch === "\u3000") return " ";
+      return String.fromCharCode(ch.charCodeAt(0) - 0xFEE0);
+    });
+  }
 
   function isList(node) {
     return node.nodeType === Node.ELEMENT_NODE && (node.tagName === "UL" || node.tagName === "OL");
@@ -27,13 +41,22 @@
     return node.nodeName === "BR" || (node.nodeType === Node.TEXT_NODE && node.nodeValue.trim() === "");
   }
 
-  // text of the item itself, without nested lists
-  function headText(li) {
-    var text = "";
-    Array.prototype.forEach.call(li.childNodes, function (node) {
-      if (!isList(node)) text += node.textContent;
+  // walks the text nodes of the item itself, skipping nested lists
+  function headTextWalker(li) {
+    return document.createTreeWalker(li, NodeFilter.SHOW_TEXT, {
+      acceptNode: function (node) {
+        for (var el = node.parentNode; el !== li; el = el.parentNode) if (isList(el)) return NodeFilter.FILTER_REJECT;
+        return NodeFilter.FILTER_ACCEPT;
+      }
     });
-    return text.normalize("NFKC");
+  }
+
+  function headText(li) {
+    var walker = headTextWalker(li);
+    var text = "";
+    var node;
+    while ((node = walker.nextNode())) text += node.nodeValue;
+    return toAscii(text);
   }
 
   function parseTime(li) {
@@ -41,18 +64,24 @@
     if (!m) return null;
     var label = m[1];
     if (m[2]) label += DISPLAY_DASH + m[2];
-    else if (/[^\d:\s]\s*$/.test(m[0])) label += DISPLAY_DASH; // "13:30〜" (open-ended)
+    else if (m[3]) label += DISPLAY_DASH; // "13:30〜" (open-ended)
     return { label: label, length: m[0].length };
   }
 
   function labelOf(list) {
     var li = list.parentNode;
     if (!li || li.tagName !== "LI") return "";
-    var strong = li.querySelector("strong");
-    if (!strong) return "";
-    var parent = strong.parentNode; // the label may be wrapped in <p> when the list has blank lines
-    if (parent !== li && !(parent.nodeName === "P" && parent.parentNode === li)) return "";
-    return strong.textContent.replace(/[:：\s]/g, "");
+    // the label is the item's first content; it may be wrapped in <p> when the list has blank lines
+    var first = firstContent(li);
+    if (first && first.nodeName === "P") first = firstContent(first);
+    if (!first || first.nodeName !== "STRONG") return "";
+    return first.textContent.trim().replace(/[:：]$/, "");
+  }
+
+  function firstContent(el) {
+    var node = el.firstChild;
+    while (node && node.nodeType === Node.TEXT_NODE && node.nodeValue.trim() === "") node = node.nextSibling;
+    return node;
   }
 
   function isProgramList(ul) {
@@ -65,24 +94,26 @@
     return true;
   }
 
-  // remove the first `count` characters of the item's own text (the time), even if split across inline elements;
-  // NFKC keeps these characters one-to-one, so counts on the normalized text apply to the original
+  // remove the first `count` characters of the item's own text (the time), even if split across inline elements
   function removePrefix(li, count) {
-    var walker = document.createTreeWalker(li, NodeFilter.SHOW_TEXT, {
-      acceptNode: function (node) {
-        for (var el = node.parentNode; el !== li; el = el.parentNode) if (isList(el)) return NodeFilter.FILTER_REJECT;
-        return NodeFilter.FILTER_ACCEPT;
-      }
-    });
+    var walker = headTextWalker(li);
+    var cut = [];
     var node;
     while (count > 0 && (node = walker.nextNode())) {
       var take = Math.min(count, node.nodeValue.length);
       node.nodeValue = node.nodeValue.slice(take);
       count -= take;
+      cut.push(node);
     }
-    // drop inline elements left empty (e.g. "**13:30–14:30** Speaker")
-    Array.prototype.slice.call(li.children).forEach(function (el) {
-      if (!isList(el) && el.textContent.trim() === "" && !el.querySelector("img")) li.removeChild(el);
+    // drop inline wrappers that the cut left empty, innermost first
+    cut.forEach(function (text) {
+      for (var el = text.parentNode; el && el !== li; ) {
+        var parent = el.parentNode;
+        var empty = el.textContent.trim() === "" && !el.querySelector("img, svg, br, iframe, video");
+        if (INLINE_WRAPPERS.indexOf(el.tagName) < 0 || !empty) break;
+        parent.removeChild(el);
+        el = parent;
+      }
     });
   }
 
@@ -101,9 +132,11 @@
       } else if (node.nodeName === "BR") {
         appendBreak(target); // a "two trailing spaces" break is followed by a newline; keep a single <br>
       } else if (node.nodeType === Node.TEXT_NODE) {
-        node.nodeValue.split("\n").forEach(function (line, i) {
+        var lines = node.nodeValue.split("\n");
+        lines.forEach(function (line, i) {
           if (i > 0) appendBreak(target);
-          if (line !== "") target.appendChild(document.createTextNode(line));
+          // between source lines, a whitespace-only piece is just indentation
+          if (line !== "" && !(lines.length > 1 && line.trim() === "")) target.appendChild(document.createTextNode(line));
         });
       } else {
         target.appendChild(node);
@@ -173,7 +206,7 @@
   }
 
   function init() {
-    var lists = document.querySelectorAll(".page__content ul");
+    var lists = document.querySelectorAll(".page__content ul, .page__content ol");
     Array.prototype.forEach.call(lists, function (ul) {
       if (isProgramList(ul)) convert(ul);
     });
