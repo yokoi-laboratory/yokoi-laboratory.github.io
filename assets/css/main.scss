@@ -31,7 +31,7 @@ $program-abstract-scale: 0.9;
 .program > details,
 .program > .program__row--break {
   border-top: 1px solid $border-color;
-  padding: 0.5em 0;
+  padding-block: 0.5em;
 }
 .program__row {
   display: grid;
