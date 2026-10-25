@@ -17,3 +17,51 @@ search: false
 .masthead__inner-wrap {
   padding: 0.5em 1em;
 }
+// seminar program: time column + talk column; each talk can fold out its abstract
+// markup: .program > (details > summary > .program__row) | .program__row--break
+$program-marker-width: 1.2em; // must match the global summary padding-left in _page.scss
+$program-time-width: 7.5em;
+$program-column-gap: 0.75em;
+$program-abstract-scale: 0.9;
+
+.program {
+  margin: 0.5em 0 1.5em;
+  border-bottom: 1px solid $border-color;
+}
+.program > details,
+.program > .program__row--break {
+  border-top: 1px solid $border-color;
+  padding: 0.5em 0;
+}
+.program__row {
+  display: grid;
+  grid-template-columns: $program-time-width minmax(0, 1fr);
+  column-gap: $program-column-gap;
+}
+.program__row > * {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.program__row--break {
+  padding-left: $program-marker-width;
+  color: $muted-text-color;
+}
+.program__time {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.program__abstract {
+  // margins are in this element's em, so divide by its font scale to line up with the talk column
+  margin: 0.5em 0 0.25em (($program-marker-width + $program-time-width + $program-column-gap) / $program-abstract-scale);
+  font-size: $program-abstract-scale * 1em;
+  line-height: 1.7;
+  color: $muted-text-color;
+}
+@include breakpoint(max-width $small - 1px) {
+  .program__row {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .program__abstract {
+    margin-left: $program-marker-width / $program-abstract-scale;
+  }
+}
