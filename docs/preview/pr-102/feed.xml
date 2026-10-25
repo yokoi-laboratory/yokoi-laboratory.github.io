@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-102/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-102/" rel="alternate" type="text/html" /><updated>2026-10-25T07:55:37+00:00</updated><id>https://yokoi-lab.net/preview/pr-102/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics</title><link href="https://yokoi-lab.net/preview/pr-102/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-102/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-102/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-102/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-102/" rel="alternate" type="text/html" /><updated>2026-10-25T08:16:06+00:00</updated><id>https://yokoi-lab.net/preview/pr-102/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics</title><link href="https://yokoi-lab.net/preview/pr-102/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-102/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-102/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
 
 <h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
 <p>12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。
@@ -9,22 +9,28 @@
   <li><strong>講師</strong>：渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大）</li>
   <li><strong>タイトル</strong>：学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて</li>
   <li><strong>プログラム</strong>：
-    <div class="program">
-<details>
-<summary><span class="program__row"><span class="program__time">13:30–14:30</span> <span>渡邉大師<br />「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）</span></span></summary>
-<div class="program__abstract">概要：TBA</div>
-</details>
-<div class="program__row program__row--break"><span class="program__time">14:30–15:00</span> <span>休憩</span></div>
-<details>
-<summary><span class="program__row"><span class="program__time">15:00–16:00</span> <span>中牟田旭<br />「学習によって再編成されるニューラルネット内部表現のべき的非等方性」（仮）</span></span></summary>
-<div class="program__abstract">概要：TBA</div>
-</details>
-<div class="program__row program__row--break"><span class="program__time">16:00–16:30</span> <span>休憩</span></div>
-<details>
-<summary><span class="program__row"><span class="program__time">16:30–17:30</span> <span>小林秀太<br />「確率的勾配降下法におけるFisher情報流の速度限界」（仮）</span></span></summary>
-<div class="program__abstract">概要：TBA</div>
-</details>
-</div>
+    <ul>
+      <li>13:30–14:30 渡邉大師
+「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）
+        <ul>
+          <li>概要：TBA</li>
+        </ul>
+      </li>
+      <li>14:30–15:00 休憩</li>
+      <li>15:00–16:00 中牟田旭
+「学習によって再編成されるニューラルネット内部表現のべき的非等方性」（仮）
+        <ul>
+          <li>概要：TBA</li>
+        </ul>
+      </li>
+      <li>16:00–16:30 休憩</li>
+      <li>16:30–17:30 小林秀太
+「確率的勾配降下法におけるFisher情報流の速度限界」（仮）
+        <ul>
+          <li>概要：TBA</li>
+        </ul>
+      </li>
+    </ul>
   </li>
 </ul>
 
@@ -42,22 +48,28 @@
   <li><strong>Speakers</strong>: Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)</li>
   <li><strong>Title</strong>: “A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning”</li>
   <li><strong>Program</strong>:
-    <div class="program">
-<details>
-<summary><span class="program__row"><span class="program__time">13:30–14:30</span> <span>Taishi Watanabe<br />“Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)</span></span></summary>
-<div class="program__abstract">Abstract: TBA</div>
-</details>
-<div class="program__row program__row--break"><span class="program__time">14:30–15:00</span> <span>Break</span></div>
-<details>
-<summary><span class="program__row"><span class="program__time">15:00–16:00</span> <span>Asahi Nakamuta<br />“Learning reshapes power-law anisotropy in internal representations” (tentative)</span></span></summary>
-<div class="program__abstract">Abstract: TBA</div>
-</details>
-<div class="program__row program__row--break"><span class="program__time">16:00–16:30</span> <span>Break</span></div>
-<details>
-<summary><span class="program__row"><span class="program__time">16:30–17:30</span> <span>Shuta Kobayashi<br />“Fisher-Information Flow Speed Limits in Stochastic Gradient Descent” (tentative)</span></span></summary>
-<div class="program__abstract">Abstract: TBA</div>
-</details>
-</div>
+    <ul>
+      <li>13:30–14:30 Taishi Watanabe
+“Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)
+        <ul>
+          <li>Abstract: TBA</li>
+        </ul>
+      </li>
+      <li>14:30–15:00 Break</li>
+      <li>15:00–16:00 Asahi Nakamuta
+“Learning reshapes power-law anisotropy in internal representations” (tentative)
+        <ul>
+          <li>Abstract: TBA</li>
+        </ul>
+      </li>
+      <li>16:00–16:30 Break</li>
+      <li>16:30–17:30 Shuta Kobayashi
+“Fisher-Information Flow Speed Limits in Stochastic Gradient Descent” (tentative)
+        <ul>
+          <li>Abstract: TBA</li>
+        </ul>
+      </li>
+    </ul>
   </li>
 </ul>
 
