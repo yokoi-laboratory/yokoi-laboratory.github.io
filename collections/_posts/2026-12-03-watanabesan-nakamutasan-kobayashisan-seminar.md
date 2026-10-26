@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ<br>NINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics"
-seo_title: "国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ / NINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics"
+title: "12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ<br>NINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics"
+seo_title: "国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ / NINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics"
 category: Talk
 excerpt: "12月3日(木)に国語研数理セミナー #4「学習ダイナミクスへの物理学的アプローチ」を国語研 @立川で開催します。京大の渡邉大師さん、中牟田旭さん、小林秀太さんにご講演いただきます。 / Dec. 3 (Thu) at NINJAL, Tachikawa, with Taishi Watanabe, Asahi Nakamuta, and Shuta Kobayashi (Kyoto U.)."
 header:
@@ -39,11 +39,11 @@ header:
 ---
 
 ## Announcement: NINJAL Mathematical Sciences Seminar {#english}
-The NINJAL Mathematical Sciences Seminar #4, entitled “A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning,” will be held at the National Institute for Japanese Language and Linguistics (NINJAL) in Tachikawa on Thursday, December 3, 2026. We hope to provide a relaxed and informal setting for discussion. Anyone interested in the topic is welcome to attend. Please register in advance using the form below.
+The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approaches to Learning Dynamics: Toward an Understanding of Deep Learning,” will be held at the National Institute for Japanese Language and Linguistics (NINJAL) in Tachikawa on Thursday, December 3, 2026. We hope to provide a relaxed and informal setting for discussion. Anyone interested in the topic is welcome to attend. Please register in advance using the form below.
 - **Date and Time**: Thursday, December 3, 2026, 13:30–17:30
 - **Venue**: National Institute for Japanese Language and Linguistics (NINJAL), Tachikawa <https://www.ninjal.ac.jp/utility/access/>
 - **Speakers**: Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)
-- **Title**: “A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep Learning”
+- **Title**: “Physics-Inspired Approaches to Learning Dynamics: Toward an Understanding of Deep Learning”
 - **Program**:
   - 13:30–14:30 Taishi Watanabe
     “Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)
