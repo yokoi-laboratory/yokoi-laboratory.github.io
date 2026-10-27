@@ -143,6 +143,18 @@ var store = [{
         "url": "/preview/pr-100/domesticConferences/202608-yans-nakaishi/",
         "teaser": null
       },{
+        "title": "言語の階層構造と情報圧縮",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-100/domesticConferences/202610-ibis-ishii/",
+        "teaser": null
+      },{
+        "title": "タスク算術の成否をパラメータ空間の幾何構造から捉える",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-100/domesticConferences/202610-ibis-lee/",
+        "teaser": null
+      },{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -201,6 +213,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-100/internationalConferences/202610-emnlp-kiya/",
+        "teaser": null
+      },{
+        "title": "RoPE Is Not a Proper Relative Position Embedding",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-100/internationalConferences/202612-neurips-oka/",
         "teaser": null
       },{
         "title": "言語モデルの内部機序：解析と解釈",
@@ -371,14 +389,26 @@ var store = [{
         "url": "/preview/pr-100/posts/otsukasan-michidasan-fukumizusan-seminar/",
         "teaser": null
       },{
+        "title": "NeurIPS 2026 Position Paper Track 採択",
+        "excerpt":"機械学習の国際会議 The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) の Position Paper Track に、 本研究室のメンバーが関わる1件の論文が採択されました。 Yui Oka, Kyosuke Nishida, and Sho Yokoi RoPE Is Not a Proper Relative Position Embedding. TBA, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026 Position Paper Track). Sydney, Australia,...","categories": ["News"],
+        "tags": [],
+        "url": "/preview/pr-100/posts/neurips2026-publications/",
+        "teaser": null
+      },{
         "title": "大学院説明会（申込締切：9月14日正午）",
         "excerpt":"2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。  本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。  個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。     日時：2026年9月28日（月）午後   場所：国立国語研究所 @立川（アクセス）およびオンライン   参加申込：2026年9月14日（月）正午まで   詳細は国立国語研究所の案内ページをご覧ください：  https://www.ninjal.ac.jp/education/soken/admission/guidance/  ","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-100/posts/sokendai-guidance-2026-fall/",
         "teaser": null
       },{
-        "title": "12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ<br>NINJAL Mathematical Sciences Seminar #4: A Physics-Inspired Approach to Learning Dynamics",
-        "excerpt":"English follows below. 国語研数理セミナーのお知らせ 12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。 日時：2026年12月3日（木）13:30〜17:30 場所：国立国語研究所 @立川 https://www.ninjal.ac.jp/utility/access/ 講師：渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大） タイトル：学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて プログラム： 13:30–14:30 (1h) 渡邉さん「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮） 15:00–16:00 (1h) 中牟田さん「学習によって再編成されるニューラルネット内部表現のべき的非等方性」（仮） 16:30–17:30 (1h) 小林さん「確率的勾配降下法におけるFisher情報流の速度限界」（仮） 参加登録フォーム（要申込） ご参加いただける方は、以下のフォームよりご登録をお願いいたします。 https://forms.gle/af9YJH5hdgMhvoTx9 Announcement: NINJAL Mathematical Sciences Seminar The NINJAL Mathematical Sciences Seminar #4, entitled “A Physics-Inspired Approach to Learning Dynamics: Toward an Understanding of Deep...","categories": ["Talk"],
+        "title": "IBIS 2026 発表",
+        "excerpt":"2026年10月26日（月）から29日（木）にかけてソニックシティ（埼玉）で開催される 第29回情報論的学習理論ワークショップ (IBIS 2026) にて、 本研究室のメンバーが関わる以下2件の研究発表がおこなわれます。                                石井太河,     赤穗昭太郎,     栗木哲,     横井祥.  言語の階層構造と情報圧縮.           ポスター発表,          第29回情報論的学習理論ワークショップ (IBIS 2026).          埼玉,     2026年10月.                               李宰成,     中石海,     唐木田亮,     横井祥.  タスク算術の成否をパラメータ空間の幾何構造から捉える.           ポスター発表,          第29回情報論的学習理論ワークショップ (IBIS 2026).          埼玉,     2026年10月.                       -&gt; Publications  ","categories": ["News"],
+        "tags": [],
+        "url": "/preview/pr-100/posts/ibis2026-presentations/",
+        "teaser": null
+      },{
+        "title": "12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ<br>NINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics",
+        "excerpt":"English follows below. 国語研数理セミナーのお知らせ 12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。 日時：2026年12月3日（木）13:30〜17:30 場所：国立国語研究所 @立川 https://www.ninjal.ac.jp/utility/access/ 講師：渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大） タイトル：学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて プログラム： 13:30–14:30 渡邉大師 「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮） 概要：TBA 14:30–15:00 休憩 15:00–16:00 中牟田旭 「学習によって再編成されるニューラルネット内部表現のべき的非等方性」（仮） 概要：TBA 16:00–16:30 休憩 16:30–17:30 小林秀太 「確率的勾配降下法におけるFisher情報流の速度限界」（仮） 概要：TBA 参加登録フォーム（要申込） ご参加いただける方は、以下のフォームよりご登録をお願いいたします。 https://forms.gle/af9YJH5hdgMhvoTx9 Announcement: NINJAL Mathematical Sciences Seminar The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approaches to Learning...","categories": ["Talk"],
         "tags": [],
         "url": "/preview/pr-100/posts/watanabesan-nakamutasan-kobayashisan-seminar/",
         "teaser": null
