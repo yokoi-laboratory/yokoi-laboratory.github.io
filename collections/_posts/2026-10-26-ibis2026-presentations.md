@@ -2,7 +2,7 @@
 layout: splash
 title: "IBIS 2026 発表"
 category: News
-excerpt: "第29回情報論的学習理論ワークショップ IBIS 2026 にて、本研究室のメンバーが関わる2件の研究発表がおこなわれます。"
+excerpt: "機械学習の国内学会 IBIS 2026 にて、本研究室のメンバーが関わる2件の研究発表がおこなわれます。"
 header:
   show_overlay_excerpt: false
   show_date: true
