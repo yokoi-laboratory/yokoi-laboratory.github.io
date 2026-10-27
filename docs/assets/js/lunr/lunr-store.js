@@ -402,7 +402,7 @@ var store = [{
         "teaser": null
       },{
         "title": "ARR Outstanding Reviewer 受賞",
-        "excerpt":"本研究室のメンバーが、ACL Rolling Review (ARR) の2026年5月サイクルにおける査読活動に対して、Outstanding Reviewer, EMNLP 2026 に選出されました。                                       Outstanding Reviewer, EMNLP 2026          — 2026年10月         鴨田豪.       ACL Rolling Review (ARR) May 2026.     EMNLP 2026    ACL Rolling Review                    -&gt; Publications  ","categories": ["News"],
+        "excerpt":"本研究室のメンバーが、ACL Rolling Review (ARR) の2026年5月サイクルにおける査読活動に対して、Outstanding Reviewer, EMNLP 2026 に選出されました。                                       Outstanding Reviewer, EMNLP 2026          — 2026年10月         Go Kamoda.       ACL Rolling Review (ARR) May 2026.     EMNLP 2026    ACL Rolling Review                    -&gt; Publications  ","categories": ["News"],
         "tags": [],
         "url": "/posts/arr-outstanding-reviewer/",
         "teaser": null
