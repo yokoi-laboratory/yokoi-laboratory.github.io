@@ -6,5 +6,9 @@ authors:
 awards:
   - name: "Outstanding Reviewer, EMNLP 2026"
     year_month: "2026年10月"
-    url: "https://gokamoda.github.io/news/outstanding-reviewer/"
+links:
+  - name: "EMNLP 2026"
+    url: "https://2026.emnlp.org/"
+  - name: "ACL Rolling Review"
+    url: "https://aclrollingreview.org/"
 ---
