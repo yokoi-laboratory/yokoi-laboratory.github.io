@@ -20,6 +20,7 @@ presentation:
       url: "https://anlp.jp/nlp2026/"
 awards:
   - name: "言語処理学会第32回年次大会 委員特別賞"
+    year_month: "2026年3月"
     rank: "32/748 件"
 links:
   - name: "論文"

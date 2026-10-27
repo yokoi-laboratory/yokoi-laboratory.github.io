@@ -10,7 +10,7 @@
     {{ award.name | escape }}
   {% endif %}
   {% if award.rank %}({{ award.rank | escape }}){% endif %}
-  </strong><br>
+  </strong>{% if award.year_month %} — {{ award.year_month | escape }}{% endif %}<br>
   {% if document.authors.size > 0 %}
     {{ document.authors | join: ", " | escape }}.<br>
   {% endif %}

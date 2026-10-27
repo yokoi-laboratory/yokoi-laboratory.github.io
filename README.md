@@ -78,6 +78,7 @@ authors:
   - 受賞者名
 awards:
   - name: "賞の名称"
+    year_month: "2026年10月"
     url: "https://example.com/awards/"
     rank: "選考件数など（任意）"
 links:
@@ -86,7 +87,9 @@ links:
 ---
 ```
 
-`title`、`date`、`awards`（各要素の `name`）を指定してください。
+`title`、`date`、`awards`（各要素の `name`・`year_month`）を指定してください。
+`year_month` は受賞年月で、賞名の横に表示します（例：`2026年10月`）。
+記事の日付や査読サイクルの年月とは区別して指定してください。
 `authors`、受賞の `url`・`rank`、`links` は任意です。
 受賞情報は front matter の構造化データのみで管理し、本文は記載しません。
 他 collection の記事も同じ `awards` の形式を使えます。

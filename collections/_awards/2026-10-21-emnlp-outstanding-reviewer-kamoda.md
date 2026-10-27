@@ -5,5 +5,6 @@ authors:
   - 鴨田豪
 awards:
   - name: "Outstanding Reviewer, EMNLP 2026"
+    year_month: "2026年10月"
     url: "https://gokamoda.github.io/news/outstanding-reviewer/"
 ---
