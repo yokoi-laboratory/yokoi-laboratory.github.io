@@ -6,8 +6,8 @@ authors:
   - Sho Yokoi
 presentation:
   conference:
-    name: "The Fortieth Annual Conference on Neural Information Processing Systems (Position Paper Track)"
-    abbreviation: "NeurIPS 2026"
+    name: "The Fortieth Annual Conference on Neural Information Processing Systems"
+    abbreviation: "NeurIPS 2026 Position Paper Track"
     url: "https://neurips.cc/Conferences/2026"
   type: "TBA"
   venue: "Sydney, Australia"
