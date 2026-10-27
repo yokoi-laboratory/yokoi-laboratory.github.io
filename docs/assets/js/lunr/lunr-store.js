@@ -137,6 +137,18 @@ var store = [{
         "url": "/domesticConferences/202608-yans-nakaishi/",
         "teaser": null
       },{
+        "title": "言語の階層構造と情報圧縮",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/domesticConferences/202610-ibis-ishii/",
+        "teaser": null
+      },{
+        "title": "タスク算術の成否をパラメータ空間の幾何構造から捉える",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/domesticConferences/202610-ibis-lee/",
+        "teaser": null
+      },{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -369,6 +381,12 @@ var store = [{
         "excerpt":"2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。  本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。  個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。     日時：2026年9月28日（月）午後   場所：国立国語研究所 @立川（アクセス）およびオンライン   参加申込：2026年9月14日（月）正午まで   詳細は国立国語研究所の案内ページをご覧ください：  https://www.ninjal.ac.jp/education/soken/admission/guidance/  ","categories": ["News"],
         "tags": [],
         "url": "/posts/sokendai-guidance-2026-fall/",
+        "teaser": null
+      },{
+        "title": "IBIS 2026 発表",
+        "excerpt":"2026年10月26日（月）から29日（木）にかけてソニックシティ（埼玉）で開催される 第29回情報論的学習理論ワークショップ (IBIS 2026) にて、 本研究室のメンバーが関わる以下2件の研究発表がおこなわれます。                                石井太河,     赤穗昭太郎,     栗木哲,     横井祥.  言語の階層構造と情報圧縮.           ポスター発表,          第29回情報論的学習理論ワークショップ (IBIS 2026).          埼玉,     2026年10月.                              李宰成,     中石海,     唐木田亮,     横井祥.  タスク算術の成否をパラメータ空間の幾何構造から捉える.           ポスター発表,          第29回情報論的学習理論ワークショップ (IBIS 2026).          埼玉,     2026年10月.                      -&gt; Publications  ","categories": ["News"],
+        "tags": [],
+        "url": "/posts/ibis2026-presentations/",
         "teaser": null
       },{
         "title": "12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ<br>NINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics",
