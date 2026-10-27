@@ -401,6 +401,12 @@ var store = [{
         "url": "/posts/sokendai-guidance-2026-fall/",
         "teaser": null
       },{
+        "title": "ARR Outstanding Reviewer 受賞",
+        "excerpt":"本研究室のメンバーが、ACL Rolling Review (ARR) の2026年5月サイクルにおける査読活動に対して、Outstanding Reviewer, EMNLP 2026 に選出されました。                                       Outstanding Reviewer, EMNLP 2026          — 2026年10月         鴨田豪.       ACL Rolling Review (ARR) May 2026.     EMNLP 2026    ACL Rolling Review                    -&gt; Publications  ","categories": ["News"],
+        "tags": [],
+        "url": "/posts/arr-outstanding-reviewer/",
+        "teaser": null
+      },{
         "title": "IBIS 2026 発表",
         "excerpt":"2026年10月26日（月）から29日（木）にかけてソニックシティ（埼玉）で開催される 第29回情報論的学習理論ワークショップ (IBIS 2026) にて、 本研究室のメンバーが関わる以下2件の研究発表がおこなわれます。                                石井太河,     赤穗昭太郎,     栗木哲,     横井祥.  言語の階層構造と情報圧縮.           ポスター発表,          第29回情報論的学習理論ワークショップ (IBIS 2026).          埼玉,     2026年10月.                               李宰成,     中石海,     唐木田亮,     横井祥.  タスク算術の成否をパラメータ空間の幾何構造から捉える.           ポスター発表,          第29回情報論的学習理論ワークショップ (IBIS 2026).          埼玉,     2026年10月.                       -&gt; Publications  ","categories": ["News"],
         "tags": [],

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-10-27T07:31:28+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics</title><link href="https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-10-27T07:43:12+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics</title><link href="https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
 
 <h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
 <p>12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。
@@ -129,7 +129,40 @@
 
 </div>
 
-<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[機械学習の国内学会 IBIS 2026 にて、本研究室のメンバーが関わる2件の研究発表がおこなわれます。]]></summary></entry><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
+<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[機械学習の国内学会 IBIS 2026 にて、本研究室のメンバーが関わる2件の研究発表がおこなわれます。]]></summary></entry><entry><title type="html">ARR Outstanding Reviewer 受賞</title><link href="https://yokoi-lab.net/posts/arr-outstanding-reviewer/" rel="alternate" type="text/html" title="ARR Outstanding Reviewer 受賞" /><published>2026-10-18T00:00:00+00:00</published><updated>2026-10-18T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/arr-outstanding-reviewer</id><content type="html" xml:base="https://yokoi-lab.net/posts/arr-outstanding-reviewer/"><![CDATA[<p>本研究室のメンバーが、<a href="https://aclrollingreview.org/">ACL Rolling Review (ARR)</a> の2026年5月サイクルにおける査読活動に対して、Outstanding Reviewer, EMNLP 2026 に選出されました。</p>
+
+<div>
+  <ul>
+    
+      
+
+  
+  <li>
+  <i class="fa-solid fa-award" aria-hidden="true"></i>
+  <strong>
+  
+    Outstanding Reviewer, EMNLP 2026
+  
+  
+  </strong> — 2026年10月<br />
+  
+    鴨田豪.<br />
+  
+  ACL Rolling Review (ARR) May 2026.<br />
+
+  <a class="link-btn" href="https://2026.emnlp.org/">EMNLP 2026</a>
+
+  <a class="link-btn" href="https://aclrollingreview.org/">ACL Rolling Review</a>
+
+  </li>
+  
+
+
+    
+  </ul>
+</div>
+
+<p>-&gt; <a href="/publications/#awards">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが、Outstanding Reviewer, EMNLP 2026 に選出されました。]]></summary></entry><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
 本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。<br />
 個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。</p>
 <ul>
@@ -510,52 +543,4 @@ and
 
 <h3 id="開催当日セミナーの様子">開催当日セミナーの様子</h3>
 <p><img src="https://gyazo.com/cac10030557ff009e2ac2f13b35fb97b.jpg" alt="" width="400" />
-<img src="https://gyazo.com/1da233f20eb6d47bc8441b3b4464276f.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[6月19日(金)に少人数での研究会を国立国語研究所 @立川にて開催します。Ubie の風間さんより、AIによる研究活動の効率化や研究サポート活動の効率化を目指す内容で、Claude を用いたデモと講演をしていただきます。]]></summary></entry><entry><title type="html">ICML 2026 採択</title><link href="https://yokoi-lab.net/posts/icml2026-publications/" rel="alternate" type="text/html" title="ICML 2026 採択" /><published>2026-05-01T00:00:00+00:00</published><updated>2026-05-01T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/icml2026-publications</id><content type="html" xml:base="https://yokoi-lab.net/posts/icml2026-publications/"><![CDATA[<p>機械学習の国際会議 <a href="https://icml.cc/">Forty-Third International Conference on Machine Learning (ICML 2026)</a> に、
-本研究室のメンバーが関わる1件の論文が採択されました。</p>
-
-<div>
-  <ol>
-    
-    
-    <li>
-    
-
-    Masataka Yoneda,
-    
-
-    Yusuke Matsushita,
-    
-
-    Go Kamoda,
-    
-
-    Kohei Suenaga,
-    
-
-    Takuya Akiba,
-    
-
-    Masaki Waga,
-    
-and 
-    
-    Sho Yokoi
-<br /><strong>SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora</strong>.<br /><i class="fa-regular fa-file"></i>
-    In <i>Forty-third International Conference on Machine Learning</i><!-- if has "-" or "–", pages else page -->, pages 149430-149463, July 2026.<br />
-    <i class="fa-solid fa-person-chalkboard"></i>
-    Poster,
-    
-    <a href="https://icml.cc/Conferences/2026" target="_blank">Forty-Third International Conference on Machine Learning</a> (ICML 2026).
-    
-    Seoul, South Korea,
-    July 2026.<br />
-
-<a class="link-btn" href="https://proceedings.mlr.press/v306/yoneda26a.html" target="_blank">PMLR</a><a class="link-btn" href="https://softmatcha.github.io/v2/" target="_blank">Project Page</a><a class="link-btn" href="https://arxiv.org/abs/2602.10908" target="_blank">arXiv</a>
-    </li>
-    
-
-  </ol>
-
-</div>
-
-<p>-&gt; <a href="/publications/#international-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが関わる1件の論文が ICML 2026 に採択されました。]]></summary></entry></feed>
+<img src="https://gyazo.com/1da233f20eb6d47bc8441b3b4464276f.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[6月19日(金)に少人数での研究会を国立国語研究所 @立川にて開催します。Ubie の風間さんより、AIによる研究活動の効率化や研究サポート活動の効率化を目指す内容で、Claude を用いたデモと講演をしていただきます。]]></summary></entry></feed>
