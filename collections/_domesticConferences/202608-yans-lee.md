@@ -15,6 +15,7 @@ presentation:
       url: "https://yans.anlp.jp/entry/yans2026"
 awards:
   - name: "第21回言語処理若手シンポジウム 株式会社サイバーエージェント賞"
+    year_month: "2026年8月"
 links:
   - name: "株式会社サイバーエージェント賞"
     url: "https://yans.anlp.jp/entry/award"

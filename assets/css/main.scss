@@ -17,6 +17,31 @@ search: false
 .masthead__inner-wrap {
   padding: 0.5em 1em;
 }
+.page__content .publications-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em 1.25em;
+  margin-top: 2.5em;
+  margin-bottom: 0;
+  padding: 0.75em 0;
+  border-top: 1px solid $border-color;
+  border-bottom: 1px solid $border-color;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover,
+    &:focus-visible {
+      text-decoration: underline;
+    }
+  }
+
+  + h2 {
+    margin-top: 1em;
+  }
+}
+
 // seminar program: time column + talk column; each talk can fold out its abstract
 // markup: .program > (details > summary > .program__row) | .program__row--break
 $program-marker-width: 1.2em; // must match the global summary padding-left in _page.scss
