@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "ARR Outstanding Reviewer 受賞"
+title: "ARR Outstanding Reviewer に選出"
 category: News
 excerpt: "本研究室のメンバーが、Outstanding Reviewer, EMNLP 2026 に選出されました。"
 header:
