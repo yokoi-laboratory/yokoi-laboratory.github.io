@@ -48,7 +48,7 @@ $program-marker-width: 1.2em; // must match the global summary padding-left in _
 $program-time-width: 7.5em;
 $program-column-gap: 0.75em;
 $program-abstract-scale: 0.9;
-$program-break-color: $gray; // lighter than the abstracts ($muted-text-color); 3.9:1 on white, below WCAG AA 4.5:1
+$program-break-color: mix($gray, $muted-text-color, 50%); // lighter than the abstracts ($muted-text-color); keep 4.5:1 (WCAG AA) on white, 4.7:1 now
 
 .program {
   margin: 0.5em 0 1.5em;

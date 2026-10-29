@@ -26,6 +26,9 @@ header:
 🗣️ 講師
 : 渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大）
 
+🏃‍♀️ 参加登録
+: 要申込：<https://forms.gle/af9YJH5hdgMhvoTx9>
+
 📝 プログラム
 : - 13:30–14:30 渡邉大師「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）
     - 概要：TBA
@@ -38,10 +41,6 @@ header:
 
 世話人
 : 中石海（理研）、唐木田亮（産総研）、木下瞳（国語研）、横井祥（国語研）
-
-### 🏃‍♀️ 参加登録フォーム（要申込）
-ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  
-<https://forms.gle/af9YJH5hdgMhvoTx9>
 
 ---
 
@@ -61,6 +60,9 @@ The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approa
 🌐 Language
 : All talks will be given in Japanese.
 
+🏃‍♀️ Registration
+: Required: <https://forms.gle/af9YJH5hdgMhvoTx9>
+
 📝 Program
 : - 13:30–14:30 Taishi Watanabe: “Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)
     - Abstract: TBA
@@ -73,7 +75,3 @@ The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approa
 
 Organizers
 : Kai Nakaishi (RIKEN), Ryo Karakida (AIST), Hitomi Kinoshita (NINJAL), and Sho Yokoi (NINJAL)
-
-### 🏃‍♀️ Registration (Required)
-Those wishing to attend are kindly requested to register using the form below.  
-<https://forms.gle/af9YJH5hdgMhvoTx9>
