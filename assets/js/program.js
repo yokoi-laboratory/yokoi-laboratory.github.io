@@ -7,12 +7,15 @@
 //       - Abstract (a nested list becomes the folded content)
 //     - 14:30–15:00 Break (no nested list: shown as a muted row)
 //
-// A list is converted only when it sits under an item starting with a bold PROGRAM_LABELS label, has 2+ items, and
-// every item starts with a time ("13:30–14:30", "13:30〜", "17:30", full-width digits allowed). Otherwise it stays an
-// ordinary list, which is also what readers without JavaScript see.
+// A list is converted only when it sits under an item starting with a bold PROGRAM_LABELS label (an emoji or symbol
+// before it is allowed: "📝 **プログラム**："), has 2+ items, and every item starts with a time ("13:30–14:30",
+// "13:30〜", "17:30", full-width digits allowed). Otherwise it stays an ordinary list, which is also what readers
+// without JavaScript see.
 (function () {
   var PROGRAM_LABELS = ["プログラム", "Program"];
   var MIN_ITEMS = 2;
+  // text before the bold label without any letter or digit (an emoji, a symbol) counts as decoration
+  var LETTER_OR_DIGIT = /[\p{L}\p{N}]/u;
   var TIME = "\\d{1,2}:\\d{2}(?!\\d)";
   var DASH = "[–—\\-~〜ー−―‐]";
   // after the time: a range ("–14:30"), an attached dash meaning open-ended ("〜"), or a spaced dash used only as a
@@ -71,15 +74,25 @@
   function labelOf(list) {
     var li = list.parentNode;
     if (!li || li.tagName !== "LI") return "";
-    // the label is the item's first content; it may be wrapped in <p> when the list has blank lines
+    // the label is the item's first content (after an optional decoration); it may be wrapped in <p> when the list has
+    // blank lines
     var first = firstContent(li);
     if (first && first.nodeName === "P") first = firstContent(first);
+    // a decoration before the label ("📝 **プログラム**：") is skipped
+    if (first && first.nodeType === Node.TEXT_NODE && !LETTER_OR_DIGIT.test(first.nodeValue)) first = nextContent(first);
     if (!first || first.nodeName !== "STRONG") return "";
     return first.textContent.trim().replace(/[:：]$/, "");
   }
 
   function firstContent(el) {
-    var node = el.firstChild;
+    return skipBlankText(el.firstChild);
+  }
+
+  function nextContent(node) {
+    return skipBlankText(node.nextSibling);
+  }
+
+  function skipBlankText(node) {
     while (node && node.nodeType === Node.TEXT_NODE && node.nodeValue.trim() === "") node = node.nextSibling;
     return node;
   }
