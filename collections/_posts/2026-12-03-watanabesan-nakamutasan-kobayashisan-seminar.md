@@ -45,6 +45,7 @@ The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approa
 - **Venue**: National Institute for Japanese Language and Linguistics (NINJAL), Tachikawa <https://www.ninjal.ac.jp/utility/access/>
 - **Speakers**: Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)
 - **Title**: “Physics-Inspired Approaches to Learning Dynamics: Toward an Understanding of Deep Learning”
+- **Language**: All talks will be given in Japanese.
 - **Program**:
   - 13:30–14:30 Taishi Watanabe
     “Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)
