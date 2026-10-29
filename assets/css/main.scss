@@ -94,12 +94,14 @@ $program-abstract-scale: 0.9;
 // seminar overview: a kramdown definition list with {: .event-info}, label column + value column (stacked on narrow
 // screens); markup: dl.event-info > dt ("📅 日時") + dd; a dd holding a list (the program) spans both columns
 $event-info-column-gap: 1em;
+$event-info-indent: 1.25em; // wide screens only; on narrow screens the full width goes to the text
 
 .page__content .event-info {
   display: grid;
   grid-template-columns: max-content minmax(0, 1fr);
   gap: 0.35em $event-info-column-gap;
   margin: 1em 0 1.5em;
+  padding-left: $event-info-indent;
 
   dt {
     margin: 0;
@@ -117,10 +119,10 @@ $event-info-column-gap: 1em;
     }
   }
 
-  // also matches before program.js has run (or without JavaScript), so the layout does not jump
-  dd:has(> .program),
-  dd:has(> ul),
-  dd:has(> ol) {
+  // a definition holding a list (the program) and its term take full rows, so that the long label "プログラム" does
+  // not widen the label column; also matches before program.js has run (or without JavaScript)
+  dt:has(+ dd > .program, + dd > ul, + dd > ol),
+  dd:has(> .program, > ul, > ol) {
     grid-column: 1 / -1;
   }
 
@@ -133,6 +135,7 @@ $event-info-column-gap: 1em;
   .page__content .event-info {
     grid-template-columns: minmax(0, 1fr);
     row-gap: 0;
+    padding-left: 0;
 
     dt {
       white-space: normal;
