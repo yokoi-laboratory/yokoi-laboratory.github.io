@@ -40,4 +40,5 @@ header:
 #### 川崎駅・羽田空港から
 - JR 南武線は川崎駅〜立川駅を乗り換えなしの直通で結んでいます．
 - 川崎駅・立川駅はどちらも南武線の始発駅です．途中駅止まりの列車もあるので，「立川行き」「川崎行き」の列車を選んでください．
+- 時刻表（NAVITIME）：[川崎 → 立川](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00005203&arrival=00008990&line=00000192&updown=1)，[立川 → 川崎](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00008990&arrival=00005203&line=00000192&updown=0)
 - 羽田空港からは，京急線で京急川崎駅まで行き，JR 川崎駅で南武線に乗り換えます．
