@@ -91,16 +91,38 @@ $program-abstract-scale: 0.9;
   }
 }
 
-// theme h4 (1.0625em) is barely smaller than h3 (1.125em): set it at body size with a left rule
-// screen only, so the theme's print sizes for headings stay in effect
-$h4-rule-width: 3px;
+// theme h4 (1.0625em) is barely smaller than h3 (1.125em): set it at body size with an underline
+// that spans the text and fades out to the right; screen only, so the theme's print sizes stay in effect
+$h4-rule-width: 2px;
+$h4-rule-color: mix($text-color, $background-color, 40%);
+$h4-rule-overhang: 2em; // how far the fade extends past the text
 
 @media screen {
   .page__content > h4 {
+    position: relative;
+    width: fit-content; // shrink to the text width so the underline follows it
+    max-width: calc(100% - #{$h4-rule-overhang}); // keep the fade inside the column (no horizontal scroll)
     margin-top: 1.5em;
-    padding-inline-start: 0.5em;
-    border-inline-start: $h4-rule-width solid mix($text-color, $background-color, 40%);
+    padding-bottom: 0.35em;
     font-size: 1em;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: -$h4-rule-overhang;
+      bottom: 0;
+      height: $h4-rule-width;
+      // solid under the text, fading only over the overhang
+      background: linear-gradient(to right, $h4-rule-color calc(100% - #{$h4-rule-overhang}), rgba($h4-rule-color, 0));
+    }
+
+    // the permalink icon added by _main.js would otherwise widen the heading (and the underline)
+    .header-link {
+      position: absolute;
+      inset-inline-start: calc(100% + 0.25em);
+      bottom: calc(#{$h4-rule-width} + 0.35em);
+    }
   }
   .page__content > h3 + h4 {
     margin-top: 0.75em;
