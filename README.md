@@ -34,6 +34,8 @@
         - 修正方法がわからない場合は他の人に気軽に相談する
 1. レビューが済んだら `Squash and merge` で公開処理を開始する
 
+AI コーディング agent（Claude Code・Codex・GitHub Copilot 等）で編集する場合の注意点（本番の Sass が古い Ruby Sass であること、見た目の確認方法など）は [AGENTS.md](AGENTS.md) にまとめています。
+
 　　初心者向け Webページ更新マニュアルはこちら  
 　　<https://app.notion.com/p/yokoi-lab/Web-news-blog-3b18436103218041b001e4e87a55b508?source=copy_link>  
   
