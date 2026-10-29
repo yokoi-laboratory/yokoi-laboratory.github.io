@@ -31,6 +31,7 @@ header:
   - 16:30–17:30 小林秀太
     「確率的勾配降下法におけるFisher情報流の速度限界」（仮）
     - 概要：TBA
+- **世話人**：中石海（理研）、唐木田亮（産総研）、木下瞳（国語研）、横井祥（国語研）
 
 ### 参加登録フォーム（要申込）
 ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  
@@ -56,6 +57,7 @@ The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approa
   - 16:30–17:30 Shuta Kobayashi
     “Fisher-Information Flow Speed Limits in Stochastic Gradient Descent” (tentative)
     - Abstract: TBA
+- **Organizers**: Kai Nakaishi (RIKEN), Ryo Karakida (AIST), Hitomi Kinoshita (NINJAL), and Sho Yokoi (NINJAL)
 
 ### Registration (Required)
 Those wishing to attend are kindly requested to register using the form below.  
