@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-118/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-118/" rel="alternate" type="text/html" /><updated>2026-10-29T08:26:22+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics</title><link href="https://yokoi-lab.net/preview/pr-118/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-118/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
+
+<h2 id="学習ダイナミクスへの物理学的アプローチ深層学習の理解に向けて">学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて</h2>
+<p>12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。
+リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。</p>
+<ul>
+  <li>📅 <strong>日時</strong>：2026年12月3日（木）13:30〜17:30</li>
+  <li>📍 <strong>場所</strong>：国立国語研究所 @立川 <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a></li>
+  <li>🗣️ <strong>講師</strong>：渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大）</li>
+  <li>📝 <strong>プログラム</strong>：
+    <ul>
+      <li>13:30–14:30 渡邉大師
+「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）
+        <ul>
+          <li>概要：TBA</li>
+        </ul>
+      </li>
+      <li>14:30–15:00 休憩</li>
+      <li>15:00–16:00 中牟田旭
+「学習によって再編成されるニューラルネット内部表現のべき的非等方性」（仮）
+        <ul>
+          <li>概要：TBA</li>
+        </ul>
+      </li>
+      <li>16:00–16:30 休憩</li>
+      <li>16:30–17:30 小林秀太
+「確率的勾配降下法におけるFisher情報流の速度限界」（仮）
+        <ul>
+          <li>概要：TBA</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>世話人</strong>：中石海（理研）、唐木田亮（産総研）、木下瞳（国語研）、横井祥（国語研）</li>
+</ul>
+
+<h3 id="️-参加登録フォーム要申込">🏃‍♀️ 参加登録フォーム（要申込）</h3>
+<p>ご参加いただける方は、以下のフォームよりご登録をお願いいたします。<br />
+<a href="https://forms.gle/af9YJH5hdgMhvoTx9">https://forms.gle/af9YJH5hdgMhvoTx9</a></p>
+
+<hr />
+
+<h2 id="english">Physics-Inspired Approaches to Learning Dynamics: Toward an Understanding of Deep Learning</h2>
+<p>The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approaches to Learning Dynamics: Toward an Understanding of Deep Learning,” will be held at the National Institute for Japanese Language and Linguistics (NINJAL) in Tachikawa on Thursday, December 3, 2026. We hope to provide a relaxed and informal setting for discussion. Anyone interested in the topic is welcome to attend. Please register in advance using the form below.</p>
+<ul>
+  <li>📅 <strong>Date and Time</strong>: Thursday, December 3, 2026, 13:30–17:30</li>
+  <li>📍 <strong>Venue</strong>: National Institute for Japanese Language and Linguistics (NINJAL), Tachikawa <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a></li>
+  <li>🗣️ <strong>Speakers</strong>: Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)</li>
+  <li>🌐 <strong>Language</strong>: All talks will be given in Japanese.</li>
+  <li>📝 <strong>Program</strong>:
+    <ul>
+      <li>13:30–14:30 Taishi Watanabe
+“Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)
+        <ul>
+          <li>Abstract: TBA</li>
+        </ul>
+      </li>
+      <li>14:30–15:00 Break</li>
+      <li>15:00–16:00 Asahi Nakamuta
+“Learning reshapes power-law anisotropy in internal representations” (tentative)
+        <ul>
+          <li>Abstract: TBA</li>
+        </ul>
+      </li>
+      <li>16:00–16:30 Break</li>
+      <li>16:30–17:30 Shuta Kobayashi
+“Fisher-Information Flow Speed Limits in Stochastic Gradient Descent” (tentative)
+        <ul>
+          <li>Abstract: TBA</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Organizers</strong>: Kai Nakaishi (RIKEN), Ryo Karakida (AIST), Hitomi Kinoshita (NINJAL), and Sho Yokoi (NINJAL)</li>
+</ul>
+
+<h3 id="️-registration-required">🏃‍♀️ Registration (Required)</h3>
+<p>Those wishing to attend are kindly requested to register using the form below.<br />
+<a href="https://forms.gle/af9YJH5hdgMhvoTx9">https://forms.gle/af9YJH5hdgMhvoTx9</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[12月3日(木)に国語研数理セミナー #4「学習ダイナミクスへの物理学的アプローチ」を国語研 @立川で開催します。京大の渡邉大師さん、中牟田旭さん、小林秀太さんにご講演いただきます。 / Dec. 3 (Thu) at NINJAL, Tachikawa, with Taishi Watanabe, Asahi Nakamuta, and Shuta Kobayashi (Kyoto U.).]]></summary></entry><entry><title type="html">IBIS 2026 発表</title><link href="https://yokoi-lab.net/preview/pr-118/posts/ibis2026-presentations/" rel="alternate" type="text/html" title="IBIS 2026 発表" /><published>2026-10-26T00:00:00+00:00</published><updated>2026-10-26T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/posts/ibis2026-presentations</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-118/posts/ibis2026-presentations/"><![CDATA[<p>2026年10月26日（月）から29日（木）にかけてソニックシティ（埼玉）で開催される <a href="https://ibisml.org/ibis2026/">第29回情報論的学習理論ワークショップ (IBIS 2026)</a> にて、
+本研究室のメンバーが関わる以下2件の研究発表がおこなわれます。</p>
+
+<div>
+  <ol>
+    
+    
+    <li>
+    
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    石井太河,
+    赤穗昭太郎,
+    栗木哲,
+    横井祥.<br />
+<strong>言語の階層構造と情報圧縮</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://ibisml.org/ibis2026/" target="_blank">第29回情報論的学習理論ワークショップ</a> (IBIS 2026).
+    
+    埼玉,
+    2026年10月.<br />
+
+
+
+
+    </li>
+    
+    <li>
+    
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    李宰成,
+    中石海,
+    唐木田亮,
+    横井祥.<br />
+<strong>タスク算術の成否をパラメータ空間の幾何構造から捉える</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://ibisml.org/ibis2026/" target="_blank">第29回情報論的学習理論ワークショップ</a> (IBIS 2026).
+    
+    埼玉,
+    2026年10月.<br />
+
+
+
+
+    </li>
+    
+
+  </ol>
+
+</div>
+
+<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[機械学習の国内学会 IBIS 2026 にて、本研究室のメンバーが関わる2件の研究発表がおこなわれます。]]></summary></entry><entry><title type="html">ARR Outstanding Reviewer に選出</title><link href="https://yokoi-lab.net/preview/pr-118/posts/arr-outstanding-reviewer/" rel="alternate" type="text/html" title="ARR Outstanding Reviewer に選出" /><published>2026-10-18T00:00:00+00:00</published><updated>2026-10-18T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/posts/arr-outstanding-reviewer</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-118/posts/arr-outstanding-reviewer/"><![CDATA[<p>本研究室のメンバーが、<a href="https://aclrollingreview.org/">ACL Rolling Review (ARR)</a> の2026年5月サイクルにおける査読活動に対して、Outstanding Reviewer, EMNLP 2026 に選出されました。</p>
+
+<div>
+  <ul>
+    
+      
+
+  
+  <li>
+  <i class="fa-solid fa-award" aria-hidden="true"></i>
+  <strong>
+  
+    Outstanding Reviewer, EMNLP 2026
+  
+  
+  </strong> — 2026年10月<br />
+  
+    Go Kamoda.<br />
+  
+  ACL Rolling Review (ARR) May 2026.<br />
+
+  <a class="link-btn" href="https://2026.emnlp.org/">EMNLP 2026</a>
+
+  <a class="link-btn" href="https://aclrollingreview.org/">ACL Rolling Review</a>
+
+  </li>
+  
+
+
+    
+  </ul>
+</div>
+
+<p>-&gt; <a href="/publications/#awards">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが、Outstanding Reviewer, EMNLP 2026 に選出されました。]]></summary></entry><entry><title type="html">大学院説明会（申込締切：9月14日正午）</title><link href="https://yokoi-lab.net/preview/pr-118/posts/sokendai-guidance-2026-fall/" rel="alternate" type="text/html" title="大学院説明会（申込締切：9月14日正午）" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/posts/sokendai-guidance-2026-fall</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-118/posts/sokendai-guidance-2026-fall/"><![CDATA[<p>2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。<br />
+本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。<br />
+個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。</p>
+<ul>
+  <li><strong>日時</strong>：2026年9月28日（月）午後</li>
+  <li><strong>場所</strong>：国立国語研究所 @立川（<a href="/contact/">アクセス</a>）およびオンライン</li>
+  <li><strong>参加申込</strong>：2026年9月14日（月）正午まで</li>
+</ul>
+
+<p>詳細は国立国語研究所の案内ページをご覧ください：<br />
+<a href="https://www.ninjal.ac.jp/education/soken/admission/guidance/#SESSION">https://www.ninjal.ac.jp/education/soken/admission/guidance/</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[9月28日(月)午後に総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。個別面談を含め、参加申込の締切は9月14日(月)正午です。]]></summary></entry><entry><title type="html">NeurIPS 2026 Position Paper Track 採択</title><link href="https://yokoi-lab.net/preview/pr-118/posts/neurips2026-publications/" rel="alternate" type="text/html" title="NeurIPS 2026 Position Paper Track 採択" /><published>2026-09-25T00:00:00+00:00</published><updated>2026-09-25T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/posts/neurips2026-publications</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-118/posts/neurips2026-publications/"><![CDATA[<p>機械学習の国際会議 <a href="https://neurips.cc/Conferences/2026">The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</a> の Position Paper Track に、
+本研究室のメンバーが関わる1件の論文が採択されました。</p>
+
+<div>
+  <ol>
+    
+    
+    <li>
+    
+
+    Yui Oka,
+    
+
+    Kyosuke Nishida,
+    
+and 
+    
+    Sho Yokoi
+<br /><strong>RoPE Is Not a Proper Relative Position Embedding</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    TBA,
+    
+    <a href="https://neurips.cc/Conferences/2026" target="_blank">The Fortieth Annual Conference on Neural Information Processing Systems</a> (NeurIPS 2026 Position Paper Track).
+    
+    Sydney, Australia,
+    December 2026.<br />
+
+
+    </li>
+    
+
+  </ol>
+
+</div>
+
+<p>-&gt; <a href="/publications/#international-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが関わる1件の論文が NeurIPS 2026 Position Paper Track に採択されました。]]></summary></entry><entry><title type="html">2026年9月10日(木) 国語研数理セミナー #3：大塚淳さん、道田蒼人さん、福水健次さん「言語と不変性・同変性」</title><link href="https://yokoi-lab.net/preview/pr-118/posts/otsukasan-michidasan-fukumizusan-seminar/" rel="alternate" type="text/html" title="2026年9月10日(木) 国語研数理セミナー #3：大塚淳さん、道田蒼人さん、福水健次さん「言語と不変性・同変性」" /><published>2026-09-10T00:00:00+00:00</published><updated>2026-09-10T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/posts/otsukasan-michidasan-fukumizusan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-118/posts/otsukasan-michidasan-fukumizusan-seminar/"><![CDATA[<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
+<p>9月10日（木）に「言語と不変性・同変性」というセミナーを国立国語研究所 @ 立川にて開催します。
+リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。</p>
+<ul>
+  <li><strong>日時</strong>：2026年9月10日（木）10:15〜14:30</li>
+  <li><strong>場所</strong>：国立国語研究所 @立川 <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a></li>
+  <li><strong>講師</strong>：大塚淳さん（ZEN大学）、道田蒼人さん（京都大学）、福水健次さん（統計数理研究所）</li>
+  <li><strong>タイトル</strong>：言語と不変性・同変性</li>
+  <li><strong>プログラム</strong>：<br />
+10:15–11:45 (90 min) 大塚さん ・道田さん「言語の合成性と同変性：群論的アプローチ」 <br />
+11:45–13:30　昼休み <br />
+13:30–14:30 (60 min) 福水さん「同変性を用いた表現学習」</li>
+</ul>
+
+<hr />
+
+<h3 id="概要">概要</h3>
+<p><strong>大塚さん ・道田さん「言語の合成性と同変性：群論的アプローチ」</strong> <br />
+言語の本質的な特徴はその生産性、すなわち語を組み合わせることで無数の文を作り出せることにある。フレーゲ以来、哲学者はこの生産性を合成性、すなわち記号を組み合わせる構文的ルール（文法）の観点から解明しようと試みてきた。一方、言語哲学者のMillikanは、合成性ではなく、記号の変換と指示対象の変換の間の一致によって生産性を捉えようとしてきた。本発表では、これを群作用の不変性（invariance）および同変性（equivariance）として定式化することで、哲学的な言語表象理論を、機械学習における対称性学習とパラレルに捉えることを提案する。またその上で、群表現の既約分解を通じて、言語の文法性を切り出していくことの可能性を探る。</p>
+
+<p><strong>福水さん「同変性を用いた表現学習」</strong> <br />
+表現学習はデータからの知識表現の有効な方法であり、人工知能の基礎技術として広く利用されている。本講演では幾何学的・代数的な知識をデータを通して表現学習に組み込む研究として、データ空間に群が作用すると仮定して、作用に対する同変性を利用した表現学習に関して議論する。特に、群の作用が明示的に与えられていない場合に対しても表現学習を可能とするNeural Fourier変換の方法に関して紹介を行う。この方法は、Autoencoderを用いて、群作用に関して同変性を持つよう潜在表現を学習し、潜在空間では群作用が線形変換となるような表現学習を行う。方法の有効性を示すとともに、群の表現論を通したFourier変換との関係に関して説明する。時間が許せば群以外の作用の場合への発展も論じたい。</p>
+
+<h3 id="参加登録フォーム要申込">参加登録フォーム（要申込）</h3>
+<p>ご参加いただける方は、以下のフォームよりご登録をお願いいたします。<br />
+<del><a href="https://forms.gle/RzhUq7hFjUp5SpqL8">https://forms.gle/RzhUq7hFjUp5SpqL8</a></del>  　</p>
+
+<h3 id="開催当日セミナーの様子">開催当日セミナーの様子</h3>
+<div style="display: flex; gap: 4px;">
+  <img src="https://gyazo.com/ca17b4732b09aeff60bcc5b3b82d673a.jpg" style="width: 33%;" />
+  <img src="https://gyazo.com/60314f6102347fe633b2a194aeab05d9.jpg" style="width: 33%;" />
+  <img src="https://gyazo.com/c31a5d1795df7226a7fd79ca5d979535.jpg" style="width: 33%;" />
+</div>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[9月10日(木)に「言語と不変性・同変性」というセミナーを国立国語研究所 @立川にて開催します。ZEN大学の大塚さん、京都大学の道田さんより「言語の合成性と同変性」について、統計数理研究所の福水さんより「同変性を用いた表現学習」について、それぞれご講演いただきます。]]></summary></entry><entry><title type="html">EMNLP 2026 採択</title><link href="https://yokoi-lab.net/preview/pr-118/posts/emnlp2026-publications/" rel="alternate" type="text/html" title="EMNLP 2026 採択" /><published>2026-08-21T00:00:00+00:00</published><updated>2026-08-21T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/posts/emnlp2026-publications</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-118/posts/emnlp2026-publications/"><![CDATA[<p>自然言語処理の国際会議 <a href="https://2026.emnlp.org/">The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</a> に、
+本研究室のメンバーが関わる1件の論文が採択されました。</p>
+
+<div>
+  <ol>
+    
+    
+    <li>
+    
+
+    Raito Kiya,
+    
+
+    Satoki Ohashi,
+    
+
+    Kosuke Sato,
+    
+
+    Go Kamoda,
+    
+
+    Ryosuke Takahashi,
+    
+
+    Yuji Yamamoto,
+    
+
+    Daiki Shiono,
+    
+
+    Keisuke Sakaguchi,
+    
+and 
+    
+    Goro Kobayashi
+<br /><strong>It's Not RoPE That Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention</strong>.<br /><i class="fa-regular fa-file"></i>
+    In <i>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing</i><!-- if has "-" or "–", pages else page -->, pages 31160–31184, October 2026.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    Poster,
+    
+    <a href="https://2026.emnlp.org/" target="_blank">The 2026 Conference on Empirical Methods in Natural Language Processing</a> (EMNLP 2026).
+    
+    Budapest, Hungary,
+    October 2026.<br />
+
+<a class="link-btn" href="https://aclanthology.org/2026.emnlp-main.1366/" target="_blank">ACL Anthology</a><a class="link-btn" href="https://arxiv.org/abs/2609.09085" target="_blank">arXiv</a>
+    </li>
+    
+
+  </ol>
+
+</div>
+
+<p>-&gt; <a href="/publications/#international-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[本研究室のメンバーが関わる1件の論文が EMNLP 2026 に採択されました。]]></summary></entry><entry><title type="html">YANS 2026 受賞</title><link href="https://yokoi-lab.net/preview/pr-118/posts/yans2026-awards/" rel="alternate" type="text/html" title="YANS 2026 受賞" /><published>2026-08-18T00:00:00+00:00</published><updated>2026-08-18T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/posts/yans2026-awards</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-118/posts/yans2026-awards/"><![CDATA[<p>2026年8月16日（日）から18日（火）にかけて仙台（宮城）で開催された <a href="https://yans.anlp.jp/entry/yans2026">第21回言語処理若手シンポジウム (YANS 2026)</a> にて、
+本研究室のメンバーが関わる以下の研究で3件の受賞がありました。</p>
+
+<h2 id="奨励賞">奨励賞</h2>
+<p>賞は第一著者に与えられます。</p>
+
+<div>
+  <ul>
+    
+      
+      
+      
+      <li>
+      
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    石峯拓海,
+    日野英逸,
+    横井祥.<br />
+<strong>単体複体を用いた言語モデルの出力空間の幾何的解釈</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://yans.anlp.jp/entry/yans2026" target="_blank">第21回言語処理若手シンポジウム</a> (YANS 2026).
+    
+    仙台,
+    2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 奨励賞 (22/231 件).
+        
+    <br />
+
+
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">奨励賞</a>
+
+      </li>
+      
+    
+      
+      
+      
+      <li>
+      
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    鴨田豪,
+    窪田悠介,
+    横井祥.<br />
+<strong>大規模言語モデルにおける文内Attentionメカニズムの分析</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://yans.anlp.jp/entry/yans2026" target="_blank">第21回言語処理若手シンポジウム</a> (YANS 2026).
+    
+    仙台,
+    2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 奨励賞 (22/231 件).
+        
+    <br />
+
+
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">奨励賞</a>
+
+      </li>
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+  </ul>
+</div>
+
+<h2 id="株式会社サイバーエージェント賞">株式会社サイバーエージェント賞</h2>
+
+<div>
+  <ul>
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+      <li>
+      
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    李宰成,
+    中石海,
+    唐木田亮,
+    横井祥.<br />
+<strong>パラメータ空間の幾何構造から見るタスク算術の失敗</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://yans.anlp.jp/entry/yans2026" target="_blank">第21回言語処理若手シンポジウム</a> (YANS 2026).
+    
+    仙台,
+    2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 株式会社サイバーエージェント賞 .
+        
+    <br />
+
+
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">株式会社サイバーエージェント賞</a>
+
+      </li>
+      
+    
+      
+      
+      
+    
+  </ul>
+</div>
+
+<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[自然言語処理分野の若手の会 YANS 2026 にて、本研究室のメンバーが関わる研究で3件の受賞がありました。]]></summary></entry><entry><title type="html">YANS 2026 発表</title><link href="https://yokoi-lab.net/preview/pr-118/posts/yans2026-presentations/" rel="alternate" type="text/html" title="YANS 2026 発表" /><published>2026-08-16T00:00:00+00:00</published><updated>2026-08-16T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/posts/yans2026-presentations</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-118/posts/yans2026-presentations/"><![CDATA[<p>2026年8月16日（日）から18日（火）にかけて仙台（宮城）で開催される <a href="https://yans.anlp.jp/entry/yans2026">第21回言語処理若手シンポジウム (YANS 2026)</a> にて、
+本研究室のメンバーが関わる以下4件の研究発表がおこなわれます。</p>
+
+<div>
+  <ol>
+    
+    
+    <li>
+    
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    石峯拓海,
+    日野英逸,
+    横井祥.<br />
+<strong>単体複体を用いた言語モデルの出力空間の幾何的解釈</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://yans.anlp.jp/entry/yans2026" target="_blank">第21回言語処理若手シンポジウム</a> (YANS 2026).
+    
+    仙台,
+    2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 奨励賞 (22/231 件).
+        
+    <br />
+
+
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">奨励賞</a>
+
+    </li>
+    
+    <li>
+    
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    鴨田豪,
+    窪田悠介,
+    横井祥.<br />
+<strong>大規模言語モデルにおける文内Attentionメカニズムの分析</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://yans.anlp.jp/entry/yans2026" target="_blank">第21回言語処理若手シンポジウム</a> (YANS 2026).
+    
+    仙台,
+    2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 奨励賞 (22/231 件).
+        
+    <br />
+
+
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">奨励賞</a>
+
+    </li>
+    
+    <li>
+    
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    李宰成,
+    中石海,
+    唐木田亮,
+    横井祥.<br />
+<strong>パラメータ空間の幾何構造から見るタスク算術の失敗</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://yans.anlp.jp/entry/yans2026" target="_blank">第21回言語処理若手シンポジウム</a> (YANS 2026).
+    
+    仙台,
+    2026年8月.<br />
+<i class="fa-solid fa-award"></i>
+        第21回言語処理若手シンポジウム 株式会社サイバーエージェント賞 .
+        
+    <br />
+
+
+<a class="link-btn" href="https://yans.anlp.jp/entry/award" target="_blank">株式会社サイバーエージェント賞</a>
+
+    </li>
+    
+    <li>
+    
+<!-- https://www.anlp.jp/guide/guideline.html -->
+    中石海.<br />
+<strong>Zipf則の頑健性――『残像に口紅を』を題材に</strong>.<br />
+    <i class="fa-solid fa-person-chalkboard"></i>
+    ポスター発表,
+    
+    <a href="https://yans.anlp.jp/entry/yans2026" target="_blank">第21回言語処理若手シンポジウム</a> (YANS 2026).
+    
+    仙台,
+    2026年8月.<br />
+
+
+
+
+    </li>
+    
+
+  </ol>
+
+</div>
+
+<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[自然言語処理分野の若手の会 YANS 2026 にて、本研究室のメンバーが関わる4件の研究発表がおこなわれます。]]></summary></entry><entry><title type="html">2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」</title><link href="https://yokoi-lab.net/preview/pr-118/posts/kazamasan-seminar/" rel="alternate" type="text/html" title="2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」" /><published>2026-06-19T00:00:00+00:00</published><updated>2026-06-19T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-118/posts/kazamasan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-118/posts/kazamasan-seminar/"><![CDATA[<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
+<p>6月19日（金）に少人数での研究会を国立国語研究所 @立川にて開催します。<br />
+リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。</p>
+<ul>
+  <li>日時：6月19日（金）16:00〜17:30</li>
+  <li>場所：国立国語研究所 @立川 <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a> 、2F 多目的室</li>
+  <li>発表者：風間正弘さん（Ubie株式会社 ; <a href="https://sites.google.com/view/masahiro-kazama/">https://sites.google.com/view/masahiro-kazama/</a>）</li>
+  <li>タイトル：AI for Research (Administration) 勉強会 〜Claudeを活用して〜</li>
+</ul>
+
+<hr />
+
+<h3 id="概要">概要</h3>
+<p>生成AIは、研究活動や事務手続きの現場でも「使える道具」になりつつあります。本勉強会では、AIによる業務効率化のトレンドと、Claudeを使った具体的な活用法を、講演とデモ（スライド作成・調査業務の自動化など）を交えてご紹介します。「興味はあるが何から始めればよいか分からない」という方も歓迎です。日々の業務を少し楽にするヒントをご提供できたら幸いです。</p>
+
+<h3 id="参加登録フォーム">参加登録フォーム　　</h3>
+<p>フォームには皆さまのAI利用状況や関心事を伺う項目を設けており、事前に講師の方へ共有する予定です。<br />
+以下のリンクより、参加申し込みと併せてご回答ください。（30名迄）<br />
+<del><a href="https://forms.gle/tLjYGUTW6fk2Hap38">https://forms.gle/tLjYGUTW6fk2Hap38</a></del>  　</p>
+
+<h3 id="開催当日セミナーの様子">開催当日セミナーの様子</h3>
+<p><img src="https://gyazo.com/cac10030557ff009e2ac2f13b35fb97b.jpg" alt="" width="400" />
+<img src="https://gyazo.com/1da233f20eb6d47bc8441b3b4464276f.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[6月19日(金)に少人数での研究会を国立国語研究所 @立川にて開催します。Ubie の風間さんより、AIによる研究活動の効率化や研究サポート活動の効率化を目指す内容で、Claude を用いたデモと講演をしていただきます。]]></summary></entry></feed>
