@@ -87,11 +87,17 @@ $program-abstract-scale: 0.9;
   .program {
     padding-inline: 0.75em;
   }
+  // the time sits above the talk here, so rows need more space between them than wrapped lines within a row
+  .program > details,
+  .program > .program__row--break {
+    padding-block: 0.5em;
+  }
   .program__row {
     grid-template-columns: minmax(0, 1fr);
   }
   .program__abstract {
     margin-left: $program-marker-width / $program-abstract-scale;
+    margin-bottom: 0.5em;
   }
 }
 
