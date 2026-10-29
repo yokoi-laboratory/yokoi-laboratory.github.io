@@ -7,15 +7,22 @@
 //       - Abstract (a nested list becomes the folded content)
 //     - 14:30–15:00 Break (no nested list: shown as a muted row)
 //
-// A list is converted only when it sits under an item starting with a bold PROGRAM_LABELS label (an emoji or symbol
-// before it is allowed: "📝 **プログラム**："), has 2+ items, and every item starts with a time ("13:30–14:30",
-// "13:30〜", "17:30", full-width digits allowed). Otherwise it stays an ordinary list, which is also what readers
-// without JavaScript see.
+// In a definition list the term is the label instead:
+//
+//   📝 プログラム
+//   : - 13:30–14:30 Speaker
+//     - 14:30–15:00 Break
+//
+// A list is converted only when it sits under an item starting with a bold PROGRAM_LABELS label, or in a definition
+// whose term is one (an emoji or symbol before the label is allowed: "📝 **プログラム**："), has 2+ items, and every
+// item starts with a time ("13:30–14:30", "13:30〜", "17:30", full-width digits allowed). Otherwise it stays an
+// ordinary list, which is also what readers without JavaScript see.
 (function () {
   var PROGRAM_LABELS = ["プログラム", "Program"];
   var MIN_ITEMS = 2;
   // text before the bold label without any letter or digit (an emoji, a symbol) counts as decoration
   var LETTER_OR_DIGIT = /[\p{L}\p{N}]/u;
+  var LEADING_DECORATION = /^[^\p{L}\p{N}]+/u;
   var TIME = "\\d{1,2}:\\d{2}(?!\\d)";
   var DASH = "[–—\\-~〜ー−―‐]";
   // after the time: a range ("–14:30"), an attached dash meaning open-ended ("〜"), or a spaced dash used only as a
@@ -73,6 +80,7 @@
 
   function labelOf(list) {
     var li = list.parentNode;
+    if (li && li.tagName === "DD") return termLabelOf(li);
     if (!li || li.tagName !== "LI") return "";
     // the label is the item's first content (after an optional decoration); it may be wrapped in <p> when the list has
     // blank lines
@@ -82,6 +90,13 @@
     if (first && first.nodeType === Node.TEXT_NODE && !LETTER_OR_DIGIT.test(first.nodeValue)) first = nextContent(first);
     if (!first || first.nodeName !== "STRONG") return "";
     return first.textContent.trim().replace(/[:：]$/, "");
+  }
+
+  // in a definition list the label is the term of the definition holding the list ("📝 プログラム" + ": - 13:30–...")
+  function termLabelOf(dd) {
+    var dt = dd.previousElementSibling;
+    if (!dt || dt.tagName !== "DT") return "";
+    return dt.textContent.trim().replace(LEADING_DECORATION, "").replace(/[:：]$/, "");
   }
 
   function firstContent(el) {
