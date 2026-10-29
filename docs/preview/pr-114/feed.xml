@@ -1,13 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-114/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-114/" rel="alternate" type="text/html" /><updated>2026-10-29T05:42:57+00:00</updated><id>https://yokoi-lab.net/preview/pr-114/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics</title><link href="https://yokoi-lab.net/preview/pr-114/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-114/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-114/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-114/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-114/" rel="alternate" type="text/html" /><updated>2026-10-29T05:54:55+00:00</updated><id>https://yokoi-lab.net/preview/pr-114/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics</title><link href="https://yokoi-lab.net/preview/pr-114/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-114/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-114/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
 
 <h2 id="学習ダイナミクスへの物理学的アプローチ深層学習の理解に向けて">学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて</h2>
 <p>12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。
 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。</p>
-<ul>
-  <li>📅 <strong>日時</strong>：2026年12月3日（木）13:30〜17:30</li>
-  <li>📍 <strong>場所</strong>：国立国語研究所 @立川 <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a></li>
-  <li>🗣️ <strong>講師</strong>：渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大）</li>
-  <li>📝 <strong>プログラム</strong>：
+
+<dl class="event-info">
+  <dt>📅 日時</dt>
+  <dd>2026年12月3日（木）13:30〜17:30</dd>
+  <dt>📍 場所</dt>
+  <dd>国立国語研究所 @立川 <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a></dd>
+  <dt>🗣️ 講師</dt>
+  <dd>渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大）</dd>
+  <dt>📝 プログラム</dt>
+  <dd>
     <ul>
       <li>13:30–14:30 渡邉大師
 「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）
@@ -30,9 +35,10 @@
         </ul>
       </li>
     </ul>
-  </li>
-  <li><strong>世話人</strong>：中石海（理研）、唐木田亮（産総研）、木下瞳（国語研）、横井祥（国語研）</li>
-</ul>
+  </dd>
+  <dt>世話人</dt>
+  <dd>中石海（理研）、唐木田亮（産総研）、木下瞳（国語研）、横井祥（国語研）</dd>
+</dl>
 
 <h3 id="️-参加登録フォーム要申込">🏃‍♀️ 参加登録フォーム（要申込）</h3>
 <p>ご参加いただける方は、以下のフォームよりご登録をお願いいたします。<br />
@@ -42,12 +48,18 @@
 
 <h2 id="english">Physics-Inspired Approaches to Learning Dynamics: Toward an Understanding of Deep Learning</h2>
 <p>The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approaches to Learning Dynamics: Toward an Understanding of Deep Learning,” will be held at the National Institute for Japanese Language and Linguistics (NINJAL) in Tachikawa on Thursday, December 3, 2026. We hope to provide a relaxed and informal setting for discussion. Anyone interested in the topic is welcome to attend. Please register in advance using the form below.</p>
-<ul>
-  <li>📅 <strong>Date and Time</strong>: Thursday, December 3, 2026, 13:30–17:30</li>
-  <li>📍 <strong>Venue</strong>: National Institute for Japanese Language and Linguistics (NINJAL), Tachikawa <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a></li>
-  <li>🗣️ <strong>Speakers</strong>: Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)</li>
-  <li>🌐 <strong>Language</strong>: All talks will be given in Japanese.</li>
-  <li>📝 <strong>Program</strong>:
+
+<dl class="event-info">
+  <dt>📅 Date and Time</dt>
+  <dd>Thursday, December 3, 2026, 13:30–17:30</dd>
+  <dt>📍 Venue</dt>
+  <dd>National Institute for Japanese Language and Linguistics (NINJAL), Tachikawa <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a></dd>
+  <dt>🗣️ Speakers</dt>
+  <dd>Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)</dd>
+  <dt>🌐 Language</dt>
+  <dd>All talks will be given in Japanese.</dd>
+  <dt>📝 Program</dt>
+  <dd>
     <ul>
       <li>13:30–14:30 Taishi Watanabe
 “Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)
@@ -70,9 +82,10 @@
         </ul>
       </li>
     </ul>
-  </li>
-  <li><strong>Organizers</strong>: Kai Nakaishi (RIKEN), Ryo Karakida (AIST), Hitomi Kinoshita (NINJAL), and Sho Yokoi (NINJAL)</li>
-</ul>
+  </dd>
+  <dt>Organizers</dt>
+  <dd>Kai Nakaishi (RIKEN), Ryo Karakida (AIST), Hitomi Kinoshita (NINJAL), and Sho Yokoi (NINJAL)</dd>
+</dl>
 
 <h3 id="️-registration-required">🏃‍♀️ Registration (Required)</h3>
 <p>Those wishing to attend are kindly requested to register using the form below.<br />
