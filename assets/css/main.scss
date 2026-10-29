@@ -90,3 +90,19 @@ $program-abstract-scale: 0.9;
     margin-left: $program-marker-width / $program-abstract-scale;
   }
 }
+
+// theme h4 (1.0625em) is barely smaller than h3 (1.125em): set it at body size with a left rule
+// screen only, so the theme's print sizes for headings stay in effect
+$h4-rule-width: 3px;
+
+@media screen {
+  .page__content > h4 {
+    margin-top: 1.5em;
+    padding-inline-start: 0.5em;
+    border-inline-start: $h4-rule-width solid mix($text-color, $background-color, 40%);
+    font-size: 1em;
+  }
+  .page__content > h3 + h4 {
+    margin-top: 0.75em;
+  }
+}
