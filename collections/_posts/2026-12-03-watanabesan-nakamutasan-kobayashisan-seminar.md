@@ -74,7 +74,6 @@ The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approa
 Organizers
 : Kai Nakaishi (RIKEN), Ryo Karakida (AIST), Hitomi Kinoshita (NINJAL), and Sho Yokoi (NINJAL)
 
-🏃‍♀️ How to Attend
-: Registration (Required)  
-  Those wishing to attend are kindly requested to register using the form below.  
+How to Attend
+: Those wishing to attend are kindly requested to register using the form below. Registration is Required.    
   <https://forms.gle/af9YJH5hdgMhvoTx9>
