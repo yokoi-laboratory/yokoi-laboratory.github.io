@@ -48,8 +48,8 @@ $program-marker-width: 1.2em; // must match the global summary padding-left in _
 $program-time-width: 7.5em;
 $program-column-gap: 0.75em;
 $program-abstract-scale: 0.9;
-$program-break-color: $gray; // lighter than $muted-text-color (used for the abstracts)
-$program-marker-color: mix(#fff, $gray, 30%); // the ▶ of a talk; darkens on hover
+$program-break-color: $gray; // lighter than the abstracts ($muted-text-color); 3.9:1 on white, below WCAG AA 4.5:1
+$program-marker-color: mix(#fff, $gray, 15%); // the ▶ of a talk, 3:1 on white; darkens on hover/focus
 
 .program {
   margin: 0.5em 0 1.5em;
@@ -72,12 +72,15 @@ $program-marker-color: mix(#fff, $gray, 30%); // the ▶ of a talk; darkens on h
 }
 .program__row--break {
   padding-left: $program-marker-width;
+}
+.program > .program__row--break {
   color: $program-break-color;
 }
 .program summary::before {
   color: $program-marker-color;
 }
-.program summary:hover::before {
+.program summary:hover::before,
+.program summary:focus-visible::before {
   color: $muted-text-color;
 }
 .program__time {
