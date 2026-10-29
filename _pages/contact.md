@@ -27,11 +27,12 @@ header:
 
 ### 💺 座って移動したい方向けの tips
 
-#### 大宮から
-- 大宮〜立川を直通で繋ぐ「むさしの号」が1日数本だけ運行されています．
-- 大宮発
+#### 大宮駅から
+- 大宮駅〜立川駅を直通で繋ぐ「むさしの号」が1日数本だけ運行されています．
+- 平日と土日でダイヤが異なるのでご注意ください．
+- 大宮駅発
   - 始発駅です．10分程度前に駅に着けば座れる場合が多いです．
   - 時刻表（NAVITIME）：[大宮 → 立川](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00005564&arrival=00008990&line=00000920&updown=0)
-- 立川発
+- 立川駅発
   - 始発駅ではありません．が，10分程度前に駅に着けば座れる場合が多いです．
   - 時刻表（NAVITIME）：[立川 → 大宮](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00008990&arrival=00005564&line=00000176&updown=0)
