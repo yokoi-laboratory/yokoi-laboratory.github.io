@@ -91,8 +91,8 @@ $program-abstract-scale: 0.9;
   }
 }
 
-// seminar overview: a kramdown definition list with {: .event-info}, label column + value column
-// markup: dl.event-info > dt ("📅 日時") + dd; a dd holding the program table spans both columns
+// seminar overview: a kramdown definition list with {: .event-info}, label column + value column (stacked on narrow
+// screens); markup: dl.event-info > dt ("📅 日時") + dd; a dd holding a list (the program) spans both columns
 $event-info-column-gap: 1em;
 
 .page__content .event-info {
@@ -111,13 +111,36 @@ $event-info-column-gap: 1em;
     font-size: 1em;
     min-width: 0;
     overflow-wrap: anywhere;
+
+    > p:last-child {
+      margin-bottom: 0;
+    }
   }
 
-  dd:has(> .program) {
+  // also matches before program.js has run (or without JavaScript), so the layout does not jump
+  dd:has(> .program),
+  dd:has(> ul),
+  dd:has(> ol) {
     grid-column: 1 / -1;
   }
 
   dd > .program {
-    margin-top: 0;
+    margin: 0.15em 0 0.5em;
+  }
+}
+
+@include breakpoint(max-width $small - 1px) {
+  .page__content .event-info {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 0;
+
+    dt {
+      white-space: normal;
+    }
+
+    dd {
+      margin-bottom: 0.5em;
+      padding-left: 1em;
+    }
   }
 }
