@@ -15,9 +15,9 @@ header:
 ## 学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて
 12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。
 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。
-- 📅 2026年12月3日（木）13:30〜17:30
-- 📍 国立国語研究所 @立川 <https://www.ninjal.ac.jp/utility/access/>
-- 🗣️ 渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大）
+- 📅 **日時**：2026年12月3日（木）13:30〜17:30
+- 📍 **場所**：国立国語研究所 @立川 <https://www.ninjal.ac.jp/utility/access/>
+- 🗣️ **講師**：渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大）
 - 📝 **プログラム**：
   - 13:30–14:30 渡邉大師
     「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）
@@ -40,9 +40,9 @@ header:
 
 ## Physics-Inspired Approaches to Learning Dynamics: Toward an Understanding of Deep Learning {#english}
 The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approaches to Learning Dynamics: Toward an Understanding of Deep Learning,” will be held at the National Institute for Japanese Language and Linguistics (NINJAL) in Tachikawa on Thursday, December 3, 2026. We hope to provide a relaxed and informal setting for discussion. Anyone interested in the topic is welcome to attend. Please register in advance using the form below.
-- 📅 Thursday, December 3, 2026, 13:30–17:30
-- 📍 National Institute for Japanese Language and Linguistics (NINJAL), Tachikawa <https://www.ninjal.ac.jp/utility/access/>
-- 🗣️ Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)
+- 📅 **Date and Time**: Thursday, December 3, 2026, 13:30–17:30
+- 📍 **Venue**: National Institute for Japanese Language and Linguistics (NINJAL), Tachikawa <https://www.ninjal.ac.jp/utility/access/>
+- 🗣️ **Speakers**: Taishi Watanabe (Kyoto U.), Asahi Nakamuta (Kyoto U.), and Shuta Kobayashi (Kyoto U.)
 - 🌐 **Language**: All talks will be given in Japanese.
 - 📝 **Program**:
   - 13:30–14:30 Taishi Watanabe
