@@ -28,6 +28,7 @@ header:
 ### 💺 座って移動したい方向けの tips
 
 #### 大宮から
-- 大宮〜立川間には，武蔵野線経由で直通する列車「むさしの号」（大宮〜八王子）が 1 日数本あります．乗り換えなしで所要約 40〜50 分です．
-- 大宮は始発駅なので，大宮から乗ると座りやすいです．
-- 時刻表（NAVITIME）：[大宮 → 立川](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00005564&arrival=00008990&line=00000920&updown=0) ／ [立川 → 大宮](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00008990&arrival=00005564&line=00000176&updown=0)
+- 大宮〜立川を直通で繋ぐ「むさしの号」が1日数本だけ運行されています．
+- 大宮側は始発駅です．10分程度前に駅に着けば，座れる場合が多いです．
+- 立川側は始発駅ではありません．が，10分程度前に駅に着けば座れる場合が多いです．
+- 時刻表（NAVITIME）：[大宮 → 立川](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00005564&arrival=00008990&line=00000920&updown=0) / [立川 → 大宮](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00008990&arrival=00005564&line=00000176&updown=0)
