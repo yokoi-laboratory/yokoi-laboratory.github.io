@@ -90,3 +90,34 @@ $program-abstract-scale: 0.9;
     margin-left: $program-marker-width / $program-abstract-scale;
   }
 }
+
+// seminar overview: a kramdown definition list with {: .event-info}, label column + value column
+// markup: dl.event-info > dt ("📅 日時") + dd; a dd holding the program table spans both columns
+$event-info-column-gap: 1em;
+
+.page__content .event-info {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  gap: 0.35em $event-info-column-gap;
+  margin: 1em 0 1.5em;
+
+  dt {
+    margin: 0;
+    white-space: nowrap;
+  }
+
+  dd {
+    margin: 0;
+    font-size: 1em;
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  dd:has(> .program) {
+    grid-column: 1 / -1;
+  }
+
+  dd > .program {
+    margin-top: 0;
+  }
+}
