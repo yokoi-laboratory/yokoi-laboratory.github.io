@@ -9,6 +9,7 @@ website: https://gerou61.github.io/
 image: https://i.gyazo.com/c0760fe82faf0e75eb63af7435c33780.jpg
 positions: 
   - "Ph.D. Student"
+  - "Part-time Researcher (RA)"
 begin_year: 2026
 begin_month: 4
 end_year:
