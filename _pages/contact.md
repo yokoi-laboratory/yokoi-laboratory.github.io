@@ -35,10 +35,10 @@ header:
 - 川崎駅〜立川駅が **JR 南武線** で直通で繋がっており，かつ両方向とも始発駅です．
   - 片道1時間程度です．
   - 羽田空港から立川駅に来られる際は，京急線で京急川崎駅まで行き，その後 JR 川崎駅から南武線に乗り換えられます．
-- 川崎駅発
+- 川崎駅 → 立川駅
   - 始発駅です．10分に1本程度の便があり，混んでいる時間帯でも1本待てば座れることが多いです．
   - 時刻表（NAVITIME）：[川崎 → 立川](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00005203&arrival=00008990&line=00000192&updown=1)
-- 立川駅発
+- 立川駅 → 川崎駅
   - 始発駅です．10分に1本程度の便があり，混んでいる時間帯でも1本待てば座れることが多いです．
   - 時刻表（NAVITIME）：[立川 → 川崎](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00008990&arrival=00005203&line=00000192&updown=0)
 
@@ -46,9 +46,9 @@ header:
 - 大宮駅〜立川駅を直通で繋ぐ **JR 武蔵野線「むさしの号」** が1日に数本だけ運行されています．
   - 平日と土日でダイヤが異なるのでご注意ください．
   - 
-- 大宮駅発
+- 大宮駅 → 立川駅
   - 始発駅です．10分程度前に駅に着けば座れる場合が多いです．
   - 時刻表（NAVITIME）：[大宮 → 立川](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00005564&arrival=00008990&line=00000920&updown=0)
-- 立川駅発
+- 立川駅 → 大宮駅
   - 始発駅ではありません．が，10分程度前に駅に着けば座れる場合が多いです．
   - 時刻表（NAVITIME）：[立川 → 大宮](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00008990&arrival=00005564&line=00000176&updown=0)
