@@ -45,7 +45,6 @@ header:
 #### 大宮駅から
 - 大宮駅〜立川駅を直通で繋ぐ **JR 武蔵野線「むさしの号」** が1日に数本だけ運行されています．
   - 平日と土日でダイヤが異なるのでご注意ください．
-  - 
 - 大宮駅 → 立川駅
   - 始発駅です．10分程度前に駅に着けば座れる場合が多いです．
   - 時刻表（NAVITIME）：[大宮 → 立川](https://www.navitime.co.jp/diagram/depArrTimeList?departure=00005564&arrival=00008990&line=00000920&updown=0)
