@@ -1,4 +1,10 @@
 var store = [{
+        "title": "ACL Rolling Review (ARR) May 2026",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-97/awards/2026-10-21-emnlp-outstanding-reviewer-kamoda/",
+        "teaser": null
+      },{
         "title": "言語の表現空間の形, 数理科学 2025年10月号 No.748「データの幾何学と機械学習-データの「近さ」や「繋がり」を捉える-」",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -17,7 +23,7 @@ var store = [{
         "url": "/preview/pr-97/books/202511-book-murphy2/",
         "teaser": null
       },{
-        "title": "言語の連続表現と最適輸送, システム/制御/情報 Vol. 70 No.9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号",
+        "title": "「言語の連続表現と最適輸送」, 『システム/制御/情報』 Vol. 70 No.9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-97/books/202609-article-SCI/",
@@ -143,6 +149,18 @@ var store = [{
         "url": "/preview/pr-97/domesticConferences/202608-yans-nakaishi/",
         "teaser": null
       },{
+        "title": "言語の階層構造と情報圧縮",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-97/domesticConferences/202610-ibis-ishii/",
+        "teaser": null
+      },{
+        "title": "タスク算術の成否をパラメータ空間の幾何構造から捉える",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-97/domesticConferences/202610-ibis-lee/",
+        "teaser": null
+      },{
         "title": "SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -201,6 +219,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-97/internationalConferences/202610-emnlp-kiya/",
+        "teaser": null
+      },{
+        "title": "RoPE Is Not a Proper Relative Position Embedding",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-97/internationalConferences/202612-neurips-oka/",
         "teaser": null
       },{
         "title": "言語モデルの内部機序：解析と解釈",
@@ -366,14 +390,38 @@ var store = [{
         "teaser": null
       },{
         "title": "2026年9月10日(木) 国語研数理セミナー #3：大塚淳さん、道田蒼人さん、福水健次さん「言語と不変性・同変性」",
-        "excerpt":"国語研数理セミナーのお知らせ  9月10日（木）に「言語と不変性・同変性」というセミナーを国立国語研究所 @ 立川にて開催します。 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。     日時：2026年9月10日（木）10:15〜14:30   場所：国立国語研究所 @立川 https://www.ninjal.ac.jp/utility/access/   講師：大塚淳さん（ZEN大学）、道田蒼人さん（京都大学）、福水健次さん（統計数理研究所）   タイトル：言語と不変性・同変性   プログラム：  10:15–11:45 (90 min) 大塚さん ・道田さん「言語の合成性と同変性：群論的アプローチ」   11:45–13:30　昼休み   13:30–14:30 (60 min) 福水さん「同変性を用いた表現学習」     概要  大塚さん ・道田さん「言語の合成性と同変性：群論的アプローチ」   言語の本質的な特徴はその生産性、すなわち語を組み合わせることで無数の文を作り出せることにある。フレーゲ以来、哲学者はこの生産性を合成性、すなわち記号を組み合わせる構文的ルール（文法）の観点から解明しようと試みてきた。一方、言語哲学者のMillikanは、合成性ではなく、記号の変換と指示対象の変換の間の一致によって生産性を捉えようとしてきた。本発表では、これを群作用の不変性（invariance）および同変性（equivariance）として定式化することで、哲学的な言語表象理論を、機械学習における対称性学習とパラレルに捉えることを提案する。またその上で、群表現の既約分解を通じて、言語の文法性を切り出していくことの可能性を探る。   福水さん「同変性を用いた表現学習」   表現学習はデータからの知識表現の有効な方法であり、人工知能の基礎技術として広く利用されている。本講演では幾何学的・代数的な知識をデータを通して表現学習に組み込む研究として、データ空間に群が作用すると仮定して、作用に対する同変性を利用した表現学習に関して議論する。特に、群の作用が明示的に与えられていない場合に対しても表現学習を可能とするNeural Fourier変換の方法に関して紹介を行う。この方法は、Autoencoderを用いて、群作用に関して同変性を持つよう潜在表現を学習し、潜在空間では群作用が線形変換となるような表現学習を行う。方法の有効性を示すとともに、群の表現論を通したFourier変換との関係に関して説明する。時間が許せば群以外の作用の場合への発展も論じたい。   参加登録フォーム（要申込）  ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  https://forms.gle/tLjYGUTW6fk2Hap38  　   開催当日セミナーの様子              ","categories": ["Talk"],
+        "excerpt":"国語研数理セミナーのお知らせ  9月10日（木）に「言語と不変性・同変性」というセミナーを国立国語研究所 @ 立川にて開催します。 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。     日時：2026年9月10日（木）10:15〜14:30   場所：国立国語研究所 @立川 https://www.ninjal.ac.jp/utility/access/   講師：大塚淳さん（ZEN大学）、道田蒼人さん（京都大学）、福水健次さん（統計数理研究所）   タイトル：言語と不変性・同変性   プログラム：  10:15–11:45 (90 min) 大塚さん ・道田さん「言語の合成性と同変性：群論的アプローチ」   11:45–13:30　昼休み   13:30–14:30 (60 min) 福水さん「同変性を用いた表現学習」     概要  大塚さん ・道田さん「言語の合成性と同変性：群論的アプローチ」   言語の本質的な特徴はその生産性、すなわち語を組み合わせることで無数の文を作り出せることにある。フレーゲ以来、哲学者はこの生産性を合成性、すなわち記号を組み合わせる構文的ルール（文法）の観点から解明しようと試みてきた。一方、言語哲学者のMillikanは、合成性ではなく、記号の変換と指示対象の変換の間の一致によって生産性を捉えようとしてきた。本発表では、これを群作用の不変性（invariance）および同変性（equivariance）として定式化することで、哲学的な言語表象理論を、機械学習における対称性学習とパラレルに捉えることを提案する。またその上で、群表現の既約分解を通じて、言語の文法性を切り出していくことの可能性を探る。   福水さん「同変性を用いた表現学習」   表現学習はデータからの知識表現の有効な方法であり、人工知能の基礎技術として広く利用されている。本講演では幾何学的・代数的な知識をデータを通して表現学習に組み込む研究として、データ空間に群が作用すると仮定して、作用に対する同変性を利用した表現学習に関して議論する。特に、群の作用が明示的に与えられていない場合に対しても表現学習を可能とするNeural Fourier変換の方法に関して紹介を行う。この方法は、Autoencoderを用いて、群作用に関して同変性を持つよう潜在表現を学習し、潜在空間では群作用が線形変換となるような表現学習を行う。方法の有効性を示すとともに、群の表現論を通したFourier変換との関係に関して説明する。時間が許せば群以外の作用の場合への発展も論じたい。   参加登録フォーム（要申込）  ご参加いただける方は、以下のフォームよりご登録をお願いいたします。  https://forms.gle/RzhUq7hFjUp5SpqL8  　   開催当日セミナーの様子              ","categories": ["Talk"],
         "tags": [],
         "url": "/preview/pr-97/posts/otsukasan-michidasan-fukumizusan-seminar/",
+        "teaser": null
+      },{
+        "title": "NeurIPS 2026 Position Paper Track 採択",
+        "excerpt":"機械学習の国際会議 The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) の Position Paper Track に、 本研究室のメンバーが関わる1件の論文が採択されました。 Yui Oka, Kyosuke Nishida, and Sho Yokoi RoPE Is Not a Proper Relative Position Embedding. TBA, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026 Position Paper Track). Sydney, Australia,...","categories": ["News"],
+        "tags": [],
+        "url": "/preview/pr-97/posts/neurips2026-publications/",
         "teaser": null
       },{
         "title": "大学院説明会（申込締切：9月14日正午）",
         "excerpt":"2026年9月28日（月）午後に、総合研究大学院大学 日本語言語科学コースの大学院説明会が開催されます。  本研究室を含む国語研での大学院生活にご関心のある方は、ぜひご参加ください。  個別面談を含め、参加申込の締切は2026年9月14日（月）正午です。     日時：2026年9月28日（月）午後   場所：国立国語研究所 @立川（アクセス）およびオンライン   参加申込：2026年9月14日（月）正午まで   詳細は国立国語研究所の案内ページをご覧ください：  https://www.ninjal.ac.jp/education/soken/admission/guidance/  ","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-97/posts/sokendai-guidance-2026-fall/",
+        "teaser": null
+      },{
+        "title": "ARR Outstanding Reviewer に選出",
+        "excerpt":"本研究室のメンバーが、ACL Rolling Review (ARR) の2026年5月サイクルにおける査読活動に対して、Outstanding Reviewer, EMNLP 2026 に選出されました。                                       Outstanding Reviewer, EMNLP 2026          — 2026年10月         Go Kamoda.       ACL Rolling Review (ARR) May 2026.     EMNLP 2026    ACL Rolling Review                    -&gt; Publications  ","categories": ["News"],
+        "tags": [],
+        "url": "/preview/pr-97/posts/arr-outstanding-reviewer/",
+        "teaser": null
+      },{
+        "title": "IBIS 2026 発表",
+        "excerpt":"2026年10月26日（月）から29日（木）にかけてソニックシティ（埼玉）で開催される 第29回情報論的学習理論ワークショップ (IBIS 2026) にて、 本研究室のメンバーが関わる以下2件の研究発表がおこなわれます。                                石井太河,     赤穗昭太郎,     栗木哲,     横井祥.  言語の階層構造と情報圧縮.           ポスター発表,          第29回情報論的学習理論ワークショップ (IBIS 2026).          埼玉,     2026年10月.                               李宰成,     中石海,     唐木田亮,     横井祥.  タスク算術の成否をパラメータ空間の幾何構造から捉える.           ポスター発表,          第29回情報論的学習理論ワークショップ (IBIS 2026).          埼玉,     2026年10月.                       -&gt; Publications  ","categories": ["News"],
+        "tags": [],
+        "url": "/preview/pr-97/posts/ibis2026-presentations/",
+        "teaser": null
+      },{
+        "title": "12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ<br>NINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics",
+        "excerpt":"English follows below. 学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて 12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。 📅 日時 2026年12月3日（木）13:30〜17:30 📍 場所 国立国語研究所 @立川 https://www.ninjal.ac.jp/utility/access/ 🗣️ 講師 渡邉大師さん（京大）、中牟田旭さん（京大）、小林秀太さん（京大） 📝 プログラム 13:30–14:30 渡邉大師「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮） 概要：TBA 14:30–15:00 休憩 15:00–16:00 中牟田旭「学習によって再編成されるニューラルネット内部表現のべき的非等方性」（仮） 概要：TBA 16:00–16:30 休憩 16:30–17:30 小林秀太「確率的勾配降下法におけるFisher情報流の速度限界」（仮） 概要：TBA 世話人 中石海（理研）、唐木田亮（産総研）、木下瞳（国語研）、横井祥（国語研） 参加方法 ご参加いただける方は、以下のフォームよりご登録をお願いいたします。要参加申込。 https://forms.gle/af9YJH5hdgMhvoTx9 Physics-Inspired Approaches to Learning Dynamics: Toward an Understanding of Deep Learning...","categories": ["Talk"],
+        "tags": [],
+        "url": "/preview/pr-97/posts/watanabesan-nakamutasan-kobayashisan-seminar/",
         "teaser": null
       }]
