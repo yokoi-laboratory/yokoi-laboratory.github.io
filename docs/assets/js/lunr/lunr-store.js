@@ -23,6 +23,12 @@ var store = [{
         "url": "/books/202511-book-murphy2/",
         "teaser": null
       },{
+        "title": "「言語の連続表現と最適輸送」,『システム/制御/情報』Vol. 70 No.9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/books/202609-article-SCI/",
+        "teaser": null
+      },{
         "title": "不均衡最適輸送を用いた意味変化検出",
         "excerpt":" ","categories": [],
         "tags": [],
