@@ -354,13 +354,13 @@ var store = [{
         "teaser": null
       },{
         "title": "ACL 2026 採択",
-        "excerpt":"自然言語処理の国際会議 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) に、 本研究室のメンバーが関わる2件の論文が採択されました。 Tomomasa Hara, Hiroto Kurita, Masaaki Imaizumi, Kentaro Inui, and Sho Yokoi Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, pages...","categories": ["News"],
+        "excerpt":"自然言語処理の国際会議 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) に、 本研究室のメンバーが関わる2件の論文が採択されました。 Tomomasa Hara, Hiroto Kurita, Masaaki Imaizumi, Kentaro Inui, and Sho Yokoi . Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics,...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-128/posts/acl2026-publications/",
         "teaser": null
       },{
         "title": "ICML 2026 採択",
-        "excerpt":"機械学習の国際会議 Forty-Third International Conference on Machine Learning (ICML 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Masataka Yoneda, Yusuke Matsushita, Go Kamoda, Kohei Suenaga, Takuya Akiba, Masaki Waga, and Sho Yokoi SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora. In Forty-third International Conference on Machine Learning, pages 149430-149463, July 2026. Poster, Forty-Third...","categories": ["News"],
+        "excerpt":"機械学習の国際会議 Forty-Third International Conference on Machine Learning (ICML 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Masataka Yoneda, Yusuke Matsushita, Go Kamoda, Kohei Suenaga, Takuya Akiba, Masaki Waga, and Sho Yokoi . SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora. In Forty-third International Conference on Machine Learning, pages 149430-149463, July 2026. Poster,...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-128/posts/icml2026-publications/",
         "teaser": null
@@ -384,7 +384,7 @@ var store = [{
         "teaser": null
       },{
         "title": "EMNLP 2026 採択",
-        "excerpt":"自然言語処理の国際会議 The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Raito Kiya, Satoki Ohashi, Kosuke Sato, Go Kamoda, Ryosuke Takahashi, Yuji Yamamoto, Daiki Shiono, Keisuke Sakaguchi, and Goro Kobayashi It's Not RoPE That Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention. In Proceedings...","categories": ["News"],
+        "excerpt":"自然言語処理の国際会議 The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Raito Kiya, Satoki Ohashi, Kosuke Sato, Go Kamoda, Ryosuke Takahashi, Yuji Yamamoto, Daiki Shiono, Keisuke Sakaguchi, and Goro Kobayashi . It's Not RoPE That Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention. In...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-128/posts/emnlp2026-publications/",
         "teaser": null
@@ -396,7 +396,7 @@ var store = [{
         "teaser": null
       },{
         "title": "NeurIPS 2026 Position Paper Track 採択",
-        "excerpt":"機械学習の国際会議 The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) の Position Paper Track に、 本研究室のメンバーが関わる1件の論文が採択されました。 Yui Oka, Kyosuke Nishida, and Sho Yokoi RoPE Is Not a Proper Relative Position Embedding. TBA, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026 Position Paper Track). Sydney, Australia,...","categories": ["News"],
+        "excerpt":"機械学習の国際会議 The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) の Position Paper Track に、 本研究室のメンバーが関わる1件の論文が採択されました。 Yui Oka, Kyosuke Nishida, and Sho Yokoi . RoPE Is Not a Proper Relative Position Embedding. TBA, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026 Position Paper Track). Sydney,...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-128/posts/neurips2026-publications/",
         "teaser": null
