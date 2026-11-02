@@ -7,6 +7,6 @@ year: 2026
 links:
 
 - label: "URL"
-url: "https://www.iscie.or.jp/pub/journal/toc#journal"
+url: "https://www.iscie.or.jp/pub/journal/toc"
 
 ---
