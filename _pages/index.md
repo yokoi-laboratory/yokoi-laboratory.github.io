@@ -77,7 +77,7 @@ excerpt: ""
       <a class="btn">Talks</a>
     </li>
     <li class="visible-links">
-      <a class="btn">Blogs</a>
+      <a class="btn">Blog</a>
     </li>
   </ul>
   <div class="tab-content">
@@ -88,7 +88,7 @@ excerpt: ""
         {% include documents-collection.html entries=posts type=entries_layout %}
       </div>
       {% if site.posts.size > site.pagination.per_page %}
-        <a href="/post/" class="btn btn--primary">See all</a>
+        <a href="/posts/" class="btn btn--primary">See all</a>
       {% endif %}
     </div>
 
@@ -112,7 +112,7 @@ excerpt: ""
       </div>
 
       {% if talks.size > site.pagination.per_page %}
-        <a href="/talk/" class="btn btn--primary">See all</a>
+        <a href="/talks/" class="btn btn--primary">See all</a>
       {% endif %}
     </div>
     <div style="display:none;">

@@ -190,6 +190,8 @@ exclude:
   - package-lock.json
   - Rakefile
   - README
+  - AGENTS.md
+  - CLAUDE.md
   - scripts
   - tmp
   - /docs # ignore Minimal Mistakes /docs
@@ -242,7 +244,7 @@ pagination:
   enabled: true
   debug: false
   collection: 'posts'
-  per_page: 5
+  per_page: 10
   permalink: '/page/:num/'
   title: ':title - page :num'
   limit: 0
@@ -327,6 +329,8 @@ defaults:
 
 collections_dir: collections
 collections:
+  awards:
+    output: false
   members:
     output: false
   internationalConferences:
