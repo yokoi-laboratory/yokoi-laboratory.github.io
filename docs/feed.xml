@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-11-02T07:59:47+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics</title><link href="https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/" rel="alternate" type="text/html" /><updated>2026-11-02T08:02:10+00:00</updated><id>https://yokoi-lab.net/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics</title><link href="https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
 
 <h2 id="学習ダイナミクスへの物理学的アプローチ深層学習の理解に向けて">学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて</h2>
 <p>12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。
@@ -135,7 +135,27 @@
 
 </div>
 
-<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[機械学習の国内学会 IBIS 2026 にて、本研究室のメンバーが関わる2件の研究発表がおこなわれます。]]></summary></entry><entry><title type="html">ARR Outstanding Reviewer に選出</title><link href="https://yokoi-lab.net/posts/arr-outstanding-reviewer/" rel="alternate" type="text/html" title="ARR Outstanding Reviewer に選出" /><published>2026-10-18T00:00:00+00:00</published><updated>2026-10-18T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/arr-outstanding-reviewer</id><content type="html" xml:base="https://yokoi-lab.net/posts/arr-outstanding-reviewer/"><![CDATA[<p>本研究室のメンバーが、<a href="https://aclrollingreview.org/">ACL Rolling Review (ARR)</a> の2026年5月サイクルにおける査読活動に対して、Outstanding Reviewer, EMNLP 2026 に選出されました。</p>
+<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[機械学習の国内学会 IBIS 2026 にて、本研究室のメンバーが関わる2件の研究発表がおこなわれます。]]></summary></entry><entry><title type="html">学会誌「システム／制御／情報」寄稿</title><link href="https://yokoi-lab.net/posts/article-SCI-publications/" rel="alternate" type="text/html" title="学会誌「システム／制御／情報」寄稿" /><published>2026-10-21T00:00:00+00:00</published><updated>2026-10-21T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/article-SCI-publications</id><content type="html" xml:base="https://yokoi-lab.net/posts/article-SCI-publications/"><![CDATA[<p>システム制御情報学会の学会誌<a href="https://www.iscie.or.jp/pub/journal/toc#journal">「システム／制御／情報」</a> に、横井先生の解説記事が掲載されました。</p>
+
+<div>
+  <ol>
+    
+    
+    <li>
+    
+and 
+    
+    横井祥
+<br /><strong>「言語の連続表現と最適輸送」,『システム/制御/情報』Vol. 70 No.9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号</strong>.<br />
+<a class="link-btn" href="" target="_blank"></a>
+    </li>
+    
+
+  </ol>
+
+</div>
+
+<p>-&gt; <a href="https://yokoi-lab.net/preview/pr-97/publications/#books">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[学会誌「システム／制御／情報」に、横井先生の解説記事が掲載されました。]]></summary></entry><entry><title type="html">ARR Outstanding Reviewer に選出</title><link href="https://yokoi-lab.net/posts/arr-outstanding-reviewer/" rel="alternate" type="text/html" title="ARR Outstanding Reviewer に選出" /><published>2026-10-18T00:00:00+00:00</published><updated>2026-10-18T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/arr-outstanding-reviewer</id><content type="html" xml:base="https://yokoi-lab.net/posts/arr-outstanding-reviewer/"><![CDATA[<p>本研究室のメンバーが、<a href="https://aclrollingreview.org/">ACL Rolling Review (ARR)</a> の2026年5月サイクルにおける査読活動に対して、Outstanding Reviewer, EMNLP 2026 に選出されました。</p>
 
 <div>
   <ul>
@@ -527,26 +547,4 @@ and
 
 </div>
 
-<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[自然言語処理分野の若手の会 YANS 2026 にて、本研究室のメンバーが関わる4件の研究発表がおこなわれます。]]></summary></entry><entry><title type="html">2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」</title><link href="https://yokoi-lab.net/posts/kazamasan-seminar/" rel="alternate" type="text/html" title="2026年6月19日(金) 国語研数理セミナー #2：風間正弘さん「AI for Research (Administration) 勉強会 〜Claudeを活用して〜」" /><published>2026-06-19T00:00:00+00:00</published><updated>2026-06-19T00:00:00+00:00</updated><id>https://yokoi-lab.net/posts/kazamasan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/posts/kazamasan-seminar/"><![CDATA[<h2 id="国語研数理セミナーのお知らせ">国語研数理セミナーのお知らせ</h2>
-<p>6月19日（金）に少人数での研究会を国立国語研究所 @立川にて開催します。<br />
-リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。</p>
-<ul>
-  <li>日時：6月19日（金）16:00〜17:30</li>
-  <li>場所：国立国語研究所 @立川 <a href="https://www.ninjal.ac.jp/utility/access/">https://www.ninjal.ac.jp/utility/access/</a> 、2F 多目的室</li>
-  <li>発表者：風間正弘さん（Ubie株式会社 ; <a href="https://sites.google.com/view/masahiro-kazama/">https://sites.google.com/view/masahiro-kazama/</a>）</li>
-  <li>タイトル：AI for Research (Administration) 勉強会 〜Claudeを活用して〜</li>
-</ul>
-
-<hr />
-
-<h3 id="概要">概要</h3>
-<p>生成AIは、研究活動や事務手続きの現場でも「使える道具」になりつつあります。本勉強会では、AIによる業務効率化のトレンドと、Claudeを使った具体的な活用法を、講演とデモ（スライド作成・調査業務の自動化など）を交えてご紹介します。「興味はあるが何から始めればよいか分からない」という方も歓迎です。日々の業務を少し楽にするヒントをご提供できたら幸いです。</p>
-
-<h3 id="参加登録フォーム">参加登録フォーム　　</h3>
-<p>フォームには皆さまのAI利用状況や関心事を伺う項目を設けており、事前に講師の方へ共有する予定です。<br />
-以下のリンクより、参加申し込みと併せてご回答ください。（30名迄）<br />
-<del><a href="https://forms.gle/tLjYGUTW6fk2Hap38">https://forms.gle/tLjYGUTW6fk2Hap38</a></del>  　</p>
-
-<h3 id="開催当日セミナーの様子">開催当日セミナーの様子</h3>
-<p><img src="https://gyazo.com/cac10030557ff009e2ac2f13b35fb97b.jpg" alt="" width="400" />
-<img src="https://gyazo.com/1da233f20eb6d47bc8441b3b4464276f.jpg" alt="" width="400" /></p>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[6月19日(金)に少人数での研究会を国立国語研究所 @立川にて開催します。Ubie の風間さんより、AIによる研究活動の効率化や研究サポート活動の効率化を目指す内容で、Claude を用いたデモと講演をしていただきます。]]></summary></entry></feed>
+<p>-&gt; <a href="/publications/#domestic-conferences">Publications</a></p>]]></content><author><name>Yokoi Lab</name></author><category term="News" /><summary type="html"><![CDATA[自然言語処理分野の若手の会 YANS 2026 にて、本研究室のメンバーが関わる4件の研究発表がおこなわれます。]]></summary></entry></feed>
