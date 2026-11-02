@@ -7,7 +7,7 @@
     {%- if forloop.last == false -%}
     ,
     {% endif %}
-{% endfor %}<br>
+{% endfor %}.<br>
 {%- assign last = publication.title | slice: -1, 1 -%}
 <strong>{{ publication.title }}</strong>{%- unless last == "." or last == "!" or last == "?" -%}.{%- endunless -%}<br>
 {%- if publication.paper -%}
