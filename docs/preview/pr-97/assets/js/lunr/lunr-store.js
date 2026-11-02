@@ -23,7 +23,7 @@ var store = [{
         "url": "/preview/pr-97/books/202511-book-murphy2/",
         "teaser": null
       },{
-        "title": "「言語の連続表現と最適輸送」, 『システム/制御/情報』 Vol. 70 No.9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号",
+        "title": "「言語の連続表現と最適輸送」,『システム/制御/情報』Vol. 70 No.9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-97/books/202609-article-SCI/",
