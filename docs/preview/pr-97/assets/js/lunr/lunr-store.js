@@ -5,7 +5,7 @@ var store = [{
         "url": "/preview/pr-97/awards/2026-10-21-emnlp-outstanding-reviewer-kamoda/",
         "teaser": null
       },{
-        "title": "「言語の表現空間の形」,『数理科学』2025年10月号 No.748「データの幾何学と機械学習-データの「近さ」や「繋がり」を捉える-」",
+        "title": "「言語の表現空間の形」,『数理科学』2025年10月号 No.748「データの幾何学と機械学習-データの「近さ」や「繋がり」を捉える-」特集号",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/preview/pr-97/books/202510-article-mathscience/",
