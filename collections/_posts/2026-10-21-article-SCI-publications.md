@@ -9,20 +9,17 @@ header:
   overlay_color: "#404040"
 ---
 
-システム制御情報学会の学会誌[「システム／制御／情報」](https://www.iscie.or.jp/pub/journal/toc#journal) に、横井先生の解説記事が掲載されました。
+システム制御情報学会の学会誌[「システム／制御／情報」](https://www.iscie.or.jp/pub/journal/toc)に、横井先生の解説記事が掲載されました。
 
 <div>
   <ol>
-    {% assign pubs = site.books
-        | where_exp: "item", "item.slug contains '202609-article-SCI'" %}
+    {% assign pubs = site.books | where_exp: "item", "item.slug contains '202609-article-SCI'" %}
     {% for publication in pubs %}
-    <li>
-    {% include pub-international-conf.html publication=publication %}
-    </li>
+      <li>
+        {% include pub-books.html book=publication %}
+      </li>
     {% endfor %}
-
   </ol>
-
 </div>
 
--> [Publications](https://yokoi-lab.net/preview/pr-97/publications/#books)
+-> [Publications](/publications/#books)
