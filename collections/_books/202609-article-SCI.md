@@ -5,8 +5,7 @@ authors: "横井祥"
 publisher: "一般社団法人 システム制御情報学会"
 year: 2026
 links:
-
-- label: "URL"
-url: "https://www.iscie.or.jp/pub/journal/toc#journal"
+  - label: "URL"
+    url: "https://www.iscie.or.jp/pub/journal/toc"
 
 ---
