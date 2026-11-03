@@ -1,13 +1,8 @@
 
-{% for author in publication.authors %}
-    {%- if forloop.last == true -%}
-    and 
-    {% endif %}
-    {{ author}}
-    {%- if forloop.last == false -%}
-    ,
-    {% endif %}
-{% endfor %}<br>
+{% for author in publication.authors -%}
+    {%- if forloop.last and forloop.length > 1 -%}and {% endif -%}
+    {{ author }}{%- if forloop.last == false -%}, {% endif -%}
+{%- endfor -%}.<br>
 {%- assign last = publication.title | slice: -1, 1 -%}
 <strong>{{ publication.title }}</strong>{%- unless last == "." or last == "!" or last == "?" -%}.{%- endunless -%}<br>
 {%- if publication.paper -%}

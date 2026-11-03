@@ -9,10 +9,9 @@
 {%- if forloop.last == false -%}
 ,
 {% endif %}
-{% endfor %}
-({{ book.year }}).<br>
+{% endfor %}<br>
 <strong>{{ book.title }}</strong>.<br>
-{{ book.publisher }}.<br>
+{{ book.publisher }}, {{ book.year }}.<br>
 
 {% if book.links %}
     {%- for link in book.links -%}
