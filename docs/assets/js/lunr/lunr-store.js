@@ -354,13 +354,13 @@ var store = [{
         "teaser": null
       },{
         "title": "ACL 2026 採択",
-        "excerpt":"自然言語処理の国際会議 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) に、 本研究室のメンバーが関わる2件の論文が採択されました。 Tomomasa Hara, Hiroto Kurita, Masaaki Imaizumi, Kentaro Inui, and Sho Yokoi Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, pages...","categories": ["News"],
+        "excerpt":"自然言語処理の国際会議 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) に、 本研究室のメンバーが関わる2件の論文が採択されました。 Tomomasa Hara, Hiroto Kurita, Masaaki Imaizumi, Kentaro Inui, and Sho Yokoi. Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, pages...","categories": ["News"],
         "tags": [],
         "url": "/posts/acl2026-publications/",
         "teaser": null
       },{
         "title": "ICML 2026 採択",
-        "excerpt":"機械学習の国際会議 Forty-Third International Conference on Machine Learning (ICML 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Masataka Yoneda, Yusuke Matsushita, Go Kamoda, Kohei Suenaga, Takuya Akiba, Masaki Waga, and Sho Yokoi SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora. In Forty-third International Conference on Machine Learning, pages 149430-149463, July 2026. Poster, Forty-Third...","categories": ["News"],
+        "excerpt":"機械学習の国際会議 Forty-Third International Conference on Machine Learning (ICML 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Masataka Yoneda, Yusuke Matsushita, Go Kamoda, Kohei Suenaga, Takuya Akiba, Masaki Waga, and Sho Yokoi. SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora. In Forty-third International Conference on Machine Learning, pages 149430-149463, July 2026. Poster, Forty-Third...","categories": ["News"],
         "tags": [],
         "url": "/posts/icml2026-publications/",
         "teaser": null
@@ -384,7 +384,7 @@ var store = [{
         "teaser": null
       },{
         "title": "EMNLP 2026 採択",
-        "excerpt":"自然言語処理の国際会議 The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Raito Kiya, Satoki Ohashi, Kosuke Sato, Go Kamoda, Ryosuke Takahashi, Yuji Yamamoto, Daiki Shiono, Keisuke Sakaguchi, and Goro Kobayashi It's Not RoPE That Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention. In Proceedings...","categories": ["News"],
+        "excerpt":"自然言語処理の国際会議 The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) に、 本研究室のメンバーが関わる1件の論文が採択されました。 Raito Kiya, Satoki Ohashi, Kosuke Sato, Go Kamoda, Ryosuke Takahashi, Yuji Yamamoto, Daiki Shiono, Keisuke Sakaguchi, and Goro Kobayashi. It's Not RoPE That Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention. In Proceedings...","categories": ["News"],
         "tags": [],
         "url": "/posts/emnlp2026-publications/",
         "teaser": null
@@ -396,7 +396,7 @@ var store = [{
         "teaser": null
       },{
         "title": "NeurIPS 2026 Position Paper Track 採択",
-        "excerpt":"機械学習の国際会議 The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) の Position Paper Track に、 本研究室のメンバーが関わる1件の論文が採択されました。 Yui Oka, Kyosuke Nishida, and Sho Yokoi RoPE Is Not a Proper Relative Position Embedding. TBA, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026 Position Paper Track). Sydney, Australia,...","categories": ["News"],
+        "excerpt":"機械学習の国際会議 The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) の Position Paper Track に、 本研究室のメンバーが関わる1件の論文が採択されました。 Yui Oka, Kyosuke Nishida, and Sho Yokoi. RoPE Is Not a Proper Relative Position Embedding. TBA, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026 Position Paper Track). Sydney, Australia,...","categories": ["News"],
         "tags": [],
         "url": "/posts/neurips2026-publications/",
         "teaser": null
@@ -414,7 +414,7 @@ var store = [{
         "teaser": null
       },{
         "title": "学会誌「システム／制御／情報」寄稿",
-        "excerpt":"システム制御情報学会の学会誌「システム／制御／情報」に、横井先生の解説記事が掲載されました。                                 横井祥.  (2026).  「言語の連続表現と最適輸送」,『システム/制御/情報』Vol. 70 No.9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号.  一般社団法人 システム制御情報学会.   URL                  -&gt; Publications  ","categories": ["News"],
+        "excerpt":"システム制御情報学会の学会誌「システム／制御／情報」に、横井先生の解説記事が掲載されました。                                 横井祥.   「言語の連続表現と最適輸送」,『システム/制御/情報』Vol. 70 No.9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号.  一般社団法人 システム制御情報学会, 2026.   URL                  -&gt; Publications  ","categories": ["News"],
         "tags": [],
         "url": "/posts/article-SCI-publications/",
         "teaser": null
