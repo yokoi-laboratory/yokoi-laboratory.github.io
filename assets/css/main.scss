@@ -43,7 +43,7 @@ search: false
 }
 
 // seminar program: time column + talk column; each talk can fold out its abstract
-// markup: .program > (details > summary > .program__row) | .program__row--break; a thin box, no lines between rows
+// markup: .program > (details > summary > .program__row) | .program__row--plain (no abstract; also --break when muted); a thin box, no lines between rows
 $program-marker-width: 1.2em; // must match the global summary padding-left in _page.scss
 $program-time-width: 7.5em;
 $program-column-gap: 0.75em;
@@ -57,7 +57,7 @@ $program-break-color: mix($gray, $muted-text-color, 50%); // lighter than the ab
   border-radius: $border-radius;
 }
 .program > details,
-.program > .program__row--break {
+.program > .program__row--plain {
   padding-block: 0.35em;
 }
 .program__row {
@@ -69,7 +69,7 @@ $program-break-color: mix($gray, $muted-text-color, 50%); // lighter than the ab
   min-width: 0;
   overflow-wrap: anywhere;
 }
-.program__row--break {
+.program__row--plain {
   padding-left: $program-marker-width;
 }
 .program > .program__row--break {
@@ -92,7 +92,7 @@ $program-break-color: mix($gray, $muted-text-color, 50%); // lighter than the ab
   }
   // the time sits above the talk here, so rows need more space between them than wrapped lines within a row
   .program > details,
-  .program > .program__row--break {
+  .program > .program__row--plain {
     padding-block: 0.5em;
   }
   .program__row {
