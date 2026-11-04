@@ -5,7 +5,8 @@
 //     - 13:30–14:30 Speaker
 //       Talk title
 //       - Abstract (a nested list becomes the folded content)
-//     - 14:30–15:00 Break (no nested list: shown as a muted row)
+//     - 14:30–15:00 Break (no nested list, starts with a NON_TALK_WORDS word: a muted row)
+//     - 15:00–16:00 Speaker (no nested list otherwise: a plain row without the fold marker)
 //
 // In a definition list the term is the label instead:
 //
@@ -20,6 +21,22 @@
 (function () {
   var PROGRAM_LABELS = ["プログラム", "Program"];
   var MIN_ITEMS = 2;
+  // a row without an abstract is muted only when the text after its time starts with one of these (case-insensitive;
+  // a Latin word may take a plural "s" and must end there, so "Breaking" does not match); other rows without an abstract
+  // are talks shown in the normal color
+  var NON_TALK_WORDS = [
+    "休憩", "昼休み", "昼食", "開会", "閉会", "受付", "懇親会",
+    "break", "lunch", "coffee", "tea", "opening", "closing", "registration", "reception"
+  ];
+  var NON_TALK_PATTERN = new RegExp(
+    "^\\s*(?:" +
+      NON_TALK_WORDS.map(function (word) {
+        var escaped = word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+        return /[a-z]$/i.test(word) ? escaped + "s?\\b" : escaped;
+      }).join("|") +
+      ")",
+    "i"
+  );
   // text before the bold label without any letter or digit (an emoji, a symbol) counts as decoration
   var LETTER_OR_DIGIT = /[\p{L}\p{N}]/u;
   var LEADING_DECORATION = /^[^\p{L}\p{N}]+/u;
@@ -225,8 +242,10 @@
         details.appendChild(buildAbstract(nested));
         program.appendChild(details);
       } else {
+        var isBreak = NON_TALK_PATTERN.test(headText(li).slice(parseTime(li).length));
         var row = buildRow(li, "div");
-        row.className += " program__row--break";
+        row.className += " program__row--plain";
+        if (isBreak) row.className += " program__row--break";
         program.appendChild(row);
       }
     });
