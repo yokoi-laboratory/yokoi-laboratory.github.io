@@ -33,8 +33,8 @@ header:
   - 15:00–16:00 中牟田旭「学習によって再編成されるニューラルネット内部表現のべき的非等方性」
     - 概要：最先端のLLMから大脳新皮質に至るまで、様々なニューラルネットの内部表現がべき的な非等方性を示すことが確認されている。この特徴的な非等方性は高次元の情報処理とその学習において重要な役割を果たすと目されているが、その形成メカニズムは未解明な点が多い。そこで本研究では可解なモデルを用いて、入力と教師の学習によってべき的な非等方性が形成される過程を解析し、最大で4つのべき指数が現れることを明らかにする。
   - 16:00–16:30 休憩
-  - 16:30–17:30 小林秀太「確率的勾配降下法におけるFisher情報流の速度限界」（仮）
-    - 概要：TBA
+  - 16:30–17:30 小林秀太「SGDにおける情報獲得の速度限界 ―ゆらぎの熱力学からのアプローチ―」
+    - 概要：ニューラルネットワークが学習して内部表現を獲得する過程は、データからパラメータへ情報が流れることで駆動される非平衡ダイナミクスであり、これは最近のゆらぎの熱力学において中心的課題であった。本研究では、確率的勾配降下法(SGD)を近似する確率的な学習ダイナミクスを対象に、学習パラメータがデータ生成パラメータについて獲得するFisher情報の速度限界を導出する。さらに、解析的に扱える基底関数線形回帰においてこの上界を検証し、上界が、様々なデータ生成パラメータが学習パラメータに符号化される順序および特徴的な時間スケールを再現することを示した。これらの結果は、Fisher情報の速度限界を、データ生成過程のどの特性が、どのような順序で、そしてどの程度の速さで学習可能なパラメータに符号化されるかを理解するための定量的枠組みとして確立するものである。
 
 世話人
 : 中石海（理研）、唐木田亮（産総研）、木下瞳（国語研）、横井祥（国語研）
@@ -67,8 +67,8 @@ The NINJAL Mathematical Sciences Seminar #4, entitled “Physics-Inspired Approa
   - 14:30–15:00 Break
   - 15:00–16:00 Asahi Nakamuta: “Learning reshapes power-law anisotropy in internal representations”
   - 16:00–16:30 Break
-  - 16:30–17:30 Shuta Kobayashi: “Fisher-Information Flow Speed Limits in Stochastic Gradient Descent” (tentative)
-    - Abstract: TBA
+  - 16:30–17:30 Shuta Kobayashi: “Speed Limits for Information Acquisition in SGD: An Approach Based on Stochastic Thermodynamics”
+    - Abstract: The process by which neural networks acquire internal representations through learning can be viewed as nonequilibrium dynamics driven by information flow from data to trainable parameters, a phenomenon that has been a central topic in recent studies of stochastic thermodynamics. In this work, we derive a speed limit on the rate at which trainable parameters acquire Fisher information about data-generating parameters, considering stochastic learning dynamics that approximate stochastic gradient descent (SGD). We further verify this bound in analytically tractable basis-function linear regression, demonstrating that it reproduces both the ordering and characteristic time scales with which different data-generating parameters are encoded in the trainable parameters. These results establish Fisher-information speed limits as a quantitative framework for understanding which properties of the data-generating process are acquired, in what order, and how rapidly they can be encoded in the trainable parameters.
 
 Organizers
 : Kai Nakaishi (RIKEN), Ryo Karakida (AIST), Hitomi Kinoshita (NINJAL), and Sho Yokoi (NINJAL)
