@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-134/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-134/" rel="alternate" type="text/html" /><updated>2026-11-08T05:43:09+00:00</updated><id>https://yokoi-lab.net/preview/pr-134/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics</title><link href="https://yokoi-lab.net/preview/pr-134/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-134/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-134/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yokoi-lab.net/preview/pr-134/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yokoi-lab.net/preview/pr-134/" rel="alternate" type="text/html" /><updated>2026-11-08T05:50:55+00:00</updated><id>https://yokoi-lab.net/preview/pr-134/feed.xml</id><title type="html">Yokoi Lab @ NINJAL</title><subtitle>Yokoi Lab @ NINJAL, Tokyo, Japan / 横井研究室 @ 国立国語研究所</subtitle><author><name>Yokoi Lab</name></author><entry><title type="html">12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics</title><link href="https://yokoi-lab.net/preview/pr-134/posts/watanabesan-nakamutasan-kobayashisan-seminar/" rel="alternate" type="text/html" title="12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチNINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics" /><published>2026-12-03T00:00:00+00:00</published><updated>2026-12-03T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-134/posts/watanabesan-nakamutasan-kobayashisan-seminar</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-134/posts/watanabesan-nakamutasan-kobayashisan-seminar/"><![CDATA[<p><em><a href="#english">English follows below.</a></em></p>
 
 <h2 id="学習ダイナミクスへの物理学的アプローチ深層学習の理解に向けて">学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて</h2>
 <p>2026年12月3日（木）に国立国語研究所 @ 立川にて「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを開催します。
@@ -14,9 +14,9 @@
   <dt>📝 プログラム</dt>
   <dd>
     <ul>
-      <li>13:30–14:30 渡邉大師「べき則構造をもつデータに対する深層線形ネットワークの学習時間スケーリング則」（仮）
+      <li>13:30–14:30 渡邉大師「深層線形ネットワークで探る学習ダイナミクスの深さ依存性」
         <ul>
-          <li>概要：TBA</li>
+          <li>概要：深層線形ネットワークは、表現される写像は線形のままであるが、各層の重みに関する最適化問題は非凸となるモデルである。関数の表現能力とは独立に深さが学習に及ぼす影響を調べられることから、深層学習モデルの学習ダイナミクスを理解するための数理モデルとして広く研究されてきた。本発表では、まず深層線形ネットワークの古典的な解析を通して、異なるパターンが段階的に獲得される仕組みと、その深層学習への示唆を紹介する。続いて、べき則的なスペクトル構造をもつタスクを対象に学習時間に対する損失の減衰を解析し、タスクの難しさによっては、その減衰を特徴づけるスケーリング指数が深さに依存して改善されることを示した発表者の最近の研究を紹介する。</li>
         </ul>
       </li>
       <li>14:30–15:00 休憩</li>
@@ -56,11 +56,7 @@
   <dt>📝 Program</dt>
   <dd>
     <ul>
-      <li>13:30–14:30 Taishi Watanabe: “Training-Time Scaling Laws for Deep Linear Networks on Power-Law Data” (tentative)
-        <ul>
-          <li>Abstract: TBA</li>
-        </ul>
-      </li>
+      <li>13:30–14:30 Taishi Watanabe: “Depth Dependence of Learning Dynamics: Insights from Deep Linear Networks”</li>
       <li>14:30–15:00 Break</li>
       <li>15:00–16:00 Asahi Nakamuta: “Learning reshapes power-law anisotropy in internal representations”</li>
       <li>16:00–16:30 Break</li>
@@ -74,7 +70,7 @@
   <dt>How to Attend</dt>
   <dd>Those wishing to attend are kindly requested to register using the form below. Registration is Required.<br />
 <a href="https://forms.gle/af9YJH5hdgMhvoTx9">https://forms.gle/af9YJH5hdgMhvoTx9</a></dd>
-</dl>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[12月3日(木)に国語研数理セミナー #4「学習ダイナミクスへの物理学的アプローチ」を国語研 @立川で開催します。京大の渡邉大師さん、中牟田旭さん、小林秀太さんにご講演いただきます。]]></summary></entry><entry><title type="html">IBIS 2026 発表</title><link href="https://yokoi-lab.net/preview/pr-134/posts/ibis2026-presentations/" rel="alternate" type="text/html" title="IBIS 2026 発表" /><published>2026-10-26T00:00:00+00:00</published><updated>2026-10-26T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-134/posts/ibis2026-presentations</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-134/posts/ibis2026-presentations/"><![CDATA[<p>2026年10月26日（月）から29日（木）にかけてソニックシティ（埼玉）で開催される <a href="https://ibisml.org/ibis2026/">第29回情報論的学習理論ワークショップ (IBIS 2026)</a> にて、
+</dl>]]></content><author><name>Yokoi Lab</name></author><category term="Talk" /><summary type="html"><![CDATA[2026年12月3日(木)に国語研 @立川で国語研数理セミナー #4「学習ダイナミクスへの物理学的アプローチ」を開催します。京大の渡邉大師さん、中牟田旭さん、小林秀太さんにご講演いただきます。]]></summary></entry><entry><title type="html">IBIS 2026 発表</title><link href="https://yokoi-lab.net/preview/pr-134/posts/ibis2026-presentations/" rel="alternate" type="text/html" title="IBIS 2026 発表" /><published>2026-10-26T00:00:00+00:00</published><updated>2026-10-26T00:00:00+00:00</updated><id>https://yokoi-lab.net/preview/pr-134/posts/ibis2026-presentations</id><content type="html" xml:base="https://yokoi-lab.net/preview/pr-134/posts/ibis2026-presentations/"><![CDATA[<p>2026年10月26日（月）から29日（木）にかけてソニックシティ（埼玉）で開催される <a href="https://ibisml.org/ibis2026/">第29回情報論的学習理論ワークショップ (IBIS 2026)</a> にて、
 本研究室のメンバーが関わる以下2件の研究発表がおこなわれます。</p>
 
 <div>
