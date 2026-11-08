@@ -3,7 +3,7 @@ layout: splash
 title: "12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ<br>NINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics"
 seo_title: "国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ / NINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics"
 category: Talk
-excerpt: "2026年12月3日(木)に国語研 @立川で国語研数理セミナー #4「学習ダイナミクスへの物理学的アプローチ」を開催します。京大の渡邉大師さん、中牟田旭さん、小林秀太さんにご講演いただきます。"
+excerpt: "2026年12月3日(木)に国語研 @ 立川にて国語研数理セミナー #4「学習ダイナミクスへの物理学的アプローチ」を開催します。京大の渡邉大師さん、中牟田旭さん、小林秀太さんにご講演いただきます。"
 header:
   show_overlay_excerpt: false
   show_date: true 
