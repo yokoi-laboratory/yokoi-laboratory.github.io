@@ -12,7 +12,7 @@ header:
 
 *[English follows below.](#english)*
 
-## <span class="heading-kicker">国語研数理セミナー #4</span>学習ダイナミクスへの物理学的アプローチ<span class="heading-sub">深層学習の理解に向けて</span>
+## <span class="heading-kicker">国語研数理セミナー #4<span class="visually-hidden">　</span></span>学習ダイナミクスへの物理学的アプローチ<span class="heading-sub"><span class="visually-hidden">：</span>深層学習の理解に向けて</span> {#japanese}
 12月3日（木）に「学習ダイナミクスへの物理学的アプローチ：深層学習の理解に向けて」というセミナーを国立国語研究所 @ 立川にて開催します。
 リラックスした雰囲気で議論できればと思っていますので、ご関心のある方は、参加登録のうえぜひお気軽にご参加ください。
 
@@ -45,7 +45,7 @@ header:
 
 ---
 
-## <span class="heading-kicker">NINJAL Mathematical Sciences Seminar #4</span>Physics-Inspired Approaches to Learning Dynamics<span class="heading-sub">Toward an Understanding of Deep Learning</span> {#english}
+## <span class="heading-kicker">NINJAL Mathematical Sciences Seminar #4<span class="visually-hidden">: </span></span>Physics-Inspired Approaches to Learning Dynamics<span class="heading-sub"><span class="visually-hidden">: </span>Toward an Understanding of Deep Learning</span> {#english}
 
 {: .event-info}
 📅 Date and Time

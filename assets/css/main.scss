@@ -200,13 +200,19 @@ $h4-rule-overhang: 2em; // how far the fade extends past the text
   }
 }
 
-// h2 with a series name above and/or a subtitle below the title, e.g. a seminar post:
-// ## <span class="heading-kicker">国語研数理セミナー #4</span>Title<span class="heading-sub">Subtitle</span>
+// h2 with a series name above and/or a subtitle below the title, e.g. a seminar post (the visually-hidden separators
+// keep the parts apart where this CSS does not apply: feeds, reader mode, search snippets):
+// ## <span class="heading-kicker">Series #4<span class="visually-hidden">: </span></span>Title<span class="heading-sub"><span class="visually-hidden">: </span>Subtitle</span> {#some-id}
+// give it an explicit id: the GFM parser would build one from the raw markup, span tags included
 // line breaks in the title fall between phrases (word-break: auto-phrase; Chrome/Edge only, others ignore it)
 $heading-kicker-scale: 0.7;
 $heading-sub-scale: 0.75;
+$heading-stacked-line-height: 1.35; // the theme's 1.2 is cramped once a Japanese title wraps
+$heading-stacked-link-bottom: 0.5em; // = the theme's h2 padding-bottom
+$heading-stacked-link-space: 1.25em; // room kept at the right for the icon so a long subtitle does not run under it
 
 .page__content > h2:has(> .heading-kicker, > .heading-sub) {
+  line-height: $heading-stacked-line-height;
   word-break: auto-phrase;
   text-wrap: pretty;
 }
@@ -215,12 +221,27 @@ $heading-sub-scale: 0.75;
   margin-bottom: 0.45em;
   font-size: $heading-kicker-scale * 1em;
   font-weight: normal;
-  letter-spacing: 0.04em;
-  color: $muted-text-color;
 }
 .page__content > h2 > .heading-sub {
   display: block;
   margin-top: 0.4em;
   font-size: $heading-sub-scale * 1em;
   font-weight: normal;
+}
+// the permalink icon added by _main.js would otherwise sit on a line of its own below the subtitle
+.page__content > h2:has(> .heading-sub) {
+  position: relative;
+  padding-inline-end: $heading-stacked-link-space;
+}
+.page__content > h2 > .heading-sub ~ .header-link {
+  position: absolute;
+  inset-inline-start: auto;
+  inset-inline-end: 0;
+  bottom: $heading-stacked-link-bottom;
+}
+
+@media screen {
+  .page__content > h2 > .heading-kicker {
+    color: $muted-text-color;
+  }
 }
