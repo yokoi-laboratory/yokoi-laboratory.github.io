@@ -199,3 +199,28 @@ $h4-rule-overhang: 2em; // how far the fade extends past the text
     margin-top: 0.75em;
   }
 }
+
+// h2 with a series name above and/or a subtitle below the title, e.g. a seminar post:
+// ## <span class="heading-kicker">国語研数理セミナー #4</span>Title<span class="heading-sub">Subtitle</span>
+// line breaks in the title fall between phrases (word-break: auto-phrase; Chrome/Edge only, others ignore it)
+$heading-kicker-scale: 0.7;
+$heading-sub-scale: 0.75;
+
+.page__content > h2:has(> .heading-kicker, > .heading-sub) {
+  word-break: auto-phrase;
+  text-wrap: pretty;
+}
+.page__content > h2 > .heading-kicker {
+  display: block;
+  margin-bottom: 0.45em;
+  font-size: $heading-kicker-scale * 1em;
+  font-weight: normal;
+  letter-spacing: 0.04em;
+  color: $muted-text-color;
+}
+.page__content > h2 > .heading-sub {
+  display: block;
+  margin-top: 0.4em;
+  font-size: $heading-sub-scale * 1em;
+  font-weight: normal;
+}
