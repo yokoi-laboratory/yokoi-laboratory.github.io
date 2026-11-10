@@ -17,7 +17,7 @@ var store = [{
         "url": "/books/202511-book-Murphy1/",
         "teaser": null
       },{
-        "title": "確率的機械学習：入門編 II ―非線形モデル―",
+        "title": "『確率的機械学習：入門編 II ―非線形モデル―』",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/books/202511-book-murphy2/",
