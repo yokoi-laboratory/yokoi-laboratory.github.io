@@ -5,7 +5,7 @@ var store = [{
         "url": "/awards/2026-10-21-emnlp-outstanding-reviewer-kamoda/",
         "teaser": null
       },{
-        "title": "「言語の表現空間の形」,『数理科学』2025年10月号 No.748「データの幾何学と機械学習-データの「近さ」や「繋がり」を捉える-」特集号",
+        "title": "「言語の表現空間の形」,『数理科学』2025年10月号 No. 748「データの幾何学と機械学習-データの「近さ」や「繋がり」を捉える-」特集号",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/books/202510-article-mathscience/",
@@ -23,7 +23,7 @@ var store = [{
         "url": "/books/202511-book-murphy2/",
         "teaser": null
       },{
-        "title": "「言語の連続表現と最適輸送」,『システム/制御/情報』Vol. 70 No.9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号",
+        "title": "「言語の連続表現と最適輸送」,『システム/制御/情報』Vol. 70, No. 9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/books/202609-article-SCI/",
@@ -414,7 +414,7 @@ var store = [{
         "teaser": null
       },{
         "title": "学会誌「システム／制御／情報」寄稿",
-        "excerpt":"システム制御情報学会の学会誌「システム／制御／情報」に、横井先生の解説記事が掲載されました。                                 横井祥.   「言語の連続表現と最適輸送」,『システム/制御/情報』Vol. 70 No.9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号.  一般社団法人 システム制御情報学会, 2026.   URL                  -&gt; Publications  ","categories": ["News"],
+        "excerpt":"システム制御情報学会の学会誌「システム／制御／情報」に、横井先生の解説記事が掲載されました。                                 横井祥.   「言語の連続表現と最適輸送」,『システム/制御/情報』Vol. 70, No. 9「最適輸送理論の広がり—物理・制御・情報・生命をつなぐ数理」特集号.  一般社団法人 システム制御情報学会, 2026.   URL                  -&gt; Publications  ","categories": ["News"],
         "tags": [],
         "url": "/posts/article-SCI-publications/",
         "teaser": null
