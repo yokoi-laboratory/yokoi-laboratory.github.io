@@ -227,6 +227,12 @@ var store = [{
         "url": "/preview/pr-141/internationalConferences/202612-neurips-oka/",
         "teaser": null
       },{
+        "title": "Linear Representations of Hierarchical Concepts in Language Models",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/preview/pr-141/internationalConferences/202703-eacl-sakata/",
+        "teaser": null
+      },{
         "title": "Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -431,8 +437,8 @@ var store = [{
         "url": "/preview/pr-141/posts/ibis2026-presentations/",
         "teaser": null
       },{
-        "title": "Findings of EACL 2027 採択",
-        "excerpt":"本研究室のメンバーが関わる1件の論文が Findings of the Association for Computational Linguistics: EACL 2027 に採択されました。 Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, and Benjamin Heinzerling. Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics. In Findings of the Association for Computational Linguistics: EACL 2027 (to appear), March 2027. TBA,...","categories": ["News"],
+        "title": "EACL 2027 採択",
+        "excerpt":"自然言語処理の国際会議 The 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027) の本会議に1件、Findings に1件、計2件の本研究室のメンバーが関わる論文が採択されました。 Masaki Sakata, Takumi Ito, Sho Yokoi, Kentaro Inui, and Benjamin Heinzerling. Linear Representations of Hierarchical Concepts in Language Models. In Proceedings of the 20th Conference of the European Chapter of the Association...","categories": ["News"],
         "tags": [],
         "url": "/preview/pr-141/posts/eacl2027-publications/",
         "teaser": null
