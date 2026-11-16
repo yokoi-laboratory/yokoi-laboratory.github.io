@@ -227,6 +227,18 @@ var store = [{
         "url": "/internationalConferences/202612-neurips-oka/",
         "teaser": null
       },{
+        "title": "Linear Representations of Hierarchical Concepts in Language Models",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/internationalConferences/202703-eacl-sakata/",
+        "teaser": null
+      },{
+        "title": "Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/internationalConferences/202703-eacl-sasaki/",
+        "teaser": null
+      },{
         "title": "言語モデルの内部機序：解析と解釈",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -423,6 +435,12 @@ var store = [{
         "excerpt":"2026年10月26日（月）から29日（木）にかけてソニックシティ（埼玉）で開催される 第29回情報論的学習理論ワークショップ (IBIS 2026) にて、 本研究室のメンバーが関わる以下2件の研究発表がおこなわれます。                                石井太河,     赤穗昭太郎,     栗木哲,     横井祥.  言語の階層構造と情報圧縮.           ポスター発表,          第29回情報論的学習理論ワークショップ (IBIS 2026).          埼玉,     2026年10月.                               李宰成,     中石海,     唐木田亮,     横井祥.  タスク算術の成否をパラメータ空間の幾何構造から捉える.           ポスター発表,          第29回情報論的学習理論ワークショップ (IBIS 2026).          埼玉,     2026年10月.                       -&gt; Publications  ","categories": ["News"],
         "tags": [],
         "url": "/posts/ibis2026-presentations/",
+        "teaser": null
+      },{
+        "title": "EACL 2027 採択",
+        "excerpt":"自然言語処理の国際会議 The 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027) の本会議に1件、Findings に1件、計2件の本研究室のメンバーが関わる論文が採択されました。 Masaki Sakata, Takumi Ito, Sho Yokoi, Kentaro Inui, and Benjamin Heinzerling. Linear Representations of Hierarchical Concepts in Language Models. In Proceedings of the 20th Conference of the European Chapter of the Association...","categories": ["News"],
+        "tags": [],
+        "url": "/posts/eacl2027-publications/",
         "teaser": null
       },{
         "title": "12月3日(木) 国語研数理セミナー #4：学習ダイナミクスへの物理学的アプローチ<br>NINJAL Mathematical Sciences Seminar #4: Physics-Inspired Approaches to Learning Dynamics",
